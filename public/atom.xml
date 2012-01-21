@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-01-20T22:14:28-08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Test Blog]]></title>
+  <link href="http://dakry.com/atom.xml" rel="self"/>
+  <link href="http://dakry.com/"/>
+  <updated>2012-01-20T23:13:24-08:00</updated>
+  <id>http://dakry.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Zachary Zadell]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://dakry.com/blog/2012/01/20/first-post/"/>
+    <updated>2012-01-20T22:26:00-08:00</updated>
+    <id>http://dakry.com/blog/2012/01/20/first-post</id>
+    <content type="html"><![CDATA[<p>This is a new post. I am trying to use some text.</p>
+
+<p><img src="http://placekitten.com/890/280"></p>
+
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
+
+<p><img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" ></p>
+
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
+
+<p><img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #3" ></p>
+
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
+]]></content>
+  </entry>
   
 </feed>
