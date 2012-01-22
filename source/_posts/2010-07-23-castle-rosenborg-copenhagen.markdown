@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-07-23 17:06:06'
 layout: post
 slug: castle-rosenborg-copenhagen
@@ -11,8 +11,8 @@ categories:
 - travel
 ---
 
-[![DSC_0410.jpg](http://farm5.static.flickr.com/4081/4808082707_c3e2c3be7d_z.j
-pg)](http://www.flickr.com/photos/zacharyz/4808082707/) [Castle
+[![DSC_0410.jpg](http://farm5.static.flickr.com/4081/4808082707_c3e2c3be7d_b.jpg)](http://www.flickr.com/photos/zacharyz/4808082707/) [Castle
+
 Rosenborg](http://en.wikipedia.org/wiki/Rosenborg_Castle) is located in the
 center of Copenhagen. It is surrounded by a nice park, called The King's
 Garden, that people go to during the day for picnics and to relax.
@@ -21,10 +21,10 @@ As far as castles go, it is actually quite small and the real highlight is
 that the crown jewels reside here.
 
   
-[![DSC_0267.jpg](http://farm5.static.flickr.com/4134/4808766088_83175219e3_z.j
-pg)](http://www.flickr.com/photos/zacharyz/4808766088/) [![DSC_0265.jpg](http:
-//farm5.static.flickr.com/4119/4808767540_417220fa0e_z.jpg)](http://www.flickr
-.com/photos/zacharyz/4808767540/) Chi took us on a tour of this castle to give
+[![DSC_0267.jpg](http://farm5.static.flickr.com/4134/4808766088_83175219e3_b.jpg)](http://www.flickr.com/photos/zacharyz/4808766088/) 
+[![DSC_0265.jpg](http://farm5.static.flickr.com/4119/4808767540_417220fa0e_b.jpg)](http://www.flickr.com/photos/zacharyz/4808767540/) 
+
+Chi took us on a tour of this castle to give
 us a taste of Danish history. I purchased an additional pass that let me take
 pictures inside.
 

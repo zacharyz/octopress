@@ -41,14 +41,59 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+$noise-bg: image-url('noise.png') top left !default;
+$img-border: inline-image('dotted-border.png');
 
-$header-bg: #fff;
+$title-color: #fff !default;
+$subtitle-color: #aaa !default;
+
+$primary-color: #333;
+$header-bg: #000;
 
 // Main Section Colors
-$main-bg: #fff !default;
-$page-bg: #ddd !default;
+$main-bg: $primary-color !default;
+$page-bg: $primary-color !default;
 $article-border: #eeeeee !default;
 $title-color: #000 !default;
+$article-border: $primary-color !default;
+$img-border: none;
 
-$text-color: #222 !default;
+
+/* Navigation */
+$nav-bg: $primary-color  !default;
+//$nav-bg-front: image-url('noise.png') !default;
+//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11)) !default;
+
+$nav-color: lighten($nav-bg, 62) !default;
+//$nav-color: #fff;
+$nav-color-hover: lighten($nav-color, 75) !default;
+$nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
+$nav-border: darken($nav-bg, 10) !default;
+$nav-border-top: lighten($nav-bg, 15) !default;
+$nav-border-bottom: darken($nav-bg, 25) !default;
+$nav-border-left: darken($nav-bg, 11) !default;
+$nav-border-right: lighten($nav-bg, 7) !default;
+
+$footer-bg: $header-bg !default;
+
+$text-color: #fff !default;
 $text-color-light: #aaa !default;
+
+// Main Link Colors
+$link-color: lighten(#165b94, 3) !default;
+$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
+
+$sidebar-bg: $primary-color !default;
+$sidebar-link-color: $link-color !default;
+$sidebar-link-color-hover: $link-color-hover !default;
+$sidebar-link-color-active: $link-color-active !default;
+$sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2) !default;
+$sidebar-border: desaturate(darken($sidebar-bg, 7), 10) !default;
+$sidebar-border-hover: darken($sidebar-bg, 7) !default;
+$sidebar-link-color-subdued: lighten($sidebar-color, 20) !default;
+$sidebar-link-color-subdued-hover: $sidebar-link-color-hover !default;
+$twitter-status-link: lighten($sidebar-link-color-subdued, 15) !default;
+

@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-07-13 00:05:54'
 layout: post
 slug: lightning-over-copenhagen
@@ -11,6 +11,4 @@ categories:
 - travel
 ---
 
-[![Lightning Over Copenhagen](http://farm5.static.flickr.com/4137/4788699075_9
-d7e40fc81_z.jpg)](http://www.flickr.com/photos/zacharyz/4788699075/)
-
+[![Lightning Over Copenhagen](http://farm5.static.flickr.com/4137/4788699075_9d7e40fc81_b.jpg)](http://www.flickr.com/photos/zacharyz/4788699075/)
