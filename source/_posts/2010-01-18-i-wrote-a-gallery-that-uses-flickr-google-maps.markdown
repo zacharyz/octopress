@@ -6,6 +6,7 @@ slug: i-wrote-a-gallery-that-uses-flickr-google-maps
 status: publish
 title: I wrote a Gallery that uses Flickr + Google Maps
 wordpress_id: '377'
+published: false
 categories:
 - technology
 ---

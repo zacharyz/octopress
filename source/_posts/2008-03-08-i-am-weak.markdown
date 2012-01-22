@@ -6,6 +6,7 @@ slug: i-am-weak
 status: private
 title: I am weak
 wordpress_id: '47'
+published: false
 categories:
 - photography
 ---

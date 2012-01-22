@@ -6,6 +6,7 @@ slug: new-phone-and-plan
 status: private
 title: new phone and plan
 wordpress_id: '25'
+published: false
 categories:
 - technology
 ---

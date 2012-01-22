@@ -6,6 +6,7 @@ slug: goals-for-2010
 status: publish
 title: Seven Goals for 2010
 wordpress_id: '288'
+published: false
 categories:
 - lifestyle design
 ---

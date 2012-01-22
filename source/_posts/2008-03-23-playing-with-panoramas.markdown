@@ -6,6 +6,7 @@ slug: playing-with-panoramas
 status: publish
 title: Oahu Panoramas
 wordpress_id: '48'
+published: false
 categories:
 - photography
 tags:

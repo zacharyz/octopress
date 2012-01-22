@@ -6,6 +6,7 @@ slug: great-exposure-blending-tutorial
 status: publish
 title: Great Exposure Blending Tutorial
 wordpress_id: '117'
+published: false
 categories:
 - photography
 ---

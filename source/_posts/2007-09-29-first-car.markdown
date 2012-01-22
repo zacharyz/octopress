@@ -5,6 +5,7 @@ layout: post
 slug: first-car
 status: private
 title: First Car
+published: false
 wordpress_id: '38'
 ---
 

@@ -6,6 +6,7 @@ slug: consider-me-a-convert
 status: private
 title: Consider Me a Convert
 wordpress_id: '50'
+published: false
 categories:
 - tennis
 tags:

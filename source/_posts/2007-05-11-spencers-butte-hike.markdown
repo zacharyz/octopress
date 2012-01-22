@@ -6,6 +6,7 @@ slug: spencers-butte-hike
 status: private
 title: Spencer's Butte Hike
 wordpress_id: '13'
+published: false
 categories:
 - outdoors
 - photography

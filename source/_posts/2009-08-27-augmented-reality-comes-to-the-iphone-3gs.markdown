@@ -6,6 +6,7 @@ slug: augmented-reality-comes-to-the-iphone-3gs
 status: publish
 title: Augmented Reality Comes to the iPhone 3GS
 wordpress_id: '142'
+published: false
 categories:
 - technology
 ---

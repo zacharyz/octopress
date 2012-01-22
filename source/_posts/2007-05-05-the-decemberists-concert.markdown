@@ -6,6 +6,7 @@ slug: the-decemberists-concert
 status: private
 title: The Decemberists Concert
 wordpress_id: '8'
+published: false
 categories:
 - music
 ---

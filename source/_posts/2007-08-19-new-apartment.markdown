@@ -6,11 +6,12 @@ slug: new-apartment
 status: private
 title: New Apartment
 wordpress_id: '30'
+published: false
 categories:
 - Apartment Living
 ---
 
-My buddies Sam and Brett helped me move into my new place yesterday.Ã‚Â  It
+My buddies Sam and Brett helped me move into my new place yesterday. It
 was such a good feeling walking away from that old apartment, which was a such
 a huge dump. I refused to do any cleaning to the place beyond picking up my
 trash, so good luck trying to clean that place Bell.

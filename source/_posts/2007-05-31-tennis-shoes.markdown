@@ -6,6 +6,7 @@ slug: tennis-shoes
 status: private
 title: tennis shoes
 wordpress_id: '20'
+published: false
 categories:
 - tennis
 ---

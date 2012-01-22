@@ -6,6 +6,7 @@ slug: vacation-review
 status: private
 title: vacation review
 wordpress_id: '40'
+published: false
 categories:
 - outdoors
 - photography

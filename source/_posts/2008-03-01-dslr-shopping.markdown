@@ -6,6 +6,7 @@ slug: dslr-shopping
 status: private
 title: DSLR shopping
 wordpress_id: '45'
+published: false
 categories:
 - photography
 ---

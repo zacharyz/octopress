@@ -5,6 +5,7 @@ layout: post
 slug: an-analysis-of-the-popular-cameras-on-flickr
 status: private
 title: An Analysis of the Popular Cameras on Flickr
+published: false
 wordpress_id: '85'
 categories:
 - photography

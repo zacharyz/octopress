@@ -6,6 +6,7 @@ slug: canon-s5-is
 status: private
 title: Canon S5 IS
 wordpress_id: '10'
+published: false
 categories:
 - photography
 ---

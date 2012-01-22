@@ -6,6 +6,7 @@ slug: pdanet-rocks
 status: private
 title: pdanet rocks
 wordpress_id: '29'
+published: false
 categories:
 - technology
 ---

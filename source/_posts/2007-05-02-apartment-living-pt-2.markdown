@@ -6,6 +6,7 @@ slug: apartment-living-pt-2
 status: private
 title: Apartment Living pt 2
 wordpress_id: '6'
+published: false
 categories:
 - Apartment Living
 ---

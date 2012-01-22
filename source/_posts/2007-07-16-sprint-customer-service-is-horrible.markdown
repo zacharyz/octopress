@@ -6,6 +6,7 @@ slug: sprint-customer-service-is-horrible
 status: private
 title: Sprint Customer Service is Horrible
 wordpress_id: '27'
+published: false
 categories:
 - technology
 ---

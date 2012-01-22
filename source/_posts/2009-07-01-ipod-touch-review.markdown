@@ -6,6 +6,7 @@ slug: ipod-touch-review
 status: publish
 title: Goodbye Ipod Touch (a review)
 wordpress_id: '64'
+published: false
 categories:
 - technology
 ---

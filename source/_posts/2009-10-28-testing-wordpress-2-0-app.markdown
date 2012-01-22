@@ -6,6 +6,7 @@ slug: testing-wordpress-2-0-app
 status: private
 title: Testing Wordpress 2.0 app
 wordpress_id: '273'
+published: false
 categories:
 - technology
 ---

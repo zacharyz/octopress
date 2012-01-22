@@ -6,6 +6,7 @@ slug: bye-bye-bell
 status: private
 title: Bye Bye Bell
 wordpress_id: '28'
+published: false
 categories:
 - Apartment Living
 ---

@@ -6,6 +6,7 @@ slug: fourth-of-july-fireworks
 status: private
 title: Fourth of July Fireworks
 wordpress_id: '26'
+published: false
 categories:
 - outdoors
 - photography
