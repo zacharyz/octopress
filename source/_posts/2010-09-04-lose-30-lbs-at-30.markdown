@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-09-04 04:54:00'
 layout: post
 slug: lose-30-lbs-at-30
@@ -10,9 +10,7 @@ categories:
 - fitness
 ---
 
-[![](http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09
-/pinkshirt-250x300.jpg)](http://thirtyatthirty.zadell.com/wordpress/wp-
-content/uploads/2010/09/pinkshirt.jpg)
+[![](http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt-250x300.jpg)](http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt.jpg)
 
 I turned 30 last month.
 

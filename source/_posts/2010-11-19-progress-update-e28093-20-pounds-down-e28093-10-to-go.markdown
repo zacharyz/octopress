@@ -6,13 +6,14 @@ slug: progress-update-%e2%80%93-20-pounds-down-%e2%80%93-10-to-go
 status: publish
 title: Progress Update – 20 pounds down – 10 to go.
 wordpress_id: '4217'
+published: false
 categories:
 - fitness
 - progress update
 ---
 
-![20 down - 10 to
-go](http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_z.jpg)
+![20 down - 10 to go](http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_z.jpg)
+
 
 Those last 10 pounds took quite a bit longer than the first. Because of this I
 almost feel like I have lost some perspective on how big a change it was for

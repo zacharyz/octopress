@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2011-01-17 23:17:03'
 layout: post
 slug: north-shore-at-sunset
@@ -11,6 +11,5 @@ categories:
 - travel
 ---
 
-[![North Shore at Sunset](http://farm6.static.flickr.com/5122/5334994830_cce08
-6841b_z.jpg)](http://www.flickr.com/photos/zacharyz/5334994830/)
+[![North Shore at Sunset](http://farm6.static.flickr.com/5122/5334994830_cce086841b_b.jpg)](http://www.flickr.com/photos/zacharyz/5334994830/)
 

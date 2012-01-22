@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary 
 date: '2011-06-07 17:44:46'
 layout: post
 slug: summiting-mount-hood

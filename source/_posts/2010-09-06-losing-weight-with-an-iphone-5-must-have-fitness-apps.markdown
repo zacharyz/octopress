@@ -6,6 +6,7 @@ slug: losing-weight-with-an-iphone-5-must-have-fitness-apps
 status: private
 title: Losing Weight with an iPhone - 5 Must Have Fitness Apps
 wordpress_id: '46'
+published: false
 categories:
 - fitness
 - technology

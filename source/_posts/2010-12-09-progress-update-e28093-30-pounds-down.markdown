@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-12-09 19:59:08'
 layout: post
 slug: progress-update-%e2%80%93-30-pounds-down
@@ -11,9 +11,9 @@ categories:
 - progress update
 ---
 
-![](http://30at30.zadell.com/wordpress/wp-
-content/uploads/2010/12/30pounds.jpg)
-![159.8](http://farm6.static.flickr.com/5163/5247320766_bb6be9ff9e.jpg)
+{% img left http://30at30.zadell.com/wordpress/wp-content/uploads/2010/12/30pounds.jpg %}
+
+{% img left http://farm6.static.flickr.com/5163/5247320766_bb6be9ff9e.jpg %}
 
 I was actually confused this morning when I looked at my scale. I was
 expecting to see 161 or 162 and hadn't expected to lose that last pound for
@@ -23,12 +23,8 @@ getting ever closer to the end of the year. This made me think more and more
 than it was unreasonable to lose 30 pounds in the time frame I wanted.
 
 This past week I have had only one thing in mind with regards to my diet - eat
-whatever I wanted to as long as I was under budget. The last few pictures that
-I have posted have been of [Swedish Hash](http://zadell.com/2010/12/06
-/breakfast-at-broder/), [Danish Pancakes](http://zadell.com/2010/12/06
-/breakfast-at-broder/), [Pho](http://zadell.com/2010/12/06/pho-dalat/) and a
-[Panini](http://zadell.com/2010/12/08/rocking-frog-cafe/). Loseit lists ice-
-cream as one of my favorite foods. This shows me that a large part of losing
+whatever I wanted to as long as I was under budget.
+Loseit lists ice-cream as one of my favorite foods. This shows me that a large part of losing
 weight is really about managing _how much_ you eat.
 
 For the first few months I ran and exercised like a mad man, which made me

@@ -13,8 +13,7 @@ categories:
 - travel
 ---
 
-[![Copenhagen Train Station Panorama](http://farm6.static.flickr.com/5178/5518
-490687_0bec7878d0_z.jpg)](http://www.flickr.com/photos/zacharyz/5518490687/)
+[![Copenhagen Train Station Panorama](http://farm6.static.flickr.com/5178/5518490687_0bec7878d0_b.jpg)](http://www.flickr.com/photos/zacharyz/5518490687/)
 
 I am spending a month working in Copenhagen.
 
@@ -41,8 +40,7 @@ quality but it is a perk that I definitely appreciate and don't get to take
 advantage of because I work remotely. There is just enough variety that I
 don't have to deviate from my diet.
 
-[![Unity lunch](http://farm6.static.flickr.com/5140/5514732854_4ce4d6fee6_z.jp
-g)](http://www.flickr.com/photos/zacharyz/5514732854/)
+[![Unity lunch](http://farm6.static.flickr.com/5140/5514732854_4ce4d6fee6_b.jpg)](http://www.flickr.com/photos/zacharyz/5514732854/)
 
 I plan to spend my first weekend here decompressing from a busy but productive
 week of work by mostly reading on my kindle. The weather is going to be decent

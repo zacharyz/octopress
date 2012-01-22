@@ -14,8 +14,7 @@ tags:
 - zurich
 ---
 
-[![zurich pano](http://farm5.static.flickr.com/4097/4866930574_8cda6fe383_z.jp
-g)](http://www.flickr.com/photos/zacharyz/4866930574/)
+[![zurich pano](http://farm5.static.flickr.com/4097/4866930574_8cda6fe383_b.jpg)](http://www.flickr.com/photos/zacharyz/4866930574/)
 
 Towards the end of our stay in Zurich Switzerland we decided that we wanted to
 find a good view of the city. The local city information guide recommended
@@ -30,8 +29,7 @@ where we might find the view that the guide had referred to. He didn't speak a
 bit of English but after a few silly gestures from myself - a huge smile
 formed on a his face and he knew exactly what we were looking for.
 
-[![Zurich](http://farm5.static.flickr.com/4079/4866237215_777ed3e365_z.jpg)](h
-ttp://www.flickr.com/photos/zacharyz/4866237215/)
+[![Zurich](http://farm5.static.flickr.com/4079/4866237215_777ed3e365_b.jpg)](http://www.flickr.com/photos/zacharyz/4866237215/)
 
 A short walk past a simply amazing field of sunflowers revealed a spectacular
 view of the city. From there we could see the Alps in the distance as well as

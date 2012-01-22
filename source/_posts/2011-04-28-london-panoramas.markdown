@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary 
 date: '2011-04-28 17:41:38'
 layout: post
 slug: london-panoramas
@@ -14,11 +14,9 @@ tags:
 - panoramas
 ---
 
-[![london bridge pano](http://farm6.static.flickr.com/5269/5565645881_56829923
-dd_z.jpg)](http://www.flickr.com/photos/zacharyz/5565645881/)
+[![london bridge pano](http://farm6.static.flickr.com/5269/5565645881_56829923dd_b.jpg)](http://www.flickr.com/photos/zacharyz/5565645881/)
 
-If you haven't noticed - [I love
-panoramas.](http://zaczadell.com/tag/panoramas/) I think they do a fantastic
+If you haven't noticed - [I love panoramas.](http://zaczadell.com/tag/panoramas/) I think they do a fantastic
 job of capturing the feel of a location much better than any single picture
 could and they aren't all that difficult to produce. Here is a quick tutorial
 on the methods that I use to take awesome travel panoramas.
@@ -63,12 +61,13 @@ both above and below the shots that make up your panorama. This will allow you
 to take in some of the sky and ground. So instead of 3 shots you will end up
 taking around 9. Autostich is a champ at combining everything together.
 
-[![london eye](http://farm6.static.flickr.com/5225/5565642185_9bc61d33e7_z.jpg
+[![london eye](http://farm6.static.flickr.com/5225/5565642185_9bc61d33e7_b.jpg
 )](http://www.flickr.com/photos/zacharyz/5565642185/) [![Tralafagar Square Pan
-orama](http://farm6.static.flickr.com/5293/5586210202_193784efea_z.jpg)](http:
-//www.flickr.com/photos/zacharyz/5586210202/) [![Saint Peters Cathedral](http:
-//farm6.static.flickr.com/5253/5566228732_2d085237bb_z.jpg)](http://www.flickr
-.com/photos/zacharyz/5566228732/) You can also use the same method to take
+orama](http://farm6.static.flickr.com/5293/5586210202_193784efea_b.jpg)](http:
+//www.flickr.com/photos/zacharyz/5586210202/)
+[{% img center http://farm6.static.flickr.com/5253/5566228732_2d085237bb_b.jpg Saint Peters Cathedral %}](http://www.flickr.com/photos/zacharyz/5566228732/)
+ 
+You can also use the same method to take
 vertical shots aka vertoramas. This picture of Saint Peters Cathedral is made
 up of 3 images taken while panning vertically. Despite having a very wide
 angle lens (10mm) there is no other way I could have captured the entire

@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2011-01-11 02:03:08'
 layout: post
 slug: waikiki
@@ -14,6 +14,6 @@ tags:
 - panoramas
 ---
 
-[![Waikiki](http://farm6.static.flickr.com/5167/5348539632_da1ea9b867_z.jpg)](
-http://www.flickr.com/photos/zacharyz/5348539632/)
+[![Waikiki](http://farm6.static.flickr.com/5167/5348539632_da1ea9b867_b.jpg)](http://www.flickr.com/photos/zacharyz/5348539632/)
+
 

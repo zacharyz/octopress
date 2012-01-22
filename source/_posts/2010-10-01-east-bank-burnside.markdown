@@ -10,6 +10,4 @@ categories:
 - photography
 ---
 
-[![East Bank Burnside](http://farm5.static.flickr.com/4126/5042635323_9a7d788a
-07_z.jpg)](http://www.flickr.com/photos/zacharyz/5042635323/)
-
+[![East Bank Burnside](http://farm5.static.flickr.com/4126/5042635323_9a7d788a07_b.jpg)](http://www.flickr.com/photos/zacharyz/5042635323/)
