@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-09-27 02:56:41'
 layout: post
 slug: learning-to-run-again-with-vibram-five-fingers
@@ -15,8 +15,7 @@ tags:
 - vibram-five-fingers
 ---
 
-[![Vibram Fivefingers KSO Trek](http://farm5.static.flickr.com/4079/4997164722
-_061f7d95a8_z.jpg)](http://www.flickr.com/photos/zacharyz/4997164722/)
+{% img http://farm5.staticflickr.com/4079/4997164722_061f7d95a8_b.jpg Vibram Fivefingers KSO Trek %}
 
 When I was in high-school I used to run on the cross-country team. It was a
 way for me to train in the off seasons between baseball and wrestling.
@@ -30,9 +29,9 @@ finish it. I simply put one foot in front of the other and kept pace with a
 buddy until I could see the finish line - then I would sprint across it like a
 mad man and puke my guts out.
 
-![cross country with
-michael](http://farm4.static.flickr.com/3291/3015371980_6874e1ab49.jpg) I kept
-it up a little bit in college but over the years simply gave up on it. I think
+{% img left http://farm4.static.flickr.com/3291/3015371980_6874e1ab49.jpg Cross Country with Michael %}
+
+I kept it up a little bit in college but over the years simply gave up on it. I think
 around 5 years ago I was still able to run at an 8 minute mile pace.
 Eventually though my knee began to hurt when I ran. Without a doubt my pains
 are a result of years of playing tennis aggressively. There was a point when I
@@ -89,8 +88,7 @@ average VFF has wild colors that I think most VFF enthusiasts appreciate
 because they love the attention that they bring. I just wanted to be able to
 run pain free.
 
-![run week progress
-916-925](http://farm5.static.flickr.com/4153/5029224752_a4d697649d.jpg)
+{% img right http://farm5.static.flickr.com/4153/5029224752_a4d697649d.jpg %}
 
 It has been about 10 days since I got my pair of VFF. During that time I have
 logged 21 miles and ran more consistently than I have ever before - or been

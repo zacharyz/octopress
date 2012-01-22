@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: music | Test Blog]]></title>
-  <link href="http://dakry.com/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://dakry.com/"/>
-  <updated>2012-01-22T00:16:32-08:00</updated>
-  <id>http://dakry.com/</id>
+  <link href="http://zadell.com/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://zadell.com/"/>
+  <updated>2012-01-22T00:31:19-08:00</updated>
+  <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why Grado Labs Deserves Your Money]]></title>
-    <link href="http://dakry.com/blog/2009/07/22/why-grado-labs-deserves-your-money/"/>
+    <link href="http://zadell.com/2009/07/22/why-grado-labs-deserves-your-money/"/>
     <updated>2009-07-22T14:55:02-07:00</updated>
-    <id>http://dakry.com/blog/2009/07/22/why-grado-labs-deserves-your-money</id>
+    <id>http://zadell.com/2009/07/22/why-grado-labs-deserves-your-money</id>
     <content type="html"><![CDATA[<p>Back in about 2003 I was really getting into listening to music. I was tired
 of lame computer speakers and my gameboy headphones from 1989 were no longer
 cutting it. To satisfy my desire to have clear, quality audio I got a pair of

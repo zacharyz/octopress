@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Test Blog]]></title>
-  <link href="http://dakry.com/atom.xml" rel="self"/>
-  <link href="http://dakry.com/"/>
-  <updated>2012-01-22T00:16:32-08:00</updated>
-  <id>http://dakry.com/</id>
+  <link href="http://zadell.com/atom.xml" rel="self"/>
+  <link href="http://zadell.com/"/>
+  <updated>2012-01-22T00:31:19-08:00</updated>
+  <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mount Rainier]]></title>
-    <link href="http://dakry.com/blog/2011/08/24/mount-rainier/"/>
+    <link href="http://zadell.com/2011/08/24/mount-rainier/"/>
     <updated>2011-08-24T16:32:23-07:00</updated>
-    <id>http://dakry.com/blog/2011/08/24/mount-rainier</id>
+    <id>http://zadell.com/2011/08/24/mount-rainier</id>
     <content type="html"><![CDATA[<p><img src="http://farm7.staticflickr.com/6062/6070827576_18a973e840_b_d.jpg" title="Little Tahoma at Sunrise" ></p>
 
 <h2>You In?</h2>
@@ -147,9 +147,9 @@ and video from the trip can be found at on my <a href="http://www.flickr.com/pho
   
   <entry>
     <title type="html"><![CDATA[Getting Back on the Wagon]]></title>
-    <link href="http://dakry.com/blog/2011/07/05/getting-back-on-the-wagon/"/>
+    <link href="http://zadell.com/2011/07/05/getting-back-on-the-wagon/"/>
     <updated>2011-07-05T16:34:51-07:00</updated>
-    <id>http://dakry.com/blog/2011/07/05/getting-back-on-the-wagon</id>
+    <id>http://zadell.com/2011/07/05/getting-back-on-the-wagon</id>
     <content type="html"><![CDATA[<p>Last year I accomplished a huge goal by <a href="http://zadell.com/2010/progress-update-%E2%80%93-30-pounds-down/">losing 30 lbs in about 3
 months</a>.
 Then I followed it up by losing an additional 5 pounds which brought me to my
@@ -202,11 +202,12 @@ friends who can then share in your success when you do reach your goals.</p>
   
   <entry>
     <title type="html"><![CDATA[Hood Panorama]]></title>
-    <link href="http://dakry.com/blog/2011/06/17/hood-panorama/"/>
+    <link href="http://zadell.com/2011/06/17/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
-    <id>http://dakry.com/blog/2011/06/17/hood-panorama</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5800883949/"><img src="http://farm4.static.flickr.com/3183/5800883949_5b1%0A4859e7d_z.jpg" alt="Rock Formation Panorama" /></a> This is a
-panorama made up of about 11 overlapping shots. I took it as I was making my
+    <id>http://zadell.com/2011/06/17/hood-panorama</id>
+    <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg"></p>
+
+<p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn&#8217;t until I was making the journey down that I
 really had an appreciation for just how beastly a journey it had been (8 hours
 to the top for me).</p>
@@ -218,9 +219,9 @@ are other hikers making the same journey that I had made.</p>
   
   <entry>
     <title type="html"><![CDATA[Summiting Mount Hood]]></title>
-    <link href="http://dakry.com/blog/2011/06/07/summiting-mount-hood/"/>
+    <link href="http://zadell.com/2011/06/07/summiting-mount-hood/"/>
     <updated>2011-06-07T17:44:46-07:00</updated>
-    <id>http://dakry.com/blog/2011/06/07/summiting-mount-hood</id>
+    <id>http://zadell.com/2011/06/07/summiting-mount-hood</id>
     <content type="html"><![CDATA[<p><img src="http://farm6.staticflickr.com/5316/5801412964_e30f23d3ce_b.jpg" title="Road to the Pearly Gates Panorama" ></p>
 
 <p>Whenever I cross the Morrison bridge on a clear day in Portland one particular
@@ -341,18 +342,18 @@ honestly enjoyed every bit of it.</p>
   
   <entry>
     <title type="html"><![CDATA[View from Mount Tabor]]></title>
-    <link href="http://dakry.com/blog/2011/06/02/view-from-mount-tabor/"/>
+    <link href="http://zadell.com/2011/06/02/view-from-mount-tabor/"/>
     <updated>2011-06-02T21:33:04-07:00</updated>
-    <id>http://dakry.com/blog/2011/06/02/view-from-mount-tabor</id>
+    <id>http://zadell.com/2011/06/02/view-from-mount-tabor</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5791807543/"><img src="http://farm6.static.flickr.com/5264/5791807543_86708%0Ad9582_z.jpg" alt="View from Mount Tabor" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[London - Panoramas]]></title>
-    <link href="http://dakry.com/blog/2011/04/28/london-panoramas/"/>
+    <link href="http://zadell.com/2011/04/28/london-panoramas/"/>
     <updated>2011-04-28T17:41:38-07:00</updated>
-    <id>http://dakry.com/blog/2011/04/28/london-panoramas</id>
+    <id>http://zadell.com/2011/04/28/london-panoramas</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5565645881/"><img src="http://farm6.static.flickr.com/5269/5565645881_56829923%0Add_z.jpg" alt="london bridge pano" /></a></p>
 
 <p>If you haven&#8217;t noticed - <a href="http://zaczadell.com/tag/panoramas/">I love
@@ -411,9 +412,9 @@ you started in taking awesome travel panoramas yourself.</p>
   
   <entry>
     <title type="html"><![CDATA[Paris - The Eiffel Tower Before the Storm]]></title>
-    <link href="http://dakry.com/blog/2011/04/25/paris-the-eiffel-tower/"/>
+    <link href="http://zadell.com/2011/04/25/paris-the-eiffel-tower/"/>
     <updated>2011-04-25T21:05:46-07:00</updated>
-    <id>http://dakry.com/blog/2011/04/25/paris-the-eiffel-tower</id>
+    <id>http://zadell.com/2011/04/25/paris-the-eiffel-tower</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564207887/"><img src="http://farm6.static.flickr.com/5229/55642078%0A87_549fde6b4d_b.jpg" alt="Eiffel Tower Before the Storm" /></a></p>
 
 <p>The weather in Paris didn&#8217;t quite work out for me. I had planned on spending
@@ -449,9 +450,9 @@ on me.</p>
   
   <entry>
     <title type="html"><![CDATA[Paris – Exploring the Lourve pt 2]]></title>
-    <link href="http://dakry.com/blog/2011/04/24/paris-exploring-the-lourve-pt-2/"/>
+    <link href="http://zadell.com/2011/04/24/paris-exploring-the-lourve-pt-2/"/>
     <updated>2011-04-24T16:25:57-07:00</updated>
-    <id>http://dakry.com/blog/2011/04/24/paris-exploring-the-lourve-pt-2</id>
+    <id>http://zadell.com/2011/04/24/paris-exploring-the-lourve-pt-2</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564734154/"><img src="http://farm6.static.flickr.com/5135/5564734154_7589b%0Aba1c9_b.jpg" alt="Victory of Samothrace" /></a> <a href="http://www.flickr.com/photos/zacharyz/5564163905/"><img src="http://farm6.static.flickr.com/5255/5564163905_c53f45d4c0_z.jp%0Ag" alt="Woo it is
 the Mona Lisa!" /></a> <a href="http://www.%0Aflickr.com/photos/zacharyz/5564167825/">![Mona Lisa up Close!]
 (http://farm6.static.flickr.com/5021/5564167825_55a61cd9fb_b.jpg)</a> <a href="http://www.flickr%0A.com/photos/zacharyz/5564746560/"><img src="http:%0A//farm6.static.flickr.com/5091/5564746560_7dea942950_z.jpg" alt="This Crowd Does Not Amuse Me" /></a> <a href="http://www.flickr.com/photos/z%0Aacharyz/5564730904/"><img src="http://farm6.stati%0Ac.flickr.com/5221/5564730904_8042fed0c1_z.jpg" alt="Statues at the Louvre" /></a> <a href="http://www.flickr.com/photos/zacharyz/556475498%0A4/"><img src="http://farm6.static.flickr.com/5098%0A/5564754984_0a91bfbb88_z.jpg" alt="Inside the Louvre" /></a> <a href="http://www.flickr.com/photos/zacharyz/5564758656/"><img src="http://farm6.static.flickr.com/5306/5564758656_f9f5b%0A7b963_z.jpg" alt="Inside the Louvre" /></a> <a href="http://%0Awww.flickr.com/photos/zacharyz/5564766830/"><img src="http://farm6.static.flickr.com/5146/5564766830_19a2ff56ca_b.jpg" alt="Venus de M
@@ -461,9 +462,9 @@ ilo" /></a></p>
   
   <entry>
     <title type="html"><![CDATA[Paris - Exploring the Lourve pt 1]]></title>
-    <link href="http://dakry.com/blog/2011/04/02/paris-exploring-the-lourve-pt-1/"/>
+    <link href="http://zadell.com/2011/04/02/paris-exploring-the-lourve-pt-1/"/>
     <updated>2011-04-02T12:28:13-07:00</updated>
-    <id>http://dakry.com/blog/2011/04/02/paris-exploring-the-lourve-pt-1</id>
+    <id>http://zadell.com/2011/04/02/paris-exploring-the-lourve-pt-1</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564142213/"><img src="http://farm6.static.flickr.com/5253/5564142213_caa828d%0A762_z.jpg" alt="The Louvre Panorama" /></a> <a href="http://www.flickr.com/photos/zacharyz/556%0A4720516/"><img src="http://farm6.static.flickr.co%0Am/5138/5564720516_75dcc8fb18_z.jpg" alt="How do you
 get a good picture of yourself while traveling?" /></a> <a href="http://www.flickr.com/photos/zacharyz/556477%0A1994/"><img src="http://farm6.static.flickr.com/5%0A172/5564771994_ed4e32c2d3_z.jpg" alt="Everyone was else was doing it!" /></a> <a href="http://www.flickr.com/photos/zacharyz/5564723118/"><img src="http://farm6.static.flickr.com/5227/5564723118_bd%0A794dcbdd_z.jpg" alt="Inside the Louvre" /></a></p>
 ]]></content>
@@ -471,36 +472,36 @@ get a good picture of yourself while traveling?" /></a> <a href="http://www.flic
   
   <entry>
     <title type="html"><![CDATA[London - Wellington Arch Traffic]]></title>
-    <link href="http://dakry.com/blog/2011/04/01/london-wellington-arch-traffic/"/>
+    <link href="http://zadell.com/2011/04/01/london-wellington-arch-traffic/"/>
     <updated>2011-04-01T08:25:24-07:00</updated>
-    <id>http://dakry.com/blog/2011/04/01/london-wellington-arch-traffic</id>
+    <id>http://zadell.com/2011/04/01/london-wellington-arch-traffic</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5566240852/"><img src="http://farm6.static.flickr.com/5051/5566240852_d%0A196da151e_z.jpg" alt="wellington taffic reverse" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[London - In the Evening]]></title>
-    <link href="http://dakry.com/blog/2011/03/29/london-in-the-evening/"/>
+    <link href="http://zadell.com/2011/03/29/london-in-the-evening/"/>
     <updated>2011-03-29T03:27:13-07:00</updated>
-    <id>http://dakry.com/blog/2011/03/29/london-in-the-evening</id>
+    <id>http://zadell.com/2011/03/29/london-in-the-evening</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5566233244/"><img src="http://farm6.static.flickr.com/5135/5566233244_bcc1e%0Adf983_z.jpg" alt="London in the Evening" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[London - Playing in Traffic]]></title>
-    <link href="http://dakry.com/blog/2011/03/27/playing-in-traffic/"/>
+    <link href="http://zadell.com/2011/03/27/playing-in-traffic/"/>
     <updated>2011-03-27T19:07:50-07:00</updated>
-    <id>http://dakry.com/blog/2011/03/27/playing-in-traffic</id>
+    <id>http://zadell.com/2011/03/27/playing-in-traffic</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5566274994/"><img src="http://farm6.static.flickr.com/5264/5565770857_e%0A7c6271234_o.jpg" alt="playing in london traffic" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[London - Wellington Arch and the Super Moon]]></title>
-    <link href="http://dakry.com/blog/2011/03/24/london-wellington-arch-and-the-super-moon/"/>
+    <link href="http://zadell.com/2011/03/24/london-wellington-arch-and-the-super-moon/"/>
     <updated>2011-03-24T12:06:23-07:00</updated>
-    <id>http://dakry.com/blog/2011/03/24/london-wellington-arch-and-the-super-moon</id>
+    <id>http://zadell.com/2011/03/24/london-wellington-arch-and-the-super-moon</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5544942228/"><img src="http://farm6.static.flickr.com/5131/5544942%0A228_9e62fc1c4c_z.jpg" alt="Wellington Arch with Full Moon" /></a></p>
 
 <p>This picture represents a special memory for me. Not only was it an absolute
@@ -519,9 +520,9 @@ first for me. Thanks for viewing!</p>
   
   <entry>
     <title type="html"><![CDATA[London - Trafalgar Square at Night]]></title>
-    <link href="http://dakry.com/blog/2011/03/21/london-trafalgar-square/"/>
+    <link href="http://zadell.com/2011/03/21/london-trafalgar-square/"/>
     <updated>2011-03-21T14:24:49-07:00</updated>
-    <id>http://dakry.com/blog/2011/03/21/london-trafalgar-square</id>
+    <id>http://zadell.com/2011/03/21/london-trafalgar-square</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5544871946/"><img src="http://farm6.static.flickr.com/5018/5544871946_0ef%0Adc547d3_z.jpg" alt="trafalgar square london" /></a></p>
 
 <p>I woke up Saturday morning in a London hostel and then proceeded to spend the
@@ -536,9 +537,9 @@ sore shoulders and feet worth it.</p>
   
   <entry>
     <title type="html"><![CDATA[Back in Copenhagen]]></title>
-    <link href="http://dakry.com/blog/2011/03/11/back-in-copenhagen/"/>
+    <link href="http://zadell.com/2011/03/11/back-in-copenhagen/"/>
     <updated>2011-03-11T23:32:17-08:00</updated>
-    <id>http://dakry.com/blog/2011/03/11/back-in-copenhagen</id>
+    <id>http://zadell.com/2011/03/11/back-in-copenhagen</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5518490687/"><img src="http://farm6.static.flickr.com/5178/5518%0A490687_0bec7878d0_z.jpg" alt="Copenhagen Train Station Panorama" /></a></p>
 
 <p>I am spending a month working in Copenhagen.</p>
@@ -583,45 +584,45 @@ travel to for 100-200 bucks.</p>
   
   <entry>
     <title type="html"><![CDATA[Bluecheese Cheesecake from the View Point Inn]]></title>
-    <link href="http://dakry.com/blog/2011/02/19/bluecheese-cheesecake-from-the-view-point-inn/"/>
+    <link href="http://zadell.com/2011/02/19/bluecheese-cheesecake-from-the-view-point-inn/"/>
     <updated>2011-02-19T22:14:23-08:00</updated>
-    <id>http://dakry.com/blog/2011/02/19/bluecheese-cheesecake-from-the-view-point-inn</id>
+    <id>http://zadell.com/2011/02/19/bluecheese-cheesecake-from-the-view-point-inn</id>
     <content type="html"><![CDATA[<p><a href="http://%0Awww.flickr.com/photos/zacharyz/5459821261/"><img src="http://farm6.static.flickr.com/5095/5459821261_b6928c1aa3_z.jpg" alt="" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Swedish Meatballs at Broder]]></title>
-    <link href="http://dakry.com/blog/2011/01/29/swedish-meatballs-at-broder/"/>
+    <link href="http://zadell.com/2011/01/29/swedish-meatballs-at-broder/"/>
     <updated>2011-01-29T19:14:56-08:00</updated>
-    <id>http://dakry.com/blog/2011/01/29/swedish-meatballs-at-broder</id>
+    <id>http://zadell.com/2011/01/29/swedish-meatballs-at-broder</id>
     <content type="html"><![CDATA[<p><a href="http://%0Aposterous.com/getfile/files.posterous.com/zacharyz/ziaFdGwuJIBdjxfBDJivlqAaflB%0AglxAjEtfnywenDhDovmyJHfBIooavGygi/p510.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/zacharyz/ziaFdGwuJIBdjxf%0ABDJivlqAaflBglxAjEtfnywenDhDovmyJHfBIooavGygi/p510.jpg.scaled500.jpg" alt="" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[North Shore at Sunset]]></title>
-    <link href="http://dakry.com/blog/2011/01/17/north-shore-at-sunset/"/>
+    <link href="http://zadell.com/2011/01/17/north-shore-at-sunset/"/>
     <updated>2011-01-17T23:17:03-08:00</updated>
-    <id>http://dakry.com/blog/2011/01/17/north-shore-at-sunset</id>
+    <id>http://zadell.com/2011/01/17/north-shore-at-sunset</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5334994830/"><img src="http://farm6.static.flickr.com/5122/5334994830_cce08%0A6841b_z.jpg" alt="North Shore at Sunset" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Turtle at the North Shore]]></title>
-    <link href="http://dakry.com/blog/2011/01/14/turtle-at-the-north-shore/"/>
+    <link href="http://zadell.com/2011/01/14/turtle-at-the-north-shore/"/>
     <updated>2011-01-14T19:29:09-08:00</updated>
-    <id>http://dakry.com/blog/2011/01/14/turtle-at-the-north-shore</id>
+    <id>http://zadell.com/2011/01/14/turtle-at-the-north-shore</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5334301353/"><img src="http://farm6.static.flickr.com/5127/5334301353_1%0A9e76966b9_z.jpg" alt="Turtle at the North Shore" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Koko Head]]></title>
-    <link href="http://dakry.com/blog/2011/01/12/koko-head/"/>
+    <link href="http://zadell.com/2011/01/12/koko-head/"/>
     <updated>2011-01-12T01:10:01-08:00</updated>
-    <id>http://dakry.com/blog/2011/01/12/koko-head</id>
+    <id>http://zadell.com/2011/01/12/koko-head</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5347927449/"><img src="http://farm6.static.flickr.com/5201/5347927449_ec4230e018_z.jpg" alt="Koko head" />
 </a></p>
 ]]></content>

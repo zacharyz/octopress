@@ -6,6 +6,7 @@ slug: mount-rainier
 status: publish
 title: Mount Rainier
 wordpress_id: '5713'
+comments: true
 categories:
 - fitness
 - outdoors

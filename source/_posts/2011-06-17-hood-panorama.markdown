@@ -19,9 +19,9 @@ tags:
 - photography
 ---
 
-[![Rock Formation Panorama](http://farm4.static.flickr.com/3183/5800883949_5b1
-4859e7d_z.jpg)](http://www.flickr.com/photos/zacharyz/5800883949/) This is a
-panorama made up of about 11 overlapping shots. I took it as I was making my
+{% img http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg %}
+
+This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn't until I was making the journey down that I
 really had an appreciation for just how beastly a journey it had been (8 hours
 to the top for me).

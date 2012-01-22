@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: food | Test Blog]]></title>
-  <link href="http://dakry.com/blog/categories/food/atom.xml" rel="self"/>
-  <link href="http://dakry.com/"/>
-  <updated>2012-01-22T00:16:32-08:00</updated>
-  <id>http://dakry.com/</id>
+  <link href="http://zadell.com/blog/categories/food/atom.xml" rel="self"/>
+  <link href="http://zadell.com/"/>
+  <updated>2012-01-22T00:31:19-08:00</updated>
+  <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Back in Copenhagen]]></title>
-    <link href="http://dakry.com/blog/2011/03/11/back-in-copenhagen/"/>
+    <link href="http://zadell.com/2011/03/11/back-in-copenhagen/"/>
     <updated>2011-03-11T23:32:17-08:00</updated>
-    <id>http://dakry.com/blog/2011/03/11/back-in-copenhagen</id>
+    <id>http://zadell.com/2011/03/11/back-in-copenhagen</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5518490687/"><img src="http://farm6.static.flickr.com/5178/5518%0A490687_0bec7878d0_z.jpg" alt="Copenhagen Train Station Panorama" /></a></p>
 
 <p>I am spending a month working in Copenhagen.</p>
@@ -62,9 +62,9 @@ travel to for 100-200 bucks.</p>
   
   <entry>
     <title type="html"><![CDATA[Exploring Frederiksstaden in Copenhagen]]></title>
-    <link href="http://dakry.com/blog/2010/07/09/exploring-frederiksstaden/"/>
+    <link href="http://zadell.com/2010/07/09/exploring-frederiksstaden/"/>
     <updated>2010-07-09T19:01:39-07:00</updated>
-    <id>http://dakry.com/blog/2010/07/09/exploring-frederiksstaden</id>
+    <id>http://zadell.com/2010/07/09/exploring-frederiksstaden</id>
     <content type="html"><![CDATA[<p>Yesterday as I was returning home from work I saw a familiar face locking up a
 bike outside my apartment. It turned out to be a friend of Seyoung's who lives
 here in Copenhagen - <a href="http://chyix2.blogspot.com/">Chyi Chyi</a>!.</p>

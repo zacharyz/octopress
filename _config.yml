@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dakry.com
+url: http://zadell.com
 title: Test Blog
 subtitle:
 author: Zachary Zadell
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
@@ -37,7 +37,7 @@ markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir: /  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: zadell
 disqus_show_comment_count: false
 
 # Google Analytics
