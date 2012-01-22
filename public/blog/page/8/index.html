@@ -1,0 +1,762 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Test Blog</title>
+  <meta name="author" content="Zachary Zadell">
+
+  
+  <meta name="description" content="I had been toying around with the idea of using the flickr api with google
+maps for a while. So a couple of weekends ago I decided to take a break &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dakry.com/blog/page/8">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Test Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body    class="collapse-sidebar sidebar-footer" >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Test Blog</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dakry.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2010/01/18/i-wrote-a-gallery-that-uses-flickr-google-maps/">I Wrote a Gallery That Uses Flickr + Google Maps</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-01-18T22:16:49-08:00" pubdate data-updated="true">Jan 18<span>th</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://za%0Adell.com/gallery/photo.php?id=3868448361"><img src="http://farm5.static.flickr.com/4009/4287010500_9a22620993.jpg" alt="" /></a></p>
+
+<p>I had been toying around with the idea of using the flickr api with google
+maps for a while. So a couple of weekends ago I decided to take a break from
+client work and hammer something out. The result is my <a href="/gallery">gallery</a>.
+The goals for the project were the following:</p>
+
+<h2>Use flickr&#8217;s and google&#8217;s map apis.</h2>
+
+<p>Both are apis that I have known about, and wanted to work with for a while,
+but hadn&#8217;t had chance to use on scale larger than minor wordpress widgets. In
+the past my experience was limited to using jQuery to access my most recent
+photos from flickr. I wanted something a bit more powerful and flexible and an
+excuse to use php which my web host supports. I ended up settling on a
+relatively good PHP wrapper called <a href="phpflickr.com">phpflickr</a></p>
+
+<p>Displaying a map was surprisingly easy. Once I extracted the longitude and
+latitude information from the photo I was able to use a couple google maps
+function calls to create a map around that location with a marker on it.</p>
+
+<h2>Create a way to display my photos in a meaningful way on my site</h2>
+
+<p>There are lots of gallery plugins and widgets around the net. I wanted
+something though that was completely customizable both in how it displays
+images and how it is used. For example - if I wanted to pull from a specific
+set of photos, I can do that. Also if wanted to be able to mine data about my
+photographic behaviors, such as what my favorite apertures and focal range
+were - those are not typically available with &#8220;off the shelf&#8221; options.</p>
+
+<p>The biggest problem with flickr itself is its white background which doesn&#8217;t
+work well with photography. I find it distracting and prefer a darker
+background (hence the color scheme of this site). People often use sites like
+that of <a href="http://bighugelabs.com/">big huge labs</a> to display their picture on a
+black background. I wanted to avoid having to use an external site.</p>
+
+<p>I also wanted the ability to readily display information that I find important
+- such as the camera, lens, aperture, iso, and shutter speed I used. I also
+wanted to toy with the idea of showing (when available) the location of where
+I took the photo on a google map.</p>
+
+<p>Additionally I wanted to use some javascript to make it possible to expand the
+photos, so that users will not need to leave the site to better view my
+pictures. To achieve this I used a javascript library called <a href="http://highslide.com/">highslide
+JS</a>.</p>
+
+<p>The final result of my weekend coding session is a relatively minimalist
+interface that gives the viewer all the information that I consider important.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2010/01/01/snowshoeing/">Snowshoeing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-01-01T17:55:18-08:00" pubdate data-updated="true">Jan 1<span>st</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://%0Azadell.com/gallery/photo.php?id=4235213486"><img src="http://farm5.static.flickr.com/4022/4235213486_daf2260c58_z.jpg" alt="" /></a> I have owned a pair of snow shoes
+for about 2 years now. REI had a sweet deal on a pair for $30 with free
+shipping so, along with some friends, I bought a pair. It wasn&#8217;t until the day
+after Christmas that I would actually get a chance to use them.  <a href="http://zadell.com/ga%0Allery/photo.php?id=4235209582"><img src="http://f%0Aarm5.static.flickr.com/4058/4235209582_0785705175_z.jpg" alt="" /></a> Some lessons I learned:</p>
+
+<ul>
+<li>Mittens may be less agile than regular gloves, but they keep your hands much warmer.</li>
+<li>When hiking at 5000 feet the altitude can be killer. Every extra pound of weight makes a difference.</li>
+<li>Pack light and dress warm.</li>
+<li>Walking in snow shoes takes getting used to. At first they are constantly in the way but after a while you will be gliding around.</li>
+<li>Even a cheap, several year old GPS system can be pretty darn awesome when every direction looks the same.
+<a href="http://%0Azadell.com/gallery/photo.php?id=4235211278"><img src="http://farm5.static.flickr.com/4068/4235211278_747d12dd7b_z.jpg" alt="" /></a><a href="http://zadell.com/gallery/photo.php?id=423%0A4440615"><img src="http://farm5.static.flickr.com%0A/4040/4234440615_39779c83f5_z.jpg" alt="" /></a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/12/29/new-scarf/">New Scarf</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-29T16:49:07-08:00" pubdate data-updated="true">Dec 29<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="htt%0Ap://posterous.com/getfile/files.posterous.com/zacharyz/pusgicdvdHCxbvcfuDhbeIH%0ADqzJvjAeFoGnpmhxsagpyFzcbDrzmlaItJAHj/IMG_0051.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/zacharyz/pusgicdvdHCxbvc%0AfuDhbeIHDqzJvjAeFoGnpmhxsagpyFzcbDrzmlaItJAHj/IMG_0051.jpg.scaled500.jpg" alt="" /></a></p>
+
+<p>My amazing girlfriend made me this scarf for Christmas.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/12/25/goals-for-2010/">Seven Goals for 2010</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-25T16:15:06-08:00" pubdate data-updated="true">Dec 25<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>The past year has been a tremendous year for personal growth (of not only my
+gut) and I see 2010 as the year where I execute on what I have learned. I
+believe one of the best ways of holding yourself accountable for your goals is
+to put them in writing. So here are mine:</p>
+
+<h2>1) Move to Portland.</h2>
+
+<p>I moved to Eugene in January of 2005 to work for GarageGames. Right about the
+time of what will be my 5 year anniversary of having moved here I will be
+moving to Portland where my girlfriend and I will be sharing a house with
+another couple until we can find and afford a place of our own. I don&#8217;t have a
+job or any real prospects lined up and Portland has one of the highest rates
+of unemployment in the nation, but compared to Eugene it has a heck of a lot
+more going for it in just about every way that is important to us.</p>
+
+<p>Coincidentally my girlfriend moved to Eugene during the same month as I did.
+She completed her final term college this month and was able to finish her
+Sociology degree. Remarkably, she was able to get a 4.0 (or better) in her
+last 3 terms. By finishing up her degree we resolved the final reason for us
+staying in Eugene. We both really adore Portland and so making the move there
+is a huge step in the right direction for both of our futures.</p>
+
+<h2>2) Continue to build out my Freelancing business</h2>
+
+<p>One of my main reasons for moving to Portland is for the greater chance of
+full-time employment, but at the same time I am not going to be waiting around
+for companies to start hiring again.</p>
+
+<p>The first half of the year really taught me what I value from myself and of my
+professional life. It also taught me that I am pretty darn good at web
+development and rekindled my love for it. My goal for the new year is to
+continue getting freelance work and to <em>double my hourly rate</em>. I know
+perfectly well that my current rate is actually well below what would be
+considered standard for the quality of work that I do. But right now I am
+concentrating on building up a portfolio of projects and work that I can use
+to command the higher rate I deserve.</p>
+
+<p>I registered an LLC in September and have since completed several projects
+ranging from multiple Wordpress sites (including this one), Django powered
+back-ends for iphone and heath care apps, and a Joomla site that required over
+50 pages of content and a custom template and design. Every project has been
+delivered on time and no doubt under budget.</p>
+
+<p>All the projects that I have tackled so far have demonstrated expertise and
+versatility in both front-and back-end web development, and my ability to
+learn and adapt to changes quickly.</p>
+
+<h2>3) Develop a passive income of at least $1000 a month</h2>
+
+<p>The goal is to be able to generate enough income passively to be able to cover
+my basic living expenses. The passive part is important. Passive income is
+income that is generated by doing no additional work beyond the initial
+investment. It happens regardless of whether you are sleeping or traveling.</p>
+
+<p>The past year has shown me that I am capable of living fairly comfortably with
+very little, all the while supporting my girlfriend through school and my mom
+during this depression. Freelance work definitely has it highs and lows and
+establishing a passive income enables me to take risks that I probably
+wouldn&#8217;t be able to do otherwise because I&#8217;ll know that I have the freedom to
+cover the necessities whether I am working or not.</p>
+
+<p>I plan to do this with a combination of affiliate marketing sites as well as
+ad revenue generated by some sides projects that I have in the works. This
+goal will also help to facilitate goal #6.</p>
+
+<h2>4) Lose 20 lbs.</h2>
+
+<p>This goal is probably the closest I have to the typical new years resolution.
+You would think that during a year where I have had the freedom to workout all
+day/everyday I would be in tremendous shape. For the first half I actually was
+because I basically worked-out and trained every day, but as I have focused
+more on building my freelance career I have unfocused on other areas. I
+haven&#8217;t touched a tennis racquet or seriously gone to the gym since October.
+Starting January that is going to change quite drastically and more
+importantly I will be holding myself accountable.</p>
+
+<p>For me, 20 lbs should be easy. At the moment I weigh around 185 lbs. My lowest
+since college was in 2006 where I got down to 155 lbs. 165 will be a happy
+medium for me where I won&#8217;t be exceptionally lean but still be healthier
+looking than I am presently.</p>
+
+<p>I plan on achieving this weight loss the old fashion way - hard work and
+dieting. I also plan to carefully document every workout that I do and every
+food that I eat. By the end it should be clear to just about everyone what it
+takes for me to lose weight.</p>
+
+<h2>5) Develop at least 2 personal web projects.</h2>
+
+<p>Blogs don&#8217;t count. These are serious sites that are not done for clients and
+that I will be doing both the design and development. They will serve my #3
+goal. For the past year I have been developing a lot of quality ideas for
+projects and 2010 will be all about executing on (some) of them.</p>
+
+<p>While client work does help to sharpen my existing skills it doesn&#8217;t really
+help to push them in new directions. Working on these projects will help me
+expand my expertise through working with new technologies.</p>
+
+<h2>6) Finally get my passport, travel to a foreign country, and develop a</h2>
+
+<p>proficiency in a second language</p>
+
+<p>Some how I managed to not travel at all during the past year outside of
+Oregon. Just about everyone else I know has used their time during this
+depression to travel to Europe or some other continent. I was stuck here
+focusing on sharpening my skills and helping my girlfriend get through her
+final year of school. So one of my goals in 2010 is to finally get a passport
+and to travel to another country. I am contemplating teaching English as a way
+to get to either Japan or Korea.</p>
+
+<p>Japan and Japanese is an obvious choice because I studied Japanese during
+college and it is a place that I have always wanted to visit. To become
+conversationally proficient would be possible in 6 months especially since I
+am already familiar with the language and have numerous books and material on
+it. Korean though would be a much greater challenge but since my girlfriend is
+Korean I would have someone to personally converse with. Additionally my
+girlfriend&#8217;s parents live in Korea and she has been looking for a good time to
+go back there to take advantage of their awesome healthcare. It would be
+incredible to be able to go there and visit them.</p>
+
+<p>Regardless of where I end up I plan to stay for at least 1-3 months and to
+continue doing freelance work during that time.</p>
+
+<h2>7) Sell my car</h2>
+
+<p>My &#8216;94 honda civic has been through quite a lot since I got it. It has been
+stolen and then nearly totaled, all while parked outside of my duplex in a
+quite cul de sac. During that time it has treated me very well, but once I get
+to portland I plan to relieve myself of the burden of having a car and stick
+to public transportation and my bikes.</p>
+
+<p>I also have a lot of other minor goals that I would like to achieve that
+include stuff like becoming a better programmer, cooking more and eating
+healthier, becoming a better tennis player and going on near weekly photo
+trips to better my photography. Those are all general things that aren&#8217;t very
+measurable and living in Portland is certainly going to help with those.</p>
+
+<p>The 7 goals I have mentioned are things that I want to passionately tackle
+during the next year and reflect the direction that I want lead my life.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/12/24/bacon-from-a-butcher-is-better/">Bacon From a Butcher Is Better</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-24T17:11:29-08:00" pubdate data-updated="true">Dec 24<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://fa%0Arm5.static.flickr.com/4066/4211162273_c2fabd1b21_b.jpg"><img src="http://farm5.static.flickr.com/4066/4211162273_c2fabd1b21.jpg" alt="" /></a></p>
+
+<p>In the past I haven&#8217;t usually considered a butcher when shopping for proteins.
+It has always been something that I have known that I <em>should</em> be doing but
+the convenience of getting meat from a grocery store is often too great.
+Recently I have been experimenting with our local butcher to see just how much
+better locally grown protein can be. Bacon at Safeway costs about 4.50 for a
+package, and for about the same price you can get a pound at the butcher.</p>
+
+<p>To say that bacon from the butcher is better is an understatement. Not only is
+it leaner but it is so much more delicious. Don&#8217;t let the fattiness of that
+first picture fool you, when this stuff is cooked most of the fat goes away
+and you are left with <em>pure bacon joy</em>.</p>
+
+<p><a href="http://fa%0Arm3.static.flickr.com/2672/4211920942_931e097cf9_b.jpg"><img src="http://farm3.static.flickr.com/2672/4211920942_931e097cf9.jpg" alt="" /></a><a href="http://farm5.static.flickr.com/4%0A001/4211172429_1d4f64c347_b.jpg"><img src="http://farm5.stati%0Ac.flickr.com/4001/4211172429_1d4f64c347.jpg" alt="" /></a><a href="http://farm3.static.flickr.com/2664/4211174411_b05daeb3%0A0a_b.jpg"><img src="http://farm3.static.flickr.com/2664/42111%0A74411_b05daeb30a.jpg" alt="" /></a></p>
+
+<p><em>Shots taken with my nikon d90 and tamron 17-50 2.8 lens and a bounced sb-600
+flash. Also used a canon g9 for the close up shot.</em></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/12/02/morning-walk/">Morning Walk</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-12-02T19:49:35-08:00" pubdate data-updated="true">Dec 2<span>nd</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="htt%0Ap://posterous.com/getfile/files.posterous.com/zacharyz/rErvwlIppFeHroAehngoHke%0AqaAAvFkiAhpCnbHdlgfiivCsuIkqGEhqlpxux/IMG_0047.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/zacharyz/rErvwlIppFeHroA%0AehngoHkeqaAAvFkiAhpCnbHdlgfiivCsuIkqGEhqlpxux/IMG_0047.jpg.scaled500.jpg" alt="" /></a> <a href="http://postero%0Aus.com/getfile/files.posterous.com/zacharyz/mBxGjEnoiGAxCeJgrvEphuvedFdxuJaGgd%0AqquidzlyDfgxFkEbDnJvncczcs/IMG_0048.jpg.scaled1000.jpg"><img src="http:/%0A/posterous.com/getfile/files.posterous.com/zacharyz/mBxGjEnoiGAxCeJgrvEphuvedF%0AdxuJaGgdqquidzlyDfgxFkEbDnJvncczcs/IMG_0048.jpg.scaled500.jpg" alt="" /></a> <a href="http://posterous.com/getf%0Aile/files.posterous.com/zacharyz/yvnradfslhBwidefxAEimgflHudtAfGzwlBnuulbGxCmC%0AvoBnhgIalvAImrI/IMG_0049.jpg.scaled1000.jpg"><img src="http://posterous.%0Acom/getfile/files.posterous.com/zacharyz/yvnradfslhBwidefxAEimgflHudtAfGzwlBnu%0AulbGxCmCvoBnhgIalvAImrI/IMG_0049.jpg.scaled500.jpg" alt="" /></a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/11/10/fall/">Fall</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-11-10T01:31:23-08:00" pubdate data-updated="true">Nov 10<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="htt%0Ap://posterous.com/getfile/files.posterous.com/zacharyz/gvfIHulIDGphyutsdpwcDel%0AkngrpcqwzpqqafwgyDEpbgkAokxzjzAhknGxf/IMG_0044.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/zacharyz/gvfIHulIDGphyut%0AsdpwcDelkngrpcqwzpqqafwgyDEpbgkAokxzjzAhknGxf/IMG_0044.jpg.scaled500.jpg" alt="" /></a></p>
+
+<p>Taken outside my house with my iphone.</p>
+
+<p>&amp;nbsp_place_holder;</p>
+
+<p>&amp;nbsp_place_holder;</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/10/28/testing-wordpress-2-0-app/">Testing Wordpress 2.0 App</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-10-28T20:54:03-07:00" pubdate data-updated="true">Oct 28<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Text of the post.</p>
+
+<p><a href="http://zadell.com/wordpress/wp-%0Acontent/uploads/2009/10/p_1024_680_78F5F044-D871-4329-BA8D-5475474C46AD.jpeg"><img src="http://zadell.com/wordpress/wp-%0Acontent/uploads/2009/10/p_1024_680_78F5F044-D871-4329-BA8D-%0A5475474C46AD.jpeg" alt="" /></a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/10/28/moo-cards/">Moo Cards</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-10-28T19:43:19-07:00" pubdate data-updated="true">Oct 28<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://farm4.static.flickr.com/3121/4054478780_d6c51e2715_b.jpg"><img src="http://farm4.static.flickr.com/3121/4054478780_d6c51e2715.jpg" alt="moo cards" /></a></p>
+
+<p>Woo my Moo Cards arrived!</p>
+
+<p>These cards look <em>fantastic</em>. I really can&#8217;t recommend
+<a href="http://us.moo.com/en/">Moo</a> enough.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2009/10/20/apples-and-pumpkins/">Apples and Pumpkins</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-10-20T02:04:27-07:00" pubdate data-updated="true">Oct 20<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="htt%0Ap://posterous.com/getfile/files.posterous.com/zacharyz/sasCfvuxltriwHmhEEbHakw%0ACasxtGDHGmGpjuqncpCopwxoyBvdegzibjFgy/IMG_0038.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/zacharyz/sasCfvuxltriwHm%0AhEEbHakwCasxtGDHGmGpjuqncpCopwxoyBvdegzibjFgy/IMG_0038.jpg.scaled500.jpg" alt="" /></a> <a href="http://postero%0Aus.com/getfile/files.posterous.com/zacharyz/zviaGnzJDrGoieDEjhHgtrlxvruGsiADzo%0AItsBDChkzfhgdDIDbmHbwiBlHv/IMG_0039.jpg.scaled1000.jpg"><img src="http:/%0A/posterous.com/getfile/files.posterous.com/zacharyz/zviaGnzJDrGoieDEjhHgtrlxvr%0AuGsiADzoItsBDChkzfhgdDIDbmHbwiBlHv/IMG_0039.jpg.scaled500.jpg" alt="" /></a> <a href="http://posterous.com/getf%0Aile/files.posterous.com/zacharyz/rsuEJmudsbqEbxDcnxiBqmfwkzyAfAngIJwzyCyqycnar%0AkzEjfnqhdhCwsCj/IMG_0040.jpg.scaled1000.jpg"><img src="http://posterous.%0Acom/getfile/files.posterous.com/zacharyz/rsuEJmudsbqEbxDcnxiBqmfwkzyAfAngIJwzy%0ACyqycnarkzEjfnqhdhCwsCj/IMG_0040.jpg.scaled500.jpg" alt="" /></a> <a href="http://posterous.com/getfile/files.p%0Aosterous.com/zacharyz/nGzihjfajixzCHvJdFhemhipzDnonrgtCJnmjyGjuIrzIrGhCmusqbxD%0AbezE/IMG_0041.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile%0A/files.posterous.com/zacharyz/nGzihjfajixzCHvJdFhemhipzDnonrgtCJnmjyGjuIrzIrGh%0ACmusqbxDbezE/IMG_0041.jpg.scaled500.jpg" alt="" /></a> <a href="http://posterous.com/getfile/files.posterous.co%0Am/zacharyz/JterFqwvDFwGqxxBxGEIttFikBobvwylIbJfvdBtonCctadnlgJblDwkCAqk/IMG_00%0A42.jpg.scaled1000.jpg"><img src="http://posterous.com/getfile/files.post%0Aerous.com/zacharyz/JterFqwvDFwGqxxBxGEIttFikBobvwylIbJfvdBtonCctadnlgJblDwkCAq%0Ak/IMG_0042.jpg.scaled500.jpg" alt="" /></a> <a href="http://posterous.com/getfile/files.posterous.com/zacharyz/%0AgCpHBwBuyBGgxfBysagfsfywlAuFwheJpetmctzedFsDGdAgBciCgrDhkotk/IMG_0043.jpg.scal%0Aed1000.jpg"><img src="http://posterous.com/getfile/files.posterous.com/z%0Aacharyz/gCpHBwBuyBGgxfBysagfsfywlAuFwheJpetmctzedFsDGdAgBciCgrDhkotk/IMG_0043.%0Ajpg.scaled500.jpg" alt="" /></a></p>
+
+<p>My girlfriend and I enjoyed a perfect day at the orchard located outside of
+Eugene. We got some nice pumpkins for Halloween and had way to much fun eating
+apples.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/9/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/7/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/20/first-post/">first post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/08/24/mount-rainier/">Mount Rainier</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/07/05/getting-back-on-the-wagon/">Getting Back on the Wagon</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/06/17/hood-panorama/">Hood Panorama</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/06/07/summiting-mount-hood/">Summiting Mount Hood</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("zzadell", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/zzadell" class="twitter-follow-button" data-show-count="false">Follow @zzadell</a>
+  
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/117876270244783296581?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Zachary Zadell -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

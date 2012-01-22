@@ -1,0 +1,19 @@
+---
+author: dakry
+date: '2011-01-12 01:10:01'
+layout: post
+slug: koko-head
+status: publish
+title: Koko Head
+wordpress_id: '4305'
+categories:
+- photography
+- travel
+tags:
+- hawaii
+- panoramas
+---
+
+[![Koko head](http://farm6.static.flickr.com/5201/5347927449_ec4230e018_z.jpg)
+](http://www.flickr.com/photos/zacharyz/5347927449/)
+

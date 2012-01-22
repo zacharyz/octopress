@@ -1,0 +1,16 @@
+---
+author: dakry
+date: '2010-04-25 07:59:41'
+layout: post
+slug: banksy
+status: publish
+title: Banksy
+wordpress_id: '471'
+categories:
+- random
+---
+
+[![banksy](http://farm5.static.flickr.com/4044/4547041380_02b8e006cf_b.jpg)](h
+ttp://zadell.com/gallery/photo.php?id=4547041380) _Located in Chinatown in San
+Francisco_
+

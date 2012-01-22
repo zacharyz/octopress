@@ -1,0 +1,289 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>I wrote a Gallery that uses Flickr + Google Maps - Test Blog</title>
+  <meta name="author" content="Zachary Zadell">
+
+  
+  <meta name="description" content="I had been toying around with the idea of using the flickr api with google
+maps for a while. So a couple of weekends ago I decided to take a break &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dakry.com/blog/2010/01/18/i-wrote-a-gallery-that-uses-flickr-google-maps">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Test Blog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body    class="collapse-sidebar sidebar-footer" >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Test Blog</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dakry.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">I Wrote a Gallery That Uses Flickr + Google Maps</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-01-18T22:16:49-08:00" pubdate data-updated="true">Jan 18<span>th</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="http://za%0Adell.com/gallery/photo.php?id=3868448361"><img src="http://farm5.static.flickr.com/4009/4287010500_9a22620993.jpg" alt="" /></a></p>
+
+<p>I had been toying around with the idea of using the flickr api with google
+maps for a while. So a couple of weekends ago I decided to take a break from
+client work and hammer something out. The result is my <a href="/gallery">gallery</a>.
+The goals for the project were the following:</p>
+
+<h2>Use flickr&#8217;s and google&#8217;s map apis.</h2>
+
+<p>Both are apis that I have known about, and wanted to work with for a while,
+but hadn&#8217;t had chance to use on scale larger than minor wordpress widgets. In
+the past my experience was limited to using jQuery to access my most recent
+photos from flickr. I wanted something a bit more powerful and flexible and an
+excuse to use php which my web host supports. I ended up settling on a
+relatively good PHP wrapper called <a href="phpflickr.com">phpflickr</a></p>
+
+<p>Displaying a map was surprisingly easy. Once I extracted the longitude and
+latitude information from the photo I was able to use a couple google maps
+function calls to create a map around that location with a marker on it.</p>
+
+<h2>Create a way to display my photos in a meaningful way on my site</h2>
+
+<p>There are lots of gallery plugins and widgets around the net. I wanted
+something though that was completely customizable both in how it displays
+images and how it is used. For example - if I wanted to pull from a specific
+set of photos, I can do that. Also if wanted to be able to mine data about my
+photographic behaviors, such as what my favorite apertures and focal range
+were - those are not typically available with &#8220;off the shelf&#8221; options.</p>
+
+<p>The biggest problem with flickr itself is its white background which doesn&#8217;t
+work well with photography. I find it distracting and prefer a darker
+background (hence the color scheme of this site). People often use sites like
+that of <a href="http://bighugelabs.com/">big huge labs</a> to display their picture on a
+black background. I wanted to avoid having to use an external site.</p>
+
+<p>I also wanted the ability to readily display information that I find important
+- such as the camera, lens, aperture, iso, and shutter speed I used. I also
+wanted to toy with the idea of showing (when available) the location of where
+I took the photo on a google map.</p>
+
+<p>Additionally I wanted to use some javascript to make it possible to expand the
+photos, so that users will not need to leave the site to better view my
+pictures. To achieve this I used a javascript library called <a href="http://highslide.com/">highslide
+JS</a>.</p>
+
+<p>The final result of my weekend coding session is a relatively minimalist
+interface that gives the viewer all the information that I consider important.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">dakry</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-01-18T22:16:49-08:00" pubdate data-updated="true">Jan 18<span>th</span>, 2010</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/technology/'>technology</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dakry.com/blog/2010/01/18/i-wrote-a-gallery-that-uses-flickr-google-maps/" data-via="zzadell" data-counturl="http://dakry.com/blog/2010/01/18/i-wrote-a-gallery-that-uses-flickr-google-maps/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2010/01/01/snowshoeing/" title="Previous Post: Snowshoeing">&laquo; Snowshoeing</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2010/02/01/nicholas-restaurant/" title="next Post: Nicholas Restaurant">Nicholas Restaurant &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/20/first-post/">first post</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/08/24/mount-rainier/">Mount Rainier</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/07/05/getting-back-on-the-wagon/">Getting Back on the Wagon</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/06/17/hood-panorama/">Hood Panorama</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/06/07/summiting-mount-hood/">Summiting Mount Hood</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("zzadell", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/zzadell" class="twitter-follow-button" data-show-count="false">Follow @zzadell</a>
+  
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/117876270244783296581?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Zachary Zadell -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
