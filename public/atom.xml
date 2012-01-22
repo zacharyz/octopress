@@ -4,7 +4,7 @@
   <title><![CDATA[Test Blog]]></title>
   <link href="http://dakry.com/atom.xml" rel="self"/>
   <link href="http://dakry.com/"/>
-  <updated>2012-01-21T23:29:07-08:00</updated>
+  <updated>2012-01-21T23:39:32-08:00</updated>
   <id>http://dakry.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -12,33 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[first post]]></title>
-    <link href="http://dakry.com/blog/2012/01/20/first-post/"/>
-    <updated>2012-01-20T22:26:00-08:00</updated>
-    <id>http://dakry.com/blog/2012/01/20/first-post</id>
-    <content type="html"><![CDATA[<p>This is a new post. I am trying to use some text.</p>
-
-<p><img src="http://farm3.staticflickr.com/2342/5801404006_a03a2a9de5_b_d.jpg"></p>
-
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
-
-<p><img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" ></p>
-
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
-
-<p><img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #3" ></p>
-
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
-
-<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b_d.jpg"></p>
-
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam</p>
-
-<p><img src="http://farm4.staticflickr.com/3578/5800862369_07d54cf9d7_b_d.jpg"></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mount Rainier]]></title>
@@ -636,6 +609,16 @@ travel to for 100-200 bucks.</p>
     <updated>2011-01-14T19:29:09-08:00</updated>
     <id>http://dakry.com/blog/2011/01/14/turtle-at-the-north-shore</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5334301353/"><img src="http://farm6.static.flickr.com/5127/5334301353_1%0A9e76966b9_z.jpg" alt="Turtle at the North Shore" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Koko Head]]></title>
+    <link href="http://dakry.com/blog/2011/01/12/koko-head/"/>
+    <updated>2011-01-12T01:10:01-08:00</updated>
+    <id>http://dakry.com/blog/2011/01/12/koko-head</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5347927449/"><img src="http://farm6.static.flickr.com/5201/5347927449_ec4230e018_z.jpg" alt="Koko head" />
+</a></p>
 ]]></content>
   </entry>
   
