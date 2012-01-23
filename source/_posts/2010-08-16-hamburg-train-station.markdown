@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-08-16 18:06:15'
 layout: post
 slug: hamburg-train-station
@@ -13,6 +13,4 @@ tags:
 - photography
 ---
 
-[![Hamburg Station](http://farm5.static.flickr.com/4073/4899586376_8095111200_
-z.jpg)](http://www.flickr.com/photos/zacharyz/4899586376/)
-
+[![Hamburg Station](http://farm5.static.flickr.com/4073/4899586376_8095111200_b.jpg)](http://www.flickr.com/photos/zacharyz/4899586376/)
