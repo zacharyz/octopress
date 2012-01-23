@@ -1,10 +1,5 @@
 body > nav {
   position: relative;
-  background-color: $nav-bg;
-  @include background($nav-bg-front, $nav-bg-back);
-  border: {
-    top: 1px solid $nav-border-top;
-    bottom: 1px solid $nav-border-bottom; }
   padding-top: .35em;
   padding-bottom: .35em;
   form {
@@ -63,11 +58,11 @@ body > nav {
       line-height: 1.5em;
     }
     li + li {
-      border-left: 1px solid $nav-border-left;
+      //border-left: 1px solid $nav-border-left;
       margin-left: .8em;
       a {
         padding-left: .8em;
-        border-left: 1px solid $nav-border-right;
+        //border-left: 1px solid $nav-border-right;
       }
     }
     form {
