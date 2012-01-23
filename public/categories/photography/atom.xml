@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: photography | Test Blog]]></title>
-  <link href="http://zadell.com/categories/photography/atom.xml" rel="self"/>
-  <link href="http://zadell.com/"/>
-  <updated>2012-01-22T21:56:20-08:00</updated>
-  <id>http://zadell.com/</id>
+  <title><![CDATA[Category: photography | Zachary Zadell]]></title>
+  <link href="http://zaczadell.com/categories/photography/atom.xml" rel="self"/>
+  <link href="http://zaczadell.com/"/>
+  <updated>2012-01-22T22:46:32-08:00</updated>
+  <id>http://zaczadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mount Rainier]]></title>
-    <link href="http://zadell.com/2011/mount-rainier/"/>
+    <link href="http://zaczadell.com/2011/mount-rainier/"/>
     <updated>2011-08-24T16:32:23-07:00</updated>
-    <id>http://zadell.com/2011/mount-rainier</id>
+    <id>http://zaczadell.com/2011/mount-rainier</id>
     <content type="html"><![CDATA[<p><img src="http://farm7.staticflickr.com/6062/6070827576_18a973e840_b_d.jpg" title="Little Tahoma at Sunrise" ></p>
 
 <h2>You In?</h2>
@@ -147,9 +147,9 @@ and video from the trip can be found at on my <a href="http://www.flickr.com/pho
   
   <entry>
     <title type="html"><![CDATA[Hood Panorama]]></title>
-    <link href="http://zadell.com/2011/hood-panorama/"/>
+    <link href="http://zaczadell.com/2011/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
-    <id>http://zadell.com/2011/hood-panorama</id>
+    <id>http://zaczadell.com/2011/hood-panorama</id>
     <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg"></p>
 
 <p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
@@ -164,9 +164,9 @@ are other hikers making the same journey that I had made.</p>
   
   <entry>
     <title type="html"><![CDATA[Summiting Mount Hood]]></title>
-    <link href="http://zadell.com/2011/summiting-mount-hood/"/>
+    <link href="http://zaczadell.com/2011/summiting-mount-hood/"/>
     <updated>2011-06-07T17:44:46-07:00</updated>
-    <id>http://zadell.com/2011/summiting-mount-hood</id>
+    <id>http://zaczadell.com/2011/summiting-mount-hood</id>
     <content type="html"><![CDATA[<p><img src="http://farm6.staticflickr.com/5316/5801412964_e30f23d3ce_b.jpg" title="Road to the Pearly Gates Panorama" ></p>
 
 <p>Whenever I cross the Morrison bridge on a clear day in Portland one particular
@@ -287,18 +287,18 @@ honestly enjoyed every bit of it.</p>
   
   <entry>
     <title type="html"><![CDATA[View from Mount Tabor]]></title>
-    <link href="http://zadell.com/2011/view-from-mount-tabor/"/>
+    <link href="http://zaczadell.com/2011/view-from-mount-tabor/"/>
     <updated>2011-06-02T21:33:04-07:00</updated>
-    <id>http://zadell.com/2011/view-from-mount-tabor</id>
+    <id>http://zaczadell.com/2011/view-from-mount-tabor</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5791807543/"><img src="http://farm6.static.flickr.com/5264/5791807543_86708d9582_b.jpg" alt="View from Mount Tabor" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[London - Panoramas]]></title>
-    <link href="http://zadell.com/2011/london-panoramas/"/>
+    <link href="http://zaczadell.com/2011/london-panoramas/"/>
     <updated>2011-04-28T17:41:38-07:00</updated>
-    <id>http://zadell.com/2011/london-panoramas</id>
+    <id>http://zaczadell.com/2011/london-panoramas</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5565645881/"><img src="http://farm6.static.flickr.com/5269/5565645881_56829923dd_b.jpg" alt="london bridge pano" /></a></p>
 
 <p>If you haven't noticed - <a href="http://zaczadell.com/tag/panoramas/">I love panoramas.</a> I think they do a fantastic

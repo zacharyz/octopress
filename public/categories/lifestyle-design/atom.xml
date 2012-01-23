@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: lifestyle design | Test Blog]]></title>
-  <link href="http://zadell.com/categories/lifestyle-design/atom.xml" rel="self"/>
-  <link href="http://zadell.com/"/>
-  <updated>2012-01-22T21:56:20-08:00</updated>
-  <id>http://zadell.com/</id>
+  <title><![CDATA[Category: lifestyle design | Zachary Zadell]]></title>
+  <link href="http://zaczadell.com/categories/lifestyle-design/atom.xml" rel="self"/>
+  <link href="http://zaczadell.com/"/>
+  <updated>2012-01-22T22:46:32-08:00</updated>
+  <id>http://zaczadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Learning to Run Again with Vibram Five Fingers]]></title>
-    <link href="http://zadell.com/2010/learning-to-run-again-with-vibram-five-fingers/"/>
+    <link href="http://zaczadell.com/2010/learning-to-run-again-with-vibram-five-fingers/"/>
     <updated>2010-09-27T02:56:41-07:00</updated>
-    <id>http://zadell.com/2010/learning-to-run-again-with-vibram-five-fingers</id>
+    <id>http://zaczadell.com/2010/learning-to-run-again-with-vibram-five-fingers</id>
     <content type="html"><![CDATA[<p><img src="http://farm5.staticflickr.com/4079/4997164722_061f7d95a8_b.jpg" title="Vibram Fivefingers KSO Trek" ></p>
 
 <p>When I was in high-school I used to run on the cross-country team. It was a

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: technology | Test Blog]]></title>
-  <link href="http://zadell.com/categories/technology/atom.xml" rel="self"/>
-  <link href="http://zadell.com/"/>
-  <updated>2012-01-22T21:56:20-08:00</updated>
-  <id>http://zadell.com/</id>
+  <title><![CDATA[Category: technology | Zachary Zadell]]></title>
+  <link href="http://zaczadell.com/categories/technology/atom.xml" rel="self"/>
+  <link href="http://zaczadell.com/"/>
+  <updated>2012-01-22T22:46:32-08:00</updated>
+  <id>http://zaczadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Nikon D90]]></title>
-    <link href="http://zadell.com/2008/the-nikon-d90/"/>
+    <link href="http://zaczadell.com/2008/the-nikon-d90/"/>
     <updated>2008-09-10T13:41:35-07:00</updated>
-    <id>http://zadell.com/2008/the-nikon-d90</id>
+    <id>http://zaczadell.com/2008/the-nikon-d90</id>
     <content type="html"><![CDATA[<p>Since getting a D40 back in March a lot has happened. I have really grown to
 love photography and look forward to every trip and hike as an excuse to take
 more pictures. I have gobbled up several books on the subject and have since
