@@ -1,11 +1,12 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-06-26 09:24:48'
 layout: post
 slug: changes-and-upcoming-travels
 status: publish
 title: Changes and Upcoming Travels
 wordpress_id: '505'
+published: false
 categories:
 - lifestyle design
 - travel

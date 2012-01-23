@@ -1,11 +1,12 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-07-08 10:44:57'
 layout: post
 slug: traveling-and-arriving-in-copenhagen
 status: publish
 title: Traveling and Arriving in Copenhagen
 wordpress_id: '1161'
+published: false
 categories:
 - photography
 - travel

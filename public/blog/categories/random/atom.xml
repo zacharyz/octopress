@@ -4,7 +4,7 @@
   <title><![CDATA[Category: random | Test Blog]]></title>
   <link href="http://zadell.com/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-01-22T17:39:25-08:00</updated>
+  <updated>2012-01-22T18:31:53-08:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,8 +18,9 @@
     <link href="http://zadell.com/2010/04/25/banksy/"/>
     <updated>2010-04-25T07:59:41-07:00</updated>
     <id>http://zadell.com/2010/04/25/banksy</id>
-    <content type="html"><![CDATA[<p><a href="h%0Attp://zadell.com/gallery/photo.php?id=4547041380"><img src="http://farm5.static.flickr.com/4044/4547041380_02b8e006cf_b.jpg" alt="banksy" /></a> <em>Located in Chinatown in San
-Francisco</em></p>
+    <content type="html"><![CDATA[<p><a href="http://zadell.com/gallery/photo.php?id=4547041380"><img class="center" src="http://farm5.static.flickr.com/4044/4547041380_02b8e006cf_b.jpg" title="banksy" ></a></p>
+
+<p><em>Located in Chinatown in San Francisco</em></p>
 ]]></content>
   </entry>
   
