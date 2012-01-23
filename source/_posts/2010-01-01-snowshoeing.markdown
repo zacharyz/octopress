@@ -17,7 +17,7 @@ I have owned a pair of snow shoes for about 2 years now. REI had a sweet deal on
 shipping so, along with some friends, I bought a pair. It wasn't until the day
 after Christmas that I would actually get a chance to use them.  
 
-{% img center http://farm5.static.flickr.com/4058/4235209582_0785705175_z.jpg %}
+{% img center http://farm5.static.flickr.com/4058/4235209582_0785705175_b.jpg %}
 
 Some lessons I learned:
 
