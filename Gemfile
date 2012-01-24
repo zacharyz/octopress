@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-#group :development do
+group :development do
   gem 'rake'
   gem 'rack'
   gem 'jekyll'
@@ -13,6 +13,6 @@ source "http://rubygems.org"
   gem 'rb-fsevent'
   gem 'stringex'
   gem 'liquid', '2.2.2'
-#end
+end
 
 gem 'sinatra', '1.2.6'
