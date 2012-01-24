@@ -22,26 +22,26 @@ Chris' job was to handle cooking all the meat while Melissa was in
 charge of the ice cream. Everyone else was put on the duty of
 constructing all the different courses.
 
-### The Menu
+#### The Menu
 {% img http://farm8.staticflickr.com/7175/6754145575_0067bd03a4_b.jpg the menu %}
 
-### Preparing the Pork Shu Mai
+#### Preparing the Pork Shu Mai
 {% img http://farm8.staticflickr.com/7021/6754152719_06fc27e3a4_b.jpg %}
 
-### Char Sui Bao and Shu Mai
+#### Char Sui Bao and Shu Mai
 {% img http://farm8.staticflickr.com/7009/6754157065_1e77060534_b.jpg %}
 
-### Char Sui Bao
+#### Char Sui Bao
 {% img http://farm8.staticflickr.com/7154/6754155163_a410e4d4c3_b.jpg %}
 
-### Tamarind Whisky Sour
+#### Tamarind Whisky Sour
 {% img http://farm8.staticflickr.com/7017/6754163547_3a723e4295_b.jpg %}
 
-### Fried Wings
+#### Fried Wings
 {% img http://farm8.staticflickr.com/7027/6754164445_edc1f74eb3_b.jpg %}
 
-### Ike's Fish Sauce Wings
+#### Ike's Fish Sauce Wings
 {% img http://farm8.staticflickr.com/7163/6754166915_1ed81627ce_b.jpg %}
 
-### Mango and Coconut Ice Cream
+#### Mango and Coconut Ice Cream
 {% img http://farm8.staticflickr.com/7024/6754169901_8b38d05fea_b.jpg %}
