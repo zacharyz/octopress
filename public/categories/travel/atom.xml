@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: travel | Zachary Zadell]]></title>
-  <link href="http://zaczadell.com/categories/travel/atom.xml" rel="self"/>
-  <link href="http://zaczadell.com/"/>
-  <updated>2012-01-24T14:10:10-08:00</updated>
-  <id>http://zaczadell.com/</id>
+  <link href="http://zadell.com/categories/travel/atom.xml" rel="self"/>
+  <link href="http://zadell.com/"/>
+  <updated>2012-01-24T14:55:31-08:00</updated>
+  <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hood Panorama]]></title>
-    <link href="http://zaczadell.com/2011/hood-panorama/"/>
+    <link href="http://zadell.com/2011/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
-    <id>http://zaczadell.com/2011/hood-panorama</id>
+    <id>http://zadell.com/2011/hood-panorama</id>
     <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg"></p>
 
 <p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
@@ -32,9 +32,9 @@ are other hikers making the same journey that I had made.</p>
   
   <entry>
     <title type="html"><![CDATA[London - Panoramas]]></title>
-    <link href="http://zaczadell.com/2011/london-panoramas/"/>
+    <link href="http://zadell.com/2011/london-panoramas/"/>
     <updated>2011-04-28T17:41:38-07:00</updated>
-    <id>http://zaczadell.com/2011/london-panoramas</id>
+    <id>http://zadell.com/2011/london-panoramas</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5565645881/"><img src="http://farm6.static.flickr.com/5269/5565645881_56829923dd_b.jpg" alt="london bridge pano" /></a></p>
 
 <p>If you haven't noticed - <a href="http://zaczadell.com/tag/panoramas/">I love panoramas.</a> I think they do a fantastic
@@ -95,9 +95,9 @@ you started in taking awesome travel panoramas yourself.</p>
   
   <entry>
     <title type="html"><![CDATA[Paris - The Eiffel Tower Before the Storm]]></title>
-    <link href="http://zaczadell.com/2011/paris-the-eiffel-tower/"/>
+    <link href="http://zadell.com/2011/paris-the-eiffel-tower/"/>
     <updated>2011-04-25T21:05:46-07:00</updated>
-    <id>http://zaczadell.com/2011/paris-the-eiffel-tower</id>
+    <id>http://zadell.com/2011/paris-the-eiffel-tower</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564207887/"><img class="center" src="http://farm6.static.flickr.com/5229/5564207887_549fde6b4d_b.jpg" title="Eiffel Tower Before the Storm" ></a></p>
 
 <p>The weather in Paris didn't quite work out for me. I had planned on spending
@@ -133,9 +133,9 @@ on me.</p>
   
   <entry>
     <title type="html"><![CDATA[Paris – Exploring the Lourve pt 2]]></title>
-    <link href="http://zaczadell.com/2011/paris-exploring-the-lourve-pt-2/"/>
+    <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-2/"/>
     <updated>2011-04-24T16:25:57-07:00</updated>
-    <id>http://zaczadell.com/2011/paris-exploring-the-lourve-pt-2</id>
+    <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-2</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564734154/"><img class="center" src="http://farm6.static.flickr.com/5135/5564734154_7589bba1c9_b.jpg" title="Victory of Samothrace" ></a>
 <a href="http://www.flickr.com/photos/zacharyz/5564163905/"><img src="http://farm6.static.flickr.com/5255/5564163905_c53f45d4c0_b.jpg" alt="Woo it isthe Mona Lisa!" /></a></p>
 
@@ -155,9 +155,9 @@ on me.</p>
   
   <entry>
     <title type="html"><![CDATA[Paris - Exploring the Lourve pt 1]]></title>
-    <link href="http://zaczadell.com/2011/paris-exploring-the-lourve-pt-1/"/>
+    <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-1/"/>
     <updated>2011-04-02T12:28:13-07:00</updated>
-    <id>http://zaczadell.com/2011/paris-exploring-the-lourve-pt-1</id>
+    <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-1</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5564142213/"><img src="http://farm6.static.flickr.com/5253/5564142213_caa828d762_b.jpg" alt="The Louvre Panorama" /></a></p>
 
 <p><a href="http://www.flickr.com/photos/zacharyz/5564720516/"><img src="http://farm6.static.flickr.com/5138/5564720516_75dcc8fb18_b.jpg" alt="How do you get a good picture of yourself while traveling?" /></a></p>
