@@ -6,7 +6,7 @@ footer: true
 
 ### Who is this guy?
 
-{% img right http://farm3.static.flickr.com/2186/5695227274_f6695796ed_m.jpg %}
+{% img right http://farm3.static.flickr.com/2186/5695227274_f6695796ed_d.jpg %}
 
 My name is Zachary Zadell.
 
