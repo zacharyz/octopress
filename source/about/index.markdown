@@ -12,8 +12,7 @@ My name is Zachary Zadell.
 
 I am a software developer based out of Portland, Oregon.
 
-I specialize in full-stack web development with Ruby on Rails and Wordpress
-using primarily Ruby, Javascript and CSS.
+I specialize in full-stack web development with Ruby, Javascript and CSS using primarily Ruby on Rails and Wordpress.
 
 I began 2010 with a move to Portland, Oregon after living in Eugene for 5
 years. I studied at the University of Illinois at Urbana Champaign and
@@ -42,6 +41,8 @@ methods:
 
 email: hello @ zadell dot com 
 
-gtalk: zacharyz google voice: 541 359 4288
+gtalk: zacharyz 
+
+google voice: 541 359 4288
 
 connect: [twitter](http://twitter.com/zzadell), [linkedin](http://www.linkedin.com/in/zacharyz)
