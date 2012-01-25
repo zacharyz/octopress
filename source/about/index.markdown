@@ -19,7 +19,7 @@ years. I studied at the University of Illinois at Urbana Champaign and
 University of Hawaii at Manoa where I earned a degree in Computer Science. In
 the past I have worked professionally as a project manager, game developer,
 systems engineer and fruit picker in a rain-forest. Feel free to visit my
-[Linkedin profile](http://www.linkedin.com/in/zacharyz) for more information.
+[Linkedin](http://www.linkedin.com/in/zacharyz) profile for more information.
 
 ### What is this site about?
 
