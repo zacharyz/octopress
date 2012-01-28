@@ -6,6 +6,7 @@ slug: progress-update-10-pounds-down-20-to-go
 status: publish
 title: Progress Update - 10 pounds down - 20 to go.
 wordpress_id: '4209'
+published: false
 categories:
 - fitness
 - progress update

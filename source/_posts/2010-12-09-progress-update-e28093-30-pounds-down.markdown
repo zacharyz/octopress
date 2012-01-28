@@ -6,6 +6,7 @@ slug: progress-update-%e2%80%93-30-pounds-down
 status: publish
 title: Progress Update – 30 pounds down
 wordpress_id: '4220'
+published: false
 categories:
 - fitness
 - progress update

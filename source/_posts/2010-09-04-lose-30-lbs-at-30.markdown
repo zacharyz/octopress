@@ -6,11 +6,12 @@ slug: lose-30-lbs-at-30
 status: publish
 title: Personal Challenge - Lose 30 lbs at 30
 wordpress_id: '4205'
+published: false
 categories:
 - fitness
 ---
 
-[{% img left http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt-250x300.jpg %}](http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt.jpg)
+[{% img right http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt-250x300.jpg %}](http://thirtyatthirty.zadell.com/wordpress/wp-content/uploads/2010/09/pinkshirt.jpg)
 
 I turned 30 last month.
 
@@ -24,8 +25,8 @@ fitness. The purpose of this site is to motivate me to achieving the level of
 fitness that I desire. By publishing my diets and exercises I am holding
 myself accountable.
 
-_My personal challenge then is to lose 30 lbs - or weigh 160 lbs - within the
-year. _
+My personal challenge then is to lose 30 lbs - or weigh 160 lbs - within the
+year.
 
 I plan to post weekly status reports on my progress. I also plan to document
 the methods and diets that I used to achieve the results.
