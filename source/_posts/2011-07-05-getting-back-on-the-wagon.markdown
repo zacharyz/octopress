@@ -31,7 +31,7 @@ During the past few months I haven't exactly been inactive. I
 playing more tennis. I feel stronger and healthier than ever so why I am I
 freaking out? Because it all begins some where. Sure a 5-10 pounds of weight
 gain isn't much but that is just the beginning. If I get comfortable with a
-pound here and there then before I know it I will overweight, out of shape and
+pound here and there then before I know it I will be overweight, out of shape and
 hating myself.
 
 I have set a new goal for myself to lose 10 pounds. It isn't nearly as much as
