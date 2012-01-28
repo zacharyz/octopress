@@ -1,5 +1,5 @@
 ---
-author: dakry
+author: Zachary
 date: '2010-11-19 17:26:33'
 layout: post
 slug: progress-update-%e2%80%93-20-pounds-down-%e2%80%93-10-to-go
@@ -12,7 +12,7 @@ categories:
 - progress update
 ---
 
-![20 down - 10 to go](http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_z.jpg)
+{% img left http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_d.jpg %}
 
 
 Those last 10 pounds took quite a bit longer than the first. Because of this I

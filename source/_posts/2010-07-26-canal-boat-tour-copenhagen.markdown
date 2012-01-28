@@ -43,7 +43,7 @@ An old sub-yard turned into an upscale apartment complex.
  
 A view of the Marble Church and the Palace fountain.
 
-[{% img center (http://farm5.static.flickr.com/4140/4821594935_4475ea915d_b.jpg The most photographed tree in Copenhagen %}](http://www.flickr.com/photos/zacharyz/4821594935/)
+[{% img center http://farm5.static.flickr.com/4140/4821594935_4475ea915d_b.jpg The most photographed tree in Copenhagen %}](http://www.flickr.com/photos/zacharyz/4821594935/)
 
 According to the guide this is the most photographed tree in Copenhagen
 as everyone takes a picture of it while trying to get a shot of the church as

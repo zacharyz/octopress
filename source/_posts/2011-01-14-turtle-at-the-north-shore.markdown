@@ -11,6 +11,6 @@ categories:
 - travel
 ---
 
-[{% img center http://farm6.static.flickr.com/5127/5334301353_19e76966b9_z.jpg Turtle at the North Shore %}](http://www.flickr.com/photos/zacharyz/5334301353/)
+[{% img center http://farm6.static.flickr.com/5127/5334301353_19e76966b9_b.jpg Turtle at the North Shore %}](http://www.flickr.com/photos/zacharyz/5334301353/)
 
 
