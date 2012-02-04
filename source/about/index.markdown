@@ -34,6 +34,15 @@ appreciate.
 When not working, taking pictures or hiking you will probably find me playing
 tennis or running.
 
+
+### About this site
+
+This site is done with Jekyll and hosted on Heroku. 
+
+The design is responsive - meaning it will look decent on any sort of
+device I display it on. It also puts an emphasis on my pictures more
+than anything else - which is important to me.
+
 Want to hire me for a project or just get in touch? Use one of the below
 methods:
 
