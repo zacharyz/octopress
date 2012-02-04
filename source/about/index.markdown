@@ -10,9 +10,10 @@ footer: true
 
 My name is Zachary Zadell.
 
-I am a software developer based out of Portland, Oregon.
+I am a software developer based out of Portland, Oregon. I work for a
+local startup called [Appfog](http://appfog.com/). 
 
-I specialize in full-stack web development with Ruby, Javascript and CSS using primarily Ruby on Rails and Wordpress.
+I specialize in full-stack web development with Ruby, Javascript and CSS using primarily Ruby on Rails.
 
 I began 2010 with a move to Portland, Oregon after living in Eugene for 5
 years. I studied at the University of Illinois at Urbana Champaign and
@@ -27,20 +28,20 @@ I see this as a place where I can talk about the places I have been, the
 lessons I have learned, the projects I am developing, and post pictures. Lots
 of pictures.
 
-I use photography as an excuse to go on hikes or traveling to crazy locations
+I use photography as an excuse to go on hikes or travel to crazy locations
 for the purpose of capturing unique perspectives that hopefully others can
-appreciate.
+appreciate. Photography forces you to actively look at and appreciate your
+surroundings - something most people don't do enough.
 
-When not working, taking pictures or hiking you will probably find me playing
-tennis or running.
+I also am quite into playing tennis and improving my over all health and fitness. I dedicate a lot of time towards working out, running and trying to eat cleanly.
 
 
 ### About this site
 
-This site is done with Jekyll and hosted on Heroku. 
+This site is done with [Jekyll](http://jekyllrb.com/) and hosted on [Heroku](http://www.heroku.com/). 
 
-The design is responsive - meaning it will look decent on any sort of
-device I display it on. It also puts an emphasis on my pictures more
+The design is [responsive](http://www.alistapart.com/articles/responsive-web-design/) - meaning it will look decent on any sort of
+device I display it on, whether that be my iphone or my desktop. It also puts an emphasis on my pictures more
 than anything else - which is important to me.
 
 Want to hire me for a project or just get in touch? Use one of the below
