@@ -2,6 +2,7 @@
 layout: page
 title: "about"
 footer: true
+sharing: false
 ---
 
 ### Who is this guy?
