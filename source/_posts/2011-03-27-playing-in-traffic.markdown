@@ -10,4 +10,7 @@ categories:
 - photography
 - travel
 ---
-[{% img center http://farm6.static.flickr.com/5264/5565770857_e7c6271234_o.jpg playing in london traffic %}](http://www.flickr.com/photos/zacharyz/5566274994/)
+{% img center http://farm8.staticflickr.com/7204/6857916803_e21c970249_b.jpg %}
+{% img center http://farm8.staticflickr.com/7209/6857918151_3abb777223_b.jpg %}
+{% img center http://farm8.staticflickr.com/7210/6857919573_c88a000613_b.jpg %}
+
