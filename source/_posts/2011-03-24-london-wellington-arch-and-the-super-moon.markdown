@@ -11,7 +11,7 @@ categories:
 - travel
 ---
 
-[![Wellington Arch with Full Moon](http://farm6.static.flickr.com/5131/5544942228_9e62fc1c4c_b.jpg)](http://www.flickr.com/photos/zacharyz/5544942228/)
+[![Wellington Arch with Full Moon](http://farm6.staticflickr.com/5131/5544942228_2acc32f8c5_b.jpg)](http://www.flickr.com/photos/zacharyz/5544942228/)
 
 
 This picture represents a special memory for me. Not only was it an absolute
