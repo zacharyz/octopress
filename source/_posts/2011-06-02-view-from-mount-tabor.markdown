@@ -5,6 +5,7 @@ layout: post
 slug: view-from-mount-tabor
 status: publish
 title: View from Mount Tabor
+comments: true
 wordpress_id: '5278'
 categories:
 - photography

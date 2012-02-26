@@ -5,6 +5,7 @@ layout: post
 slug: getting-back-on-the-wagon
 status: publish
 title: Getting Back on the Wagon
+comments: true
 wordpress_id: '5365'
 categories:
 - fitness

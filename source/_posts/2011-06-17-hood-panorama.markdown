@@ -6,6 +6,7 @@ slug: hood-panorama
 status: publish
 title: Hood Panorama
 wordpress_id: '5340'
+comments: true
 categories:
 - outdoors
 - photography

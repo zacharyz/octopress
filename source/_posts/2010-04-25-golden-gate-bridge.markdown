@@ -5,6 +5,7 @@ layout: post
 slug: golden-gate-bridge
 status: publish
 title: Golden Gate Bridge
+comments: true
 wordpress_id: '462'
 categories:
 - photography
