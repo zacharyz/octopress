@@ -37,7 +37,7 @@ surroundings - something most people don't do enough.
 I also am quite into playing tennis and improving my over all health and fitness. I dedicate a lot of time towards working out, running and trying to eat cleanly.
 
 
-### About this site
+### The tech behind this site
 
 This site is done with [Jekyll](http://jekyllrb.com/) and hosted on [Heroku](http://www.heroku.com/). 
 

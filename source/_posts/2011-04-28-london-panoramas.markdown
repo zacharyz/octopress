@@ -62,9 +62,7 @@ to take in some of the sky and ground. So instead of 3 shots you will end up
 taking around 9. Autostich is a champ at combining everything together.
 
 [![london eye](http://farm6.static.flickr.com/5225/5565642185_9bc61d33e7_b.jpg
-)](http://www.flickr.com/photos/zacharyz/5565642185/) [![Tralafagar Square Pan
-orama](http://farm6.static.flickr.com/5293/5586210202_193784efea_b.jpg)](http:
-//www.flickr.com/photos/zacharyz/5586210202/)
+)](http://www.flickr.com/photos/zacharyz/5565642185/) 
 [{% img center http://farm6.static.flickr.com/5253/5566228732_2d085237bb_b.jpg Saint Peters Cathedral %}](http://www.flickr.com/photos/zacharyz/5566228732/)
  
 You can also use the same method to take
