@@ -75,7 +75,7 @@ chased down and retrieved by Craig.
 
 {% img http://farm6.staticflickr.com/5067/5801399002_92de94a5fd_b.jpg Enjoying the Mountain Light%}
 
-{% img http://farm3.staticflickr.com/2342/5801404006_c3c555b4e2_b.jpg Mountain Light %}
+{% img http://farm3.staticflickr.com/2342/5801404006_9d116ab4d3_b.jpg Mountain Light %}
 
 One of my favorite parts of the hike was when the sun was still rising on the
 other side of the mountain. This would cause the snow to melt and blow over

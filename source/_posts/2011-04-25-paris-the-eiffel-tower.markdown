@@ -33,7 +33,7 @@ Spanish girls. On the tour I ended up also meeting a bunch of guys from
 Barcelona and Madrid. Their friendliness definitely convinced me to add Spain
 to my future travels.
 
-[{% img center http://farm6.static.flickr.com/5183/5564790182_4cb0844ff4_b.jpg Nyarr and the Eiffel Tower %}](http://www.flickr.com/photos/zacharyz/5564790182/)
+[{% img center http://farm6.staticflickr.com/5183/5564790182_4237505e55_b.jpg Nyarr and the Eiffel Tower %}](http://www.flickr.com/photos/zacharyz/5564790182/)
 
 One of my goals for this trip was to travel as light as possible (while still
 carrying my camera + lenses). I ended up not bringing my laptop or tripod and
