@@ -18,11 +18,10 @@ Spring is starting to peak it's head out from the rain and the snow here in Oreg
 thought I would take advantage of the opportunity and spend the weekend at the coast
 shooting Haystack Rock at Cannon Beach. 
 
-The weather promised clear skies and warm weather (for Oregon Coast at least). Unfortunately I was cheated out of
-a glorious sunset and instead had to settle for this. 
+The weekend promised clear skies and warm weather (for the Oregon Coast at least). Unfortunately I was cheated out of a glorious sunset and instead had to settle for this. 
 
 Despite my inactivity for posting pictures over the last 6 months - photography has still been on
 my mind. The new year has brought about a ton of postive changes and I
-am excited as ever to advantage of them.
+am as excited as ever.
 
 Stay tuned for many more pictures to come in 2012.
