@@ -52,7 +52,7 @@ the cold wasn't affecting me at all. I actually stripped down to my underwear
 and changed in the middle of the parking lot while everyone else huddled in
 the car.
 
-{% img http://farm3.staticflickr.com/2087/5800822641_29c6542bff_b.jpg The Start of the Hike at Timberline %}
+<div class="image" id="5800822641"></div>
 
 We started the climb at 1:40am. Climbers try to Summit before the sun fully
 rises as the final part of the hike can get dangerous when the snow begins to
