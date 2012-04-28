@@ -17,7 +17,7 @@ tags:
 - '"oregon"'
 - '"sigma 10-20"'
 ---
-{% img http://farm6.staticflickr.com/5316/5801412964_e30f23d3ce_b.jpg Road to the Pearly Gates Panorama %}
+<div class="image" id="5801412964"></div>
 
 Whenever I cross the Morrison bridge on a clear day in Portland one particular
 object seems to stand out on the horizon - [Mount Hood](http://en.wikipedia.org/wiki/Mount_Hood).
@@ -65,25 +65,25 @@ in physically there would come a time where I would be looking at my feet
 focusing on each individual step and would have to will myself to continue on.
 This happened quite often during the hike.
 
-{% img http://farm4.staticflickr.com/3267/5800830697_87ba4236a4_b.jpg Enjoying the First Light %}
+<div class="image" id="5800830697"></div>
 
-{% img http://farm4.staticflickr.com/3461/5801391942_4fddd0eee0_b.jpg Chasing the Mountain Shadow %}
+<div class="image" id="5801391942"></div>
 
 Despite the strong winds we managed to completely avoid losing any gear. At
 least 3 times we had a piece of equipment fly off down the mountain only to be
 chased down and retrieved by Craig.
 
-{% img http://farm6.staticflickr.com/5067/5801399002_92de94a5fd_b.jpg Enjoying the Mountain Light%}
+<div class="image" id="5801399002"></div>
 
-{% img http://farm3.staticflickr.com/2342/5801404006_9d116ab4d3_b.jpg Mountain Light %}
+<div class="image" id="5801404006"></div>
 
 One of my favorite parts of the hike was when the sun was still rising on the
 other side of the mountain. This would cause the snow to melt and blow over
 the peak. The sun would catch on the snow and light it up.
 
-{% img http://farm4.staticflickr.com/3556/5801407450_d0e713bf9b_b.jpg Mount Hood Panorama %}
+<div class="image" id="5801407450"></div>
 
-{% img http://farm3.staticflickr.com/2653/5800856449_58e15b51d4_b.jpg Taking a Break %}
+<div class="image" id="5800856449"></div>
 
 We kept a pretty slow pace. The softness of the snow ment that if your footing
 wasn't sure then you would be sliding back down. Repeating that over thousands
@@ -110,17 +110,17 @@ yourself while you kick your feet into solid footing. The entire time there is
 the risk that you will slip and slide down uncontrollably into a crevice at
 the bottom.
 
-{% img http://farm6.staticflickr.com/5319/5801414860_9274fe7933_b.jpg At the Pearly Gates%}
+<div class="image" id="5801414860"></div>
 
 8 Hours later though and we were at the top.
 
-{% img http://farm3.staticflickr.com/2242/5801421406_1a6464af25_b.jpg At the Summit %}
+<div class="image" id="5801421406"></div>
 
-{% img http://farm6.staticflickr.com/5186/5800869465_32a2f800c0_b.jpg Craig at the Summit %}
+<div class="image" id="5800869465"></div>
 
-{% img http://farm4.staticflickr.com/3198/5800875441_4a5b758fbf_b.jpg Jon at the Summit %}
+<div class="image" id="5800875441"></div>
 
-{% img http://farm4.staticflickr.com/3578/5800862369_07d54cf9d7_b.jpg It is a long ways down from the Pearly Gates %}
+<div class="image" id="5800862369"></div>
 
 The trip back down was actually the hardest part of the hike. Coming up we
 couldn't actually see how far we had to go or how high we had to climb because
