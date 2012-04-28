@@ -19,8 +19,8 @@ tags:
 - panoramas
 - photography
 ---
-
-{% img http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg %}
+ 
+<div class="image" id="5800883949"></div>
 
 This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn't until I was making the journey down that I

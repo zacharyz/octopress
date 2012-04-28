@@ -12,7 +12,7 @@ tags:
 - hdr
 ---
 
-{% img http://farm8.staticflickr.com/7191/6914996244_c568e07e8b_b.jpg Haystack Rock at Sunset %}
+<div class="image" id="6914996244"></div>
 
 Spring is starting to peak it's head out from the rain and the snow here in Oregon. I
 thought I would take advantage of the opportunity and spend the weekend at the coast

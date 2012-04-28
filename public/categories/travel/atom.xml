@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/travel/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-04-23T23:54:26-07:00</updated>
+  <updated>2012-04-28T02:43:14-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,8 @@
     <link href="http://zadell.com/2011/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
     <id>http://zadell.com/2011/hood-panorama</id>
-    <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg"></p>
+    <content type="html"><![CDATA[<div class="image" id="5800883949"></div>
+
 
 <p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn't until I was making the journey down that I

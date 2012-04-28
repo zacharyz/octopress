@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-04-23T23:54:26-07:00</updated>
+  <updated>2012-04-28T02:43:14-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,8 @@
     <link href="http://zadell.com/2012/haystack-rock-cannon-beach/"/>
     <updated>2012-04-09T20:06:00-07:00</updated>
     <id>http://zadell.com/2012/haystack-rock-cannon-beach</id>
-    <content type="html"><![CDATA[<p><img src="http://farm8.staticflickr.com/7191/6914996244_c568e07e8b_b.jpg" title="Haystack Rock at Sunset" ></p>
+    <content type="html"><![CDATA[<div class="image" id="6914996244"></div>
+
 
 <p>Spring is starting to peak it's head out from the rain and the snow here in Oregon. I
 thought I would take advantage of the opportunity and spend the weekend at the coast
@@ -35,11 +36,69 @@ am as excited as ever.</p>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Dinner with Chris and Melissa]]></title>
+    <link href="http://zadell.com/2012/dinner-with-chris-and-melissa/"/>
+    <updated>2012-01-24T12:06:00-08:00</updated>
+    <id>http://zadell.com/2012/dinner-with-chris-and-melissa</id>
+    <content type="html"><![CDATA[<p>One of the highlights since moving to Portland has been making a ton of
+new friends. Two of the earliest that Seyoung and I made were Chris and
+Melissa.</p>
+
+<p>Originally we had all planned on spending the weekend clamming in
+Washington but when the weather got hostile they decided to hold and
+impromptu dinner and invite all our friends over. Chris and Melissa have
+traveled around vietnam and studied asian cuisine so we were all in for
+a treat.</p>
+
+<p>Chris' job was to handle cooking all the meat while Melissa was in
+charge of the ice cream. Everyone else was put on the duty of
+constructing all the different courses.</p>
+
+<h4>The Menu</h4>
+
+<p><img src="http://farm8.staticflickr.com/7175/6754145575_0067bd03a4_b.jpg" title="the menu" ></p>
+
+<h4>Preparing the Pork Shu Mai</h4>
+
+<p><img src="http://farm8.staticflickr.com/7021/6754152719_06fc27e3a4_b.jpg"></p>
+
+<h4>Char Sui Bao and Shu Mai</h4>
+
+<p><img src="http://farm8.staticflickr.com/7009/6754157065_1e77060534_b.jpg"></p>
+
+<h4>Char Sui Bao</h4>
+
+<p><img src="http://farm8.staticflickr.com/7154/6754155163_a410e4d4c3_b.jpg"></p>
+
+<h4>Tamarind Whisky Sour</h4>
+
+<p><img src="http://farm8.staticflickr.com/7017/6754163547_3a723e4295_b.jpg"></p>
+
+<h4>Fried Wings</h4>
+
+<p><img src="http://farm8.staticflickr.com/7027/6754164445_edc1f74eb3_b.jpg"></p>
+
+<h4>Ike's Fish Sauce Wings</h4>
+
+<p><img src="http://farm8.staticflickr.com/7163/6754166915_1ed81627ce_b.jpg"></p>
+
+<h4>Mango and Coconut Ice Cream</h4>
+
+<p><img src="http://farm8.staticflickr.com/7024/6754169901_8b38d05fea_b.jpg"></p>
+
+<p>These photos were shot with a <a href="http://www.amazon.com/gp/product/B001S2PPT0/ref=as_li_ss_tl?ie=UTF8&tag=ftp0e-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001S2PPT0">Nikon 35mm f/1.8G AF-S DX Lens for Nikon Digital SLR Cameras</a><img src="http://www.assoc-amazon.com/e/ir?t=ftp0e-20&l=as2&o=1&a=B001S2PPT0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. While I adored the lens and the focal length, I have decided that I don't want to purchase any more DX lenses. Instead I plan to concentrate on lenses that I will be of use to me on FX cameras and which will also hold their value over time.</p>
+
+<p>The rest of the pictures from the dinner can be found on my <a href="http://www.flickr.com/photos/zacharyz/sets/72157629009968727/">flickr</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Mount Rainier]]></title>
     <link href="http://zadell.com/2011/mount-rainier/"/>
     <updated>2011-08-24T16:32:23-07:00</updated>
     <id>http://zadell.com/2011/mount-rainier</id>
-    <content type="html"><![CDATA[<p><img src="http://farm7.staticflickr.com/6062/6070827576_18a973e840_b_d.jpg" title="Little Tahoma at Sunrise" ></p>
+    <content type="html"><![CDATA[<div class="image" id="6070827576"></div>
+
 
 <h2>You In?</h2>
 
@@ -104,7 +163,8 @@ and cooking. We were really concerned about having to carry a tent so we
 sprinted to Muir to make sure that we had a spot in the first come first serve
 hut that is available to climbers for free.</p>
 
-<p><img src="http://farm7.staticflickr.com/6067/6070260203_c0f96e8dee_b_d.jpg" title="Camp Muir Sunset" ></p>
+<div class="image" id="6070260203"></div>
+
 
 <p>We were able to get good spots and shortly after the place filled up with people who would be
 waking up the same time as we did to tackle the mountain. It seems everyone
@@ -150,17 +210,33 @@ water to drink that didn't involve melting snow.</p>
 <p>Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my <a href="http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/">flickr set</a>.</p>
 
-<p><img src="http://farm7.staticflickr.com/6073/6070862664_17766d24b9_b_d.jpg" title="Little Tahoma Panorama" ></p>
+<div class="image" id="6070862664"></div>
 
-<p><img src="http://farm7.staticflickr.com/6201/6070864990_fe656c11ce_b_d.jpg" title="Little Tahoma and the Glacier" ></p>
 
-<p><img src="http://farm7.staticflickr.com/6189/6070277665_f10288fa08_b_d.jpg" title="Rainier Sunrise" ></p>
 
-<p><img src="http://farm7.staticflickr.com/6193/6070803122_7ea463fd57_b.jpg"></p>
 
-<p><img src="http://farm7.staticflickr.com/6192/6070868716_f383f0f060_b.jpg"></p>
+<div class="image" id="6070864990"></div>
 
-<p><img src="http://farm7.staticflickr.com/6189/6070849602_a5c37f15a0_b.jpg"></p>
+
+
+
+<div class="image" id="6070277665"></div>
+
+
+
+
+<div class="image" id="6070803122"></div>
+
+
+
+
+<div class="image" id="6070868716"></div>
+
+
+
+
+<div class="image" id="6070849602"></div>
+
 
 <p><em>All pictures taken with a Canon G9</em></p>
 ]]></content>
@@ -171,7 +247,8 @@ and video from the trip can be found at on my <a href="http://www.flickr.com/pho
     <link href="http://zadell.com/2011/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
     <id>http://zadell.com/2011/hood-panorama</id>
-    <content type="html"><![CDATA[<p><img src="http://farm4.staticflickr.com/3183/5800883949_5b14859e7d_b.jpg"></p>
+    <content type="html"><![CDATA[<div class="image" id="5800883949"></div>
+
 
 <p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn't until I was making the journey down that I
@@ -303,15 +380,6 @@ conquered it. Which is a pretty good feeling. It was a hard hike but I
 honestly enjoyed every bit of it.</p>
 
 <p><em>All pictures were taken using my Nikon D90 and Sigma 10-20 lens.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[View from Mount Tabor]]></title>
-    <link href="http://zadell.com/2011/view-from-mount-tabor/"/>
-    <updated>2011-06-02T21:33:04-07:00</updated>
-    <id>http://zadell.com/2011/view-from-mount-tabor</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5791807543/"><img src="http://farm6.static.flickr.com/5264/5791807543_86708d9582_b.jpg" alt="View from Mount Tabor" /></a></p>
 ]]></content>
   </entry>
   

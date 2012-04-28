@@ -17,7 +17,7 @@ tags:
 - panoramas
 ---
 
-{% img http://farm7.staticflickr.com/6062/6070827576_18a973e840_b_d.jpg Little Tahoma at Sunrise %}
+<div class="image" id="6070827576"></div>
 
 ## You In?
 
@@ -83,7 +83,7 @@ and cooking. We were really concerned about having to carry a tent so we
 sprinted to Muir to make sure that we had a spot in the first come first serve
 hut that is available to climbers for free.
 
-{% img http://farm7.staticflickr.com/6067/6070260203_c0f96e8dee_b_d.jpg Camp Muir Sunset %}
+<div class="image" id="6070260203"></div>
 
 We were able to get good spots and shortly after the place filled up with people who would be
 waking up the same time as we did to tackle the mountain. It seems everyone
@@ -126,17 +126,17 @@ water to drink that didn't involve melting snow.
 Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my [flickr set](http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/).
 
-{% img http://farm7.staticflickr.com/6073/6070862664_17766d24b9_b_d.jpg Little Tahoma Panorama %}
+<div class="image" id="6070862664"></div>
 
-{% img http://farm7.staticflickr.com/6201/6070864990_fe656c11ce_b_d.jpg Little Tahoma and the Glacier %}
+<div class="image" id="6070864990"></div>
 
-{% img http://farm7.staticflickr.com/6189/6070277665_f10288fa08_b_d.jpg Rainier Sunrise %}
+<div class="image" id="6070277665"></div>
 
-{% img http://farm7.staticflickr.com/6193/6070803122_7ea463fd57_b.jpg %}
+<div class="image" id="6070803122"></div>
 
-{% img http://farm7.staticflickr.com/6192/6070868716_f383f0f060_b.jpg %}
+<div class="image" id="6070868716"></div>
 
-{% img http://farm7.staticflickr.com/6189/6070849602_a5c37f15a0_b.jpg %}
+<div class="image" id="6070849602"></div>
 
 _All pictures taken with a Canon G9_
 
