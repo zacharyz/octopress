@@ -14,10 +14,10 @@ tags:
 - paris
 ---
 
-[![The Louvre Panorama](http://farm6.static.flickr.com/5253/5564142213_caa828d762_b.jpg)](http://www.flickr.com/photos/zacharyz/5564142213/) 
+<div class="image" id="5564142213"></div>
 
-[![How do you get a good picture of yourself while traveling?](http://farm6.static.flickr.com/5138/5564720516_75dcc8fb18_b.jpg)](http://www.flickr.com/photos/zacharyz/5564720516/)
+<div class="image" id="5564720516"></div>
 
-[![Everyone was else was doing it!](http://farm6.static.flickr.com/5172/5564771994_ed4e32c2d3_b.jpg)](http://www.flickr.com/photos/zacharyz/5564771994/) 
+<div class="image" id="5564771994"></div>
 
-[![Inside the Louvre](http://farm6.static.flickr.com/5227/5564723118_bd794dcbdd_b.jpg)](http://www.flickr.com/photos/zacharyz/5564723118/)
+<div class="image" id="5564723118"></div>

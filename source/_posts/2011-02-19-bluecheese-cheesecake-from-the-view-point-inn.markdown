@@ -10,6 +10,4 @@ categories:
 - photography
 ---
 
-[![](http://farm6.static.flickr.com/5095/5459821261_b6928c1aa3_b.jpg)](http://www.flickr.com/photos/zacharyz/5459821261/)
-
-
+<div class="image" id="5459821261"></div>

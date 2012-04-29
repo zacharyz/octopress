@@ -15,7 +15,7 @@ tags:
 - paris
 ---
 
-[{% img center http://farm6.static.flickr.com/5229/5564207887_549fde6b4d_b.jpg Eiffel Tower Before the Storm %}](http://www.flickr.com/photos/zacharyz/5564207887/)
+<div class="image" id="5564207887"></div>
 
 The weather in Paris didn't quite work out for me. I had planned on spending
 the evening photographing the city at night only to find myself in a race to
@@ -25,7 +25,7 @@ point. I only had enough time to grab a few shots and ask some friendly
 tourists to grab some shots of myself before the sky opened up and drenched
 everyone.
 
-[![Keeping Dry in the Metro](http://farm6.static.flickr.com/5011/5564797602_801c2c9aee_b.jpg)](http://www.flickr.com/photos/zacharyz/5564797602/)
+<div class="image" id="5564797602"></div>
 
 Oddly enough I met a ton of awesome Spanish people on this trip. I stayed in a
 cheap hostel that had mixed dorms and ended up rooming with college-aged
@@ -33,7 +33,7 @@ Spanish girls. On the tour I ended up also meeting a bunch of guys from
 Barcelona and Madrid. Their friendliness definitely convinced me to add Spain
 to my future travels.
 
-[{% img center http://farm6.staticflickr.com/5183/5564790182_4237505e55_b.jpg Nyarr and the Eiffel Tower %}](http://www.flickr.com/photos/zacharyz/5564790182/)
+<div class="image" id="5564790182"></div>
 
 One of my goals for this trip was to travel as light as possible (while still
 carrying my camera + lenses). I ended up not bringing my laptop or tripod and

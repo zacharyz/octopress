@@ -14,15 +14,14 @@ tags:
 - vibram-five-fingers
 - waterfall
 ---
-
-[{% img center http://farm2.static.flickr.com/1162/5137530192_a96f749d13_b.jpg Fairy Falls at Fall %}](http://www.flickr.com/photos/zacharyz/5137530192/)
+<div class="image" id="5137530192"></div>
 
 The Gorge is absolutely stunning right now. The water levels are high and the
 trees are filled with oranges and yellows. If you can find a dry enough day as
 I was lucky enough to this weekend then you need to do yourself a favor and
 make your way out there before all the color disappears.
 
-[![Multnomah Falls at Fall](http://farm5.static.flickr.com/4153/5137536926_0691dc3087_b.jpg)](http://www.flickr.com/photos/zacharyz/5137536926/)
+<div class="image" id="5137536926"></div>
 
 This was my first hike in my Vibram Five Finger Trek shoes and it was a
 breeze. They handled the rocky uphill climb with ease and were still

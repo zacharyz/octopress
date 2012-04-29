@@ -11,4 +11,4 @@ categories:
 - travel
 ---
 
-[![wellington taffic reverse](http://farm6.static.flickr.com/5051/5566240852_d196da151e_b.jpg)](http://www.flickr.com/photos/zacharyz/5566240852/)
+<div class="image" id="5566240852"></div>

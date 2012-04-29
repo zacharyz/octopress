@@ -14,4 +14,4 @@ tags:
 - panoramas
 ---
 
-[![Koko head](http://farm6.static.flickr.com/5201/5347927449_ec4230e018_b.jpg)](http://www.flickr.com/photos/zacharyz/5347927449/)
+<div class="image" id="5347927449"></div>

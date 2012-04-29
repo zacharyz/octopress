@@ -10,7 +10,7 @@ categories:
 - photography
 - travel
 ---
-{% img center http://farm8.staticflickr.com/7204/6857916803_e21c970249_b.jpg %}
-{% img center http://farm8.staticflickr.com/7209/6857918151_3abb777223_b.jpg %}
-{% img center http://farm8.staticflickr.com/7210/6857919573_c88a000613_b.jpg %}
+<div class="image" id="6857916803"></div>
+<div class="image" id="6857918151"></div>
+<div class="image" id="6857919573"></div>
 

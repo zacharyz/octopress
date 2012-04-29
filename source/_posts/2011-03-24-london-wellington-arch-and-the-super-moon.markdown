@@ -11,8 +11,7 @@ categories:
 - travel
 ---
 
-[![Wellington Arch with Full Moon](http://farm6.staticflickr.com/5131/5544942228_2acc32f8c5_b.jpg)](http://www.flickr.com/photos/zacharyz/5544942228/)
-
+<div class="image" id="5544942228"></div>
 
 This picture represents a special memory for me. Not only was it an absolute
 perfect night for photography but I also had a chance to take a picture of the

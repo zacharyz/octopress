@@ -11,4 +11,4 @@ categories:
 - travel
 ---
 
-[![London in the Evening](http://farm6.static.flickr.com/5135/5566233244_bcc1edf983_b.jpg)](http://www.flickr.com/photos/zacharyz/5566233244/)
+<div class="image" id="5566233244"></div>

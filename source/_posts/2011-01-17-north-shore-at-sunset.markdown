@@ -11,5 +11,4 @@ categories:
 - travel
 ---
 
-[![North Shore at Sunset](http://farm6.static.flickr.com/5122/5334994830_cce086841b_b.jpg)](http://www.flickr.com/photos/zacharyz/5334994830/)
-
+<div class="image" id="5334994830"></div>

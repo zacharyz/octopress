@@ -13,4 +13,4 @@ tags:
 - photography
 ---
 
-[![Hamburg Station](http://farm5.static.flickr.com/4073/4899586376_8095111200_b.jpg)](http://www.flickr.com/photos/zacharyz/4899586376/)
+<div class="image" id="4899586376"></div>

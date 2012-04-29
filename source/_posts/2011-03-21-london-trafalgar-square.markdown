@@ -11,7 +11,7 @@ categories:
 - travel
 ---
 
-[![trafalgar square london](http://farm6.staticflickr.com/5018/5544871946_a155faa81d_b.jpg)](http://www.flickr.com/photos/zacharyz/5544871946/)
+<div class="image" id="5544871946"></div>
 
 I woke up Saturday morning in a London hostel and then proceeded to spend the
 next 10 hours touring the city - mostly on foot. The entire time I lugged

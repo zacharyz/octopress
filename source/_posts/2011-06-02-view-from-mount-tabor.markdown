@@ -14,4 +14,4 @@ tags:
 - portland
 ---
 
-[![View from Mount Tabor](http://farm6.static.flickr.com/5264/5791807543_86708d9582_b.jpg)](http://www.flickr.com/photos/zacharyz/5791807543/)
+<div class="image" id="5264/5791807543"></div>
