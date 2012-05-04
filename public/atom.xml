@@ -4,7 +4,7 @@
   <title><![CDATA[Zachary Zadell]]></title>
   <link href="http://zadell.com/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-04-28T17:04:06-07:00</updated>
+  <updated>2012-05-03T19:48:52-10:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -14,9 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[The Three Shelves - North Shore]]></title>
+    <link href="http://zadell.com/2012/the-three-shelves-north-shore/"/>
+    <updated>2012-05-03T18:17:00-10:00</updated>
+    <id>http://zadell.com/2012/the-three-shelves-north-shore</id>
+    <content type="html"><![CDATA[<div class="image" id="7140031025"></div>
+
+
+<div class='image'><a href=http://www.flickr.com/photos/zacharyz/7140031025/><img class='center' src='http://farm8.static.flickr.com/7117/7140031025_5831b7705b_b.jpg'></a><h2><span>The Three Shelves Sunset - North Shore</span></h2></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pupukea Beach - North Shore]]></title>
+    <link href="http://zadell.com/2012/north-shore-sunset/"/>
+    <updated>2012-05-02T00:58:00-10:00</updated>
+    <id>http://zadell.com/2012/north-shore-sunset</id>
+    <content type="html"><![CDATA[<div class="image" id="7134787611"></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Haystack Rock - Cannon Beach]]></title>
     <link href="http://zadell.com/2012/haystack-rock-cannon-beach/"/>
-    <updated>2012-04-09T20:06:00-07:00</updated>
+    <updated>2012-04-09T20:06:00-10:00</updated>
     <id>http://zadell.com/2012/haystack-rock-cannon-beach</id>
     <content type="html"><![CDATA[<div class="image" id="6914996244"></div>
 
@@ -38,7 +61,7 @@ am as excited as ever.</p>
   <entry>
     <title type="html"><![CDATA[Mount Rainier]]></title>
     <link href="http://zadell.com/2011/mount-rainier/"/>
-    <updated>2011-08-24T16:32:23-07:00</updated>
+    <updated>2011-08-24T16:32:23-10:00</updated>
     <id>http://zadell.com/2011/mount-rainier</id>
     <content type="html"><![CDATA[<div class="image" id="6070827576"></div>
 
@@ -188,7 +211,7 @@ and video from the trip can be found at on my <a href="http://www.flickr.com/pho
   <entry>
     <title type="html"><![CDATA[Getting Back on the Wagon]]></title>
     <link href="http://zadell.com/2011/getting-back-on-the-wagon/"/>
-    <updated>2011-07-05T16:34:51-07:00</updated>
+    <updated>2011-07-05T16:34:51-10:00</updated>
     <id>http://zadell.com/2011/getting-back-on-the-wagon</id>
     <content type="html"><![CDATA[<p>Last year I accomplished a huge goal by <a href="http://zadell.com/2010/progress-update-%E2%80%93-30-pounds-down/">losing 30 lbs in about 3 months</a>.
 Then I followed it up by losing an additional 5 pounds which brought me to my
@@ -245,7 +268,7 @@ friends who can then share in your success when you do reach your goals.</p>
   <entry>
     <title type="html"><![CDATA[Hood Panorama]]></title>
     <link href="http://zadell.com/2011/hood-panorama/"/>
-    <updated>2011-06-17T16:15:48-07:00</updated>
+    <updated>2011-06-17T16:15:48-10:00</updated>
     <id>http://zadell.com/2011/hood-panorama</id>
     <content type="html"><![CDATA[<div class="image" id="5800883949"></div>
 
@@ -263,7 +286,7 @@ are other hikers making the same journey that I had made.</p>
   <entry>
     <title type="html"><![CDATA[Summiting Mount Hood]]></title>
     <link href="http://zadell.com/2011/summiting-mount-hood/"/>
-    <updated>2011-06-07T17:44:46-07:00</updated>
+    <updated>2011-06-07T17:44:46-10:00</updated>
     <id>http://zadell.com/2011/summiting-mount-hood</id>
     <content type="html"><![CDATA[<div class="image" id="5801412964"></div>
 
@@ -411,7 +434,7 @@ honestly enjoyed every bit of it.</p>
   <entry>
     <title type="html"><![CDATA[View from Mount Tabor]]></title>
     <link href="http://zadell.com/2011/view-from-mount-tabor/"/>
-    <updated>2011-06-02T21:33:04-07:00</updated>
+    <updated>2011-06-02T21:33:04-10:00</updated>
     <id>http://zadell.com/2011/view-from-mount-tabor</id>
     <content type="html"><![CDATA[<div class="image" id="5264/5791807543"></div>
 
@@ -421,7 +444,7 @@ honestly enjoyed every bit of it.</p>
   <entry>
     <title type="html"><![CDATA[London - Panoramas]]></title>
     <link href="http://zadell.com/2011/london-panoramas/"/>
-    <updated>2011-04-28T17:41:38-07:00</updated>
+    <updated>2011-04-28T17:41:38-10:00</updated>
     <id>http://zadell.com/2011/london-panoramas</id>
     <content type="html"><![CDATA[<div class="image" id="5565645881"></div>
 
@@ -489,7 +512,7 @@ you started in taking awesome travel panoramas yourself.</p>
   <entry>
     <title type="html"><![CDATA[Paris - The Eiffel Tower Before the Storm]]></title>
     <link href="http://zadell.com/2011/paris-the-eiffel-tower/"/>
-    <updated>2011-04-25T21:05:46-07:00</updated>
+    <updated>2011-04-25T21:05:46-10:00</updated>
     <id>http://zadell.com/2011/paris-the-eiffel-tower</id>
     <content type="html"><![CDATA[<div class="image" id="5564207887"></div>
 
@@ -530,7 +553,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[Paris – Exploring the Lourve pt 2]]></title>
     <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-2/"/>
-    <updated>2011-04-24T16:25:57-07:00</updated>
+    <updated>2011-04-24T16:25:57-10:00</updated>
     <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-2</id>
     <content type="html"><![CDATA[<div class="image" id="5564734154"></div>
 
@@ -577,7 +600,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[Paris - Exploring the Lourve pt 1]]></title>
     <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-1/"/>
-    <updated>2011-04-02T12:28:13-07:00</updated>
+    <updated>2011-04-02T12:28:13-10:00</updated>
     <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-1</id>
     <content type="html"><![CDATA[<div class="image" id="5564142213"></div>
 
@@ -602,7 +625,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[London - Wellington Arch Traffic]]></title>
     <link href="http://zadell.com/2011/london-wellington-arch-traffic/"/>
-    <updated>2011-04-01T08:25:24-07:00</updated>
+    <updated>2011-04-01T08:25:24-10:00</updated>
     <id>http://zadell.com/2011/london-wellington-arch-traffic</id>
     <content type="html"><![CDATA[<div class="image" id="5566240852"></div>
 
@@ -612,7 +635,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[London - In the Evening]]></title>
     <link href="http://zadell.com/2011/london-in-the-evening/"/>
-    <updated>2011-03-29T03:27:13-07:00</updated>
+    <updated>2011-03-29T03:27:13-10:00</updated>
     <id>http://zadell.com/2011/london-in-the-evening</id>
     <content type="html"><![CDATA[<div class="image" id="5566233244"></div>
 
@@ -622,7 +645,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[London - Playing in Traffic]]></title>
     <link href="http://zadell.com/2011/playing-in-traffic/"/>
-    <updated>2011-03-27T19:07:50-07:00</updated>
+    <updated>2011-03-27T19:07:50-10:00</updated>
     <id>http://zadell.com/2011/playing-in-traffic</id>
     <content type="html"><![CDATA[<div class="image" id="6857916803"></div>
 
@@ -640,7 +663,7 @@ on me.</p>
   <entry>
     <title type="html"><![CDATA[London - Wellington Arch and the Super Moon]]></title>
     <link href="http://zadell.com/2011/london-wellington-arch-and-the-super-moon/"/>
-    <updated>2011-03-24T12:06:23-07:00</updated>
+    <updated>2011-03-24T12:06:23-10:00</updated>
     <id>http://zadell.com/2011/london-wellington-arch-and-the-super-moon</id>
     <content type="html"><![CDATA[<div class="image" id="5544942228"></div>
 
@@ -662,7 +685,7 @@ first for me. Thanks for viewing!</p>
   <entry>
     <title type="html"><![CDATA[London - Trafalgar Square at Night]]></title>
     <link href="http://zadell.com/2011/london-trafalgar-square/"/>
-    <updated>2011-03-21T14:24:49-07:00</updated>
+    <updated>2011-03-21T14:24:49-10:00</updated>
     <id>http://zadell.com/2011/london-trafalgar-square</id>
     <content type="html"><![CDATA[<div class="image" id="5544871946"></div>
 
@@ -680,7 +703,7 @@ sore shoulders and feet worth it.</p>
   <entry>
     <title type="html"><![CDATA[Back in Copenhagen]]></title>
     <link href="http://zadell.com/2011/back-in-copenhagen/"/>
-    <updated>2011-03-11T23:32:17-08:00</updated>
+    <updated>2011-03-11T23:32:17-10:00</updated>
     <id>http://zadell.com/2011/back-in-copenhagen</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/5518490687/"><img src="http://farm6.static.flickr.com/5178/5518490687_0bec7878d0_b.jpg" alt="Copenhagen Train Station Panorama" /></a></p>
 
@@ -727,7 +750,7 @@ travel to for 100-200 bucks.</p>
   <entry>
     <title type="html"><![CDATA[Bluecheese Cheesecake from the View Point Inn]]></title>
     <link href="http://zadell.com/2011/bluecheese-cheesecake-from-the-view-point-inn/"/>
-    <updated>2011-02-19T22:14:23-08:00</updated>
+    <updated>2011-02-19T22:14:23-10:00</updated>
     <id>http://zadell.com/2011/bluecheese-cheesecake-from-the-view-point-inn</id>
     <content type="html"><![CDATA[<div class="image" id="5459821261"></div>
 
@@ -737,29 +760,9 @@ travel to for 100-200 bucks.</p>
   <entry>
     <title type="html"><![CDATA[North Shore at Sunset]]></title>
     <link href="http://zadell.com/2011/north-shore-at-sunset/"/>
-    <updated>2011-01-17T23:17:03-08:00</updated>
+    <updated>2011-01-17T23:17:03-10:00</updated>
     <id>http://zadell.com/2011/north-shore-at-sunset</id>
     <content type="html"><![CDATA[<div class="image" id="5334994830"></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Turtle at the North Shore]]></title>
-    <link href="http://zadell.com/2011/turtle-at-the-north-shore/"/>
-    <updated>2011-01-14T19:29:09-08:00</updated>
-    <id>http://zadell.com/2011/turtle-at-the-north-shore</id>
-    <content type="html"><![CDATA[<div class="image" id="5334301353"></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Koko Head]]></title>
-    <link href="http://zadell.com/2011/koko-head/"/>
-    <updated>2011-01-12T01:10:01-08:00</updated>
-    <id>http://zadell.com/2011/koko-head</id>
-    <content type="html"><![CDATA[<div class="image" id="5347927449"></div>
 
 ]]></content>
   </entry>
