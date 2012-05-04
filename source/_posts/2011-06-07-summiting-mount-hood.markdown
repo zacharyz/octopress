@@ -17,7 +17,7 @@ tags:
 - '"oregon"'
 - '"sigma 10-20"'
 ---
-<div class="image" id="5801412964"></div>
+{% flickr 5801412964 %}
 
 Whenever I cross the Morrison bridge on a clear day in Portland one particular
 object seems to stand out on the horizon - [Mount Hood](http://en.wikipedia.org/wiki/Mount_Hood).
@@ -52,7 +52,7 @@ the cold wasn't affecting me at all. I actually stripped down to my underwear
 and changed in the middle of the parking lot while everyone else huddled in
 the car.
 
-<div class="image" id="5800822641"></div>
+{% flickr 5800822641 %}
 
 We started the climb at 1:40am. Climbers try to Summit before the sun fully
 rises as the final part of the hike can get dangerous when the snow begins to
@@ -65,25 +65,25 @@ in physically there would come a time where I would be looking at my feet
 focusing on each individual step and would have to will myself to continue on.
 This happened quite often during the hike.
 
-<div class="image" id="5800830697"></div>
+{% flickr 5800830697 %}
 
-<div class="image" id="5801391942"></div>
+{% flickr 5801391942 %}
 
 Despite the strong winds we managed to completely avoid losing any gear. At
 least 3 times we had a piece of equipment fly off down the mountain only to be
 chased down and retrieved by Craig.
 
-<div class="image" id="5801399002"></div>
+{% flickr 5801399002 %}
 
-<div class="image" id="5801404006"></div>
+{% flickr 5801404006 %}
 
 One of my favorite parts of the hike was when the sun was still rising on the
 other side of the mountain. This would cause the snow to melt and blow over
 the peak. The sun would catch on the snow and light it up.
 
-<div class="image" id="5801407450"></div>
+{% flickr 5801407450 %}
 
-<div class="image" id="5800856449"></div>
+{% flickr 5800856449 %}
 
 We kept a pretty slow pace. The softness of the snow ment that if your footing
 wasn't sure then you would be sliding back down. Repeating that over thousands
@@ -110,17 +110,17 @@ yourself while you kick your feet into solid footing. The entire time there is
 the risk that you will slip and slide down uncontrollably into a crevice at
 the bottom.
 
-<div class="image" id="5801414860"></div>
+{% flickr 5801414860 %}
 
 8 Hours later though and we were at the top.
 
-<div class="image" id="5801421406"></div>
+{% flickr 5801421406 %}
 
-<div class="image" id="5800869465"></div>
+{% flickr 5800869465 %}
 
-<div class="image" id="5800875441"></div>
+{% flickr 5800875441 %}
 
-<div class="image" id="5800862369"></div>
+{% flickr 5800862369 %}
 
 The trip back down was actually the hardest part of the hike. Coming up we
 couldn't actually see how far we had to go or how high we had to climb because

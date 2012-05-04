@@ -14,10 +14,10 @@ tags:
 - paris
 ---
 
-<div class="image" id="5564142213"></div>
+{% flickr 5564142213 %}
 
-<div class="image" id="5564720516"></div>
+{% flickr 5564720516 %}
 
-<div class="image" id="5564771994"></div>
+{% flickr 5564771994 %}
 
-<div class="image" id="5564723118"></div>
+{% flickr 5564723118 %}

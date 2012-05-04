@@ -13,5 +13,4 @@ tags:
 - panoramas
 - portland
 ---
-
-<div class="image" id="5264/5791807543"></div>
+{% flickr 5791807543 %}

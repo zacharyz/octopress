@@ -11,19 +11,18 @@ categories:
 - travel
 ---
 
-<div class="image" id="5564734154"></div>
+{% flickr 5564734154 %}
 
-<div class="image" id="5564163905"></div>
+{% flickr 5564163905 %}
 
-<div class="image" id="5564167825"></div>
+{% flickr 5564167825 %}
 
-<div class="image" id="5564746560"></div>
+{% flickr 5564746560 %}
 
-<div class="image" id="5564730904"></div>
+{% flickr 5564730904 %}
 
-<div class="image" id="5564754984"></div>
+{% flickr 5564754984 %}
 
-<div class="image" id="5564758656"></div>
+{% flickr 5564758656 %}
 
-<div class="image" id="5564766830"></div>
-
+{% flickr 5564766830 %}

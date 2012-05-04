@@ -14,7 +14,7 @@ tags:
 - panoramas
 ---
 
-<div class="image" id="5565645881"></div>
+{% flickr 5565645881 %}
 
 If you haven't noticed - [I love panoramas.](http://zaczadell.com/tag/panoramas/) I think they do a fantastic
 job of capturing the feel of a location much better than any single picture
@@ -61,9 +61,9 @@ both above and below the shots that make up your panorama. This will allow you
 to take in some of the sky and ground. So instead of 3 shots you will end up
 taking around 9. Autostich is a champ at combining everything together.
 
-<div class="image" id="5566228732"></div>
+{% flickr 5566228732 %}
 
-<div class="image" id="5565642185"></div>
+{% flickr 5565642185 %}
  
 You can also use the same method to take
 vertical shots aka vertoramas. This picture of Saint Peters Cathedral is made

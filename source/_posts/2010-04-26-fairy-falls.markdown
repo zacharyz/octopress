@@ -5,9 +5,8 @@ layout: post
 slug: fairy-falls
 status: publish
 title: Fairy Falls
-wordpress_id: '478'
 categories:
 - photography
 ---
-{% img center http://farm4.staticflickr.com/3327/4553153855_b25592018b_b.jpg %}
+{% flickr 4553153855 %}
 

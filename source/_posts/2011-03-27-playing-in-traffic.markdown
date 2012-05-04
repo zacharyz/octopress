@@ -10,7 +10,7 @@ categories:
 - photography
 - travel
 ---
-<div class="image" id="6857916803"></div>
-<div class="image" id="6857918151"></div>
-<div class="image" id="6857919573"></div>
+{% flickr 6857916803 %}
+{% flickr 6857918151 %}
+{% flickr 6857919573 %}
 

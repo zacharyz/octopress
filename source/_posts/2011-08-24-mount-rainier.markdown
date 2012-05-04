@@ -17,7 +17,7 @@ tags:
 - panoramas
 ---
 
-<div class="image" id="6070827576"></div>
+{% flickr 6070827576 %}
 
 ## You In?
 
@@ -83,7 +83,7 @@ and cooking. We were really concerned about having to carry a tent so we
 sprinted to Muir to make sure that we had a spot in the first come first serve
 hut that is available to climbers for free.
 
-<div class="image" id="6070260203"></div>
+{% flickr 6070260203 %}
 
 We were able to get good spots and shortly after the place filled up with people who would be
 waking up the same time as we did to tackle the mountain. It seems everyone
@@ -126,17 +126,17 @@ water to drink that didn't involve melting snow.
 Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my [flickr set](http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/).
 
-<div class="image" id="6070862664"></div>
+{% flickr 6070862664 %}
 
-<div class="image" id="6070864990"></div>
+{% flickr 6070864990 %}
 
-<div class="image" id="6070277665"></div>
+{% flickr 6070277665 %}
 
-<div class="image" id="6070803122"></div>
+{% flickr 6070803122 %}
 
-<div class="image" id="6070868716"></div>
+{% flickr 6070868716 %}
 
-<div class="image" id="6070849602"></div>
+{% flickr 6070849602 %}
 
 _All pictures taken with a Canon G9_
 

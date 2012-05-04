@@ -12,5 +12,4 @@ tags:
 - 'long exposure'
 - hawaii
 ---
-<div class="image" id="7140031025"></div>
 {% flickr 7140031025 %}

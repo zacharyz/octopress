@@ -15,7 +15,7 @@ tags:
 - paris
 ---
 
-<div class="image" id="5564207887"></div>
+{% flickr 5564207887 %}
 
 The weather in Paris didn't quite work out for me. I had planned on spending
 the evening photographing the city at night only to find myself in a race to
@@ -25,15 +25,14 @@ point. I only had enough time to grab a few shots and ask some friendly
 tourists to grab some shots of myself before the sky opened up and drenched
 everyone.
 
-<div class="image" id="5564797602"></div>
-
+{% flickr 5564797602 %}
 Oddly enough I met a ton of awesome Spanish people on this trip. I stayed in a
 cheap hostel that had mixed dorms and ended up rooming with college-aged
 Spanish girls. On the tour I ended up also meeting a bunch of guys from
 Barcelona and Madrid. Their friendliness definitely convinced me to add Spain
 to my future travels.
 
-<div class="image" id="5564790182"></div>
+{% flickr 5564790182 %}
 
 One of my goals for this trip was to travel as light as possible (while still
 carrying my camera + lenses). I ended up not bringing my laptop or tripod and

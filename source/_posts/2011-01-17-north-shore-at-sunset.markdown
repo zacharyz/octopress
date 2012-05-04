@@ -11,4 +11,4 @@ categories:
 - travel
 ---
 
-<div class="image" id="5334994830"></div>
+{% flickr 5334994830 %}

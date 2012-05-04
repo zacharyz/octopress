@@ -10,4 +10,4 @@ categories:
 - photography
 ---
 
-<div class="image" id="5459821261"></div>
+{% flickr 5459821261 %}

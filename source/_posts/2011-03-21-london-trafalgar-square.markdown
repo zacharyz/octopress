@@ -11,7 +11,7 @@ categories:
 - travel
 ---
 
-<div class="image" id="5544871946"></div>
+{% flickr 5544871946 %}
 
 I woke up Saturday morning in a London hostel and then proceeded to spend the
 next 10 hours touring the city - mostly on foot. The entire time I lugged

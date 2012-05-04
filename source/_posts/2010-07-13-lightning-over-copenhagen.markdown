@@ -11,4 +11,4 @@ categories:
 - travel
 ---
 
-[![Lightning Over Copenhagen](http://farm5.static.flickr.com/4137/4788699075_9d7e40fc81_b.jpg)](http://www.flickr.com/photos/zacharyz/4788699075/)
+{% flickr 4788699075 %}

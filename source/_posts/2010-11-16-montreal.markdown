@@ -14,7 +14,7 @@ tags:
 - panoramas
 ---
 
-<div class="image" id="5179502063"></div>
+{% flickr 5179502063 %}
 
 I was in Montreal for the past week to attend [Unite 2010](http://unity3d.com/unite/).
 
@@ -27,14 +27,14 @@ moment I could be sitting next to a group of people speaking perfect English
 as they discussed video games, then in the next I would be surrounded by
 people who only spoke French.
 
-<div class="image" id="5167757288"></div>
+{% flickr 5167757288 %}
 
 I am not used to being so well treated on a company trip. I am used to sharing
 cheap motels with co-workers as we tested how many we can pile in a single
 room. For this trip each of us were setup in 4 star hotels in the middle of
 Old Town Montreal, just a block away from the [Notre-Dame Basilica of
 
-<div class="image" id="5167753868"></div>
+{% flickr 5167753868 %}
 
 Overall Montreal was a beautiful city with nice people and great food I just
 wish I didn't get sick mid-trip and was able to appreciate it more.

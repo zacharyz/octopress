@@ -11,7 +11,7 @@ categories:
 - travel
 ---
 
-<div class="image" id="5544942228"></div>
+{% flickr 5544942228 %}
 
 This picture represents a special memory for me. Not only was it an absolute
 perfect night for photography but I also had a chance to take a picture of the

@@ -14,7 +14,8 @@ require 'json'
     def initialize(tag_name, markup, tokens)
       if markup =~ /(\d+)?/i
         @flickr_id  = $1
-        @response = Net::HTTP.get_response(URI("http://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=af21547295f60b93ad74f0bc2f05bbae&photo_id=#{@flickr_id}&format=json&nojsoncallback=1"))
+        @flickr_api_key = '99ec590d0a9937053b6aa5049ed35e51'
+        @response = Net::HTTP.get_response(URI("http://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key=#{@flickr_api_key}&photo_id=#{@flickr_id}&format=json&nojsoncallback=1"))
         @response = JSON.parse(@response.body)
         @photo = @response["photo"]
         @url = "http://farm#{@photo['farm']}.static.flickr.com/"+@photo['server']+"/"+@photo['id']+"_"+@photo['secret']+"_b."+@photo['originalformat']

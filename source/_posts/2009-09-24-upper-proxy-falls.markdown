@@ -9,4 +9,4 @@ wordpress_id: '196'
 categories:
 - photography
 ---
-{% img center http://farm4.staticflickr.com/3499/3950845049_defc43c3b2_b.jpg %}
+{% flickr 3950845049 %}

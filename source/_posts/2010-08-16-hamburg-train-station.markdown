@@ -13,4 +13,4 @@ tags:
 - photography
 ---
 
-<div class="image" id="4899586376"></div>
+{% flickr 4899586376 %}

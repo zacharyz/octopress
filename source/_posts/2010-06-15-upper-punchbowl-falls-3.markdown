@@ -10,7 +10,7 @@ categories:
 - photography
 ---
 
-[{% img center http://farm5.static.flickr.com/4068/4698736824_36204172ce_b.jpg Upper Punchbowl Falls %}](http://www.flickr.com/photos/zacharyz/4698736824/)
+{% flickr 4698736824 %}
 
 
 Located about 2 miles into the Eagle Creek trail in the Columbia River Gorge.
