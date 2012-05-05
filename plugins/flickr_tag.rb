@@ -20,6 +20,7 @@ require 'json'
         @photo = @response["photo"]
         @url = "http://farm#{@photo['farm']}.static.flickr.com/"+@photo['server']+"/"+@photo['id']+"_"+@photo['secret']+"_b."+@photo['originalformat']
         @photo_url = @photo["urls"]["url"][0]["_content"]
+        @description = @photo["description"]["_content"]
       end
       super
     end
@@ -27,7 +28,15 @@ require 'json'
     def render(context)
       output = super
       if @flickr_id
-        flickr =  "<div class='image' id='#{@flickr_id}'><a href=#{@photo_url}><img class='center' src='#{@url}'></a><h2><span>#{@photo['title']['_content']}</span></h2></div>"
+        flickr =  "<div class='image' id='#{@flickr_id}'>"
+        flickr += "<a href=#{@photo_url}>"
+        flickr += "<img class='center' src='#{@url}'>"
+        flickr += "</a>"
+        flickr += "<h2><span>#{@photo['title']['_content']}</span></h2>"
+        if @description
+          flickr += "<p class='description'><em>#{@description}</em></p>"
+        end
+        flickr += "</div>"
       else
         "Error processing input, expected syntax: {% flickr id %}"
       end

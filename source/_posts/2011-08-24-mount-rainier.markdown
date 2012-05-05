@@ -26,8 +26,6 @@ About 10 days ago I got an email from one of the friends I climbed Hood with
 asking if I wanted to climb Rainier. It contained a short description of the
 hike and ended with "It will be a miserable and wonderful experience. You in?"
 
-{% img left http://farm7.staticflickr.com/6202/6070324037_4e46699a7a_d.jpg Rainier with Mountain Flowers %}
-
 He honestly didn't even need to ask. Even after it was all over and I could
 barely stand, when simple things like opening a beer would cause me to cramp
 up, did I feel the same way as I did then - of course I was in.
@@ -41,6 +39,8 @@ gigantic mountain.
 
 What better gift to myself than to be able to claim that I conquered another
 mountain?
+
+{% flickr 6070864990 %}
 
 ## What's Involved
 
@@ -59,7 +59,7 @@ and back in 5 hours. We would be traveling with a 90 liter pack filled with
 gear, food and clothing, which would mean we would be traveling much slower
 than he did.
 
-{% img right http://farm7.staticflickr.com/6182/6070776640_c6f037aa21_d.jpg Inside of the Shelter at Camp Muir %}
+{% flickr 6070277665 %}
 
 Weight was always on my mind. None of my gear is particularly light. My pack
 is about 15 years old and no where near being ideal for climbing mountains
@@ -127,10 +127,6 @@ Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my [flickr set](http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/).
 
 {% flickr 6070862664 %}
-
-{% flickr 6070864990 %}
-
-{% flickr 6070277665 %}
 
 {% flickr 6070803122 %}
 
