@@ -4,7 +4,7 @@
   <title><![CDATA[Category: outdoors | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/outdoors/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-05-04T20:41:19-10:00</updated>
+  <updated>2012-05-07T23:34:43-10:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -14,11 +14,46 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The Three Shelves - North Shore]]></title>
+    <title type="html"><![CDATA[byodo-in temple - valley of the temples]]></title>
+    <link href="http://zadell.com/2012/byodo-in-temple-valley-of-the-temples/"/>
+    <updated>2012-05-07T23:30:00-10:00</updated>
+    <id>http://zadell.com/2012/byodo-in-temple-valley-of-the-temples</id>
+    <content type="html"><![CDATA[<p>{% flickr 7156944902 %}</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kaena Point Sunset]]></title>
+    <link href="http://zadell.com/2012/kaena-point-sunset/"/>
+    <updated>2012-05-07T22:40:00-10:00</updated>
+    <id>http://zadell.com/2012/kaena-point-sunset</id>
+    <content type="html"><![CDATA[<p>{% flickr 7156959126 %}</p>
+
+<p>Today marks one week on the island and on vacation.</p>
+
+<p>I had wanted to get out every night to grab a sunset while here but
+family obligations began to take its tole on me and required that I take
+some evenings off to get some rest.</p>
+
+<p>Today we rented a car and decided to tour the island. We began with a
+trip across the island to Lanakai Beach - which many consider one of the
+best beaches in the world. I was able to swim to one of the <a href="http://www.flickr.com/photos/zacharyz/7007734326">Mokulua Islands</a> and
+enjoy the bird sanctuary there before swimming back.</p>
+
+<p>Despite being here for a week I had yet to have some Ramen. Thankfully we stumbled upon <a href="http://www.flickr.com/photos/zacharyz/7154502656">Rai Rai Ramen</a> in Kailua which was superb. Then we made our way to the Valley of the Temples to visit the <a href="http://www.flickr.com/photos/zacharyz/7156944902">Byodo-In Temple</a>.</p>
+
+<p>We continued north to grab a quick shave ice from Aoki's in Haleiwa then
+finally made our way to Kaena Point on the west side of the island to
+grab this sunset.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Three Tables - North Shore]]></title>
     <link href="http://zadell.com/2012/the-three-shelves-north-shore/"/>
     <updated>2012-05-03T18:17:00-10:00</updated>
     <id>http://zadell.com/2012/the-three-shelves-north-shore</id>
-    <content type="html"><![CDATA[<p><div class='image' id='7140031025'><a href=http://www.flickr.com/photos/zacharyz/7140031025/><img class='center' src='http://farm8.static.flickr.com/7117/7140031025_5831b7705b_b.jpg'></a><h2><span>The Three Shelves Sunset - North Shore</span></h2><p class='description'><em></em></p></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 7140031025 %}</p>
 ]]></content>
   </entry>
   
@@ -27,7 +62,7 @@
     <link href="http://zadell.com/2012/north-shore-sunset/"/>
     <updated>2012-05-02T00:58:00-10:00</updated>
     <id>http://zadell.com/2012/north-shore-sunset</id>
-    <content type="html"><![CDATA[<p><div class='image' id='7134787611'><a href=http://www.flickr.com/photos/zacharyz/7134787611/><img class='center' src='http://farm9.static.flickr.com/8003/7134787611_fa79626ba1_b.jpg'></a><h2><span>Pupukea Sunset - North Shore Hawaii</span></h2><p class='description'><em>Taken at Pupukea Beach Park</em></p></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 7134787611 %}</p>
 ]]></content>
   </entry>
   
@@ -36,7 +71,7 @@
     <link href="http://zadell.com/2012/haystack-rock-cannon-beach/"/>
     <updated>2012-04-09T20:06:00-10:00</updated>
     <id>http://zadell.com/2012/haystack-rock-cannon-beach</id>
-    <content type="html"><![CDATA[<p><div class='image' id='6914996244'><a href=http://www.flickr.com/photos/zacharyz/6914996244/><img class='center' src='http://farm8.static.flickr.com/7191/6914996244_c568e07e8b_b.jpg'></a><h2><span>Haystack Rock</span></h2><p class='description'><em></em></p></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 6914996244 %}</p>
 
 <p>Spring is starting to peak it's head out from the rain and the snow here in Oregon. I
 thought I would take advantage of the opportunity and spend the weekend at the coast
@@ -49,151 +84,6 @@ my mind. The new year has brought about a ton of postive changes and I
 am as excited as ever.</p>
 
 <p>Stay tuned for many more pictures to come in 2012.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mount Rainier]]></title>
-    <link href="http://zadell.com/2011/mount-rainier/"/>
-    <updated>2011-08-24T16:32:23-10:00</updated>
-    <id>http://zadell.com/2011/mount-rainier</id>
-    <content type="html"><![CDATA[<p><div class='image' id='6070827576'><a href=http://www.flickr.com/photos/zacharyz/6070827576/><img class='center' src='http://farm7.static.flickr.com/6062/6070827576_18a973e840_b.jpg'></a><h2><span>Little Tahoma at Sunrise</span></h2><p class='description'><em></em></p></div></p>
-
-<h2>You In?</h2>
-
-<p>About 10 days ago I got an email from one of the friends I climbed Hood with
-asking if I wanted to climb Rainier. It contained a short description of the
-hike and ended with "It will be a miserable and wonderful experience. You in?"</p>
-
-<p>He honestly didn't even need to ask. Even after it was all over and I could
-barely stand, when simple things like opening a beer would cause me to cramp
-up, did I feel the same way as I did then - of course I was in.</p>
-
-<p>I think I have reached a stage in my life where simply because something is
-difficult is not reason enough not to do it. When I look back at the past year
-one of the things I think of most fondly is my Summit of Hood back in June.
-Whenever I am about Portland and I catch a glimpse of Hood I can't help but
-feel a tremendous sense of accomplishment knowing that I conquered such a
-gigantic mountain.</p>
-
-<p>What better gift to myself than to be able to claim that I conquered another
-mountain?</p>
-
-<p><div class='image' id='6070864990'><a href=http://www.flickr.com/photos/zacharyz/6070864990/><img class='center' src='http://farm7.static.flickr.com/6201/6070864990_fe656c11ce_b.jpg'></a><h2><span>Little Tahoma and the Glacier</span></h2><p class='description'><em></em></p></div></p>
-
-<h2>What's Involved</h2>
-
-<p>The Rainier summit is at 14,411 ft compared to Hood's 11,249 ft. In several of
-my shots there is a mountain called Little Tahoma that seems tiny when on the
-mountain. It is actually only 100 ft smaller than Mount Hood.</p>
-
-<p>This climb up Rainier is much longer than Hood was. The very last part of
-Hood, where you need an ice axe to self bellet yourself is probably more
-technically challenging than anything I encountered on Rainier, but beyond
-that Rainier is in a different league of difficulty because of the endurance
-you will need.</p>
-
-<p>Rumor has it that someone went from the parking lot to the top of the mountain
-and back in 5 hours. We would be traveling with a 90 liter pack filled with
-gear, food and clothing, which would mean we would be traveling much slower
-than he did.</p>
-
-<p><div class='image' id='6070277665'><a href=http://www.flickr.com/photos/zacharyz/6070277665/><img class='center' src='http://farm7.static.flickr.com/6189/6070277665_f10288fa08_b.jpg'></a><h2><span>Rainier Sunrise</span></h2><p class='description'><em></em></p></div></p>
-
-<p>Weight was always on my mind. None of my gear is particularly light. My pack
-is about 15 years old and no where near being ideal for climbing mountains
-with. I elected to leave my relatively heavy Nikon D90 + Sigma 10-20 combo that I
-adored on Hood home in exchange for a much lighter (if damaged) Canon G9. My
-G9 has been through quite a bit so it is filled with dust and if I ever tried
-to change its focal length it would lock up and give a lens error. I really
-wish I could have spared the weight but realize that many of the shots that I
-did get would not have happened if I had to fumble through my pack constantly
-to retrive my camera.</p>
-
-<p>The hike involves leaving early in the morning from the
-Paradise parking lot with all your gear. From there you will travel roughly 4
-hours to Camp Muir. The trip up was relatively easy. I was fresh and my pack
-felt light. Despite the length of the hike most of the people doing it were
-approaching it as a day hike - so up to Camp Muir and back.</p>
-
-<p>Like many others though we were in it to go all the way. We arrived at Muir
-shortly after noon and then spent the next 12 hours sleeping, filtering water
-and cooking. We were really concerned about having to carry a tent so we
-sprinted to Muir to make sure that we had a spot in the first come first serve
-hut that is available to climbers for free.</p>
-
-<p><div class='image' id='6070260203'><a href=http://www.flickr.com/photos/zacharyz/6070260203/><img class='center' src='http://farm7.static.flickr.com/6067/6070260203_c0f96e8dee_b.jpg'></a><h2><span>Camp Muir Sunset</span></h2><p class='description'><em></em></p></div></p>
-
-<p>We were able to get good spots and shortly after the place filled up with people who would be
-waking up the same time as we did to tackle the mountain. It seems everyone
-had the same plan and woke up around midnight to eat some breakfast, gear up
-and head out for what would be much more difficult climb than the first half of
-the mountain.</p>
-
-<p>By the end of the climb I was so exhausted that I had to break frequently to
-make the short walk to the actual summit. Without realizing it I was nearly on
-the verge of tears as we celebrated the climb. Was it the hardest thing I had
-ever done? Maybe. Most exhausting? Definitely.</p>
-
-<p>The hardest part of the experience was realizing you had to climb
-all the way back down again though. Shale and sliding snow made for a really
-uncomfortable trip down.</p>
-
-<h2>How long does it take?</h2>
-
-<p>Total trip broke down to:</p>
-
-<ul>
-<li>Hike to Camp Muir: 4 hours</li>
-<li>Resting at Camp Muir then waking up at midnight: 12 hours</li>
-<li>Hiking from Muir to Summit: 8 hours</li>
-<li>From Summit back down to Muir: 5 hours</li>
-<li>From Muir to the parking lot: 3 hours.</li>
-</ul>
-
-
-<p>So in total about 32 hours.</p>
-
-<p>My favorite moments were waking up in the middle of night, gazing up at a
-perfectly clear star-filled sky, and seeing St Helens silhouetted by the glow
-of Portland.</p>
-
-<p>I also enjoyed catching the first glow of the morning sky on the mountain and
-watching it change the color of the landscape.</p>
-
-<p>Finally I enjoyed butt sliding the rest of the way down the mountain and
-arriving at a wild flower filled mountain fed stream that meant we would have
-water to drink that didn't involve melting snow.</p>
-
-<p>Thanks for reading and enjoy the rest of the pictures. The rest of my shots
-and video from the trip can be found at on my <a href="http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/">flickr set</a>.</p>
-
-<p><div class='image' id='6070862664'><a href=http://www.flickr.com/photos/zacharyz/6070862664/><img class='center' src='http://farm7.static.flickr.com/6073/6070862664_17766d24b9_b.jpg'></a><h2><span>Little Tahoma Panorama</span></h2><p class='description'><em></em></p></div></p>
-
-<p><div class='image' id='6070803122'><a href=http://www.flickr.com/photos/zacharyz/6070803122/><img class='center' src='http://farm7.static.flickr.com/6193/6070803122_7ea463fd57_b.jpg'></a><h2><span>Relaxing at Camp Miur</span></h2><p class='description'><em></em></p></div></p>
-
-<p><div class='image' id='6070868716'><a href=http://www.flickr.com/photos/zacharyz/6070868716/><img class='center' src='http://farm7.static.flickr.com/6192/6070868716_f383f0f060_b.jpg'></a><h2><span>Relaxing by a mountain stream</span></h2><p class='description'><em>Weren't we just on top of that?</em></p></div></p>
-
-<p><div class='image' id='6070849602'><a href=http://www.flickr.com/photos/zacharyz/6070849602/><img class='center' src='http://farm7.static.flickr.com/6189/6070849602_a5c37f15a0_b.jpg'></a><h2><span>Victory at the top of Mount Rainer</span></h2><p class='description'><em></em></p></div></p>
-
-<p><em>All pictures taken with a Canon G9</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hood Panorama]]></title>
-    <link href="http://zadell.com/2011/hood-panorama/"/>
-    <updated>2011-06-17T16:15:48-10:00</updated>
-    <id>http://zadell.com/2011/hood-panorama</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5800883949'><a href=http://www.flickr.com/photos/zacharyz/5800883949/><img class='center' src='http://farm4.static.flickr.com/3183/5800883949_5b14859e7d_b.jpg'></a><h2><span>Rock Formation Panorama</span></h2><p class='description'><em></em></p></div></p>
-
-<p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
-way down from the summit. It wasn't until I was making the journey down that I
-really had an appreciation for just how beastly a journey it had been (8 hours
-to the top for me).</p>
-
-<p>One of the things I like about this shot is that you can see tiny specs that
-are other hikers making the same journey that I had made.</p>
 ]]></content>
   </entry>
   

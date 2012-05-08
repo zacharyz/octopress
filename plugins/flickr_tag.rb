@@ -34,7 +34,7 @@ require 'json'
         flickr += "</a>"
         flickr += "<h2><span>#{@photo['title']['_content']}</span></h2>"
         if @description
-          flickr += "<p class='description'><em>#{@description}</em></p>"
+          flickr += "<p class='description'>#{@description}</p>"
         end
         flickr += "</div>"
       else

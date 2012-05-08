@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Three Shelves - North Shore"
+title: "The Three Tables - North Shore"
 date: 2012-05-03 18:17
 comments: true
 categories: 
