@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "byodo-in temple - valley of the temples"
-date: 2012-05-07 23:30
+title: "Byodo-In Temple - valley of the temples"
+date: 2012-05-07 21:30
 comments: true
 categories: 
 - outdoors

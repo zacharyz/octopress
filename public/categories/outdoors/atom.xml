@@ -4,7 +4,7 @@
   <title><![CDATA[Category: outdoors | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/outdoors/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-05-07T23:34:43-10:00</updated>
+  <updated>2012-05-08T10:50:12-10:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[byodo-in temple - valley of the temples]]></title>
-    <link href="http://zadell.com/2012/byodo-in-temple-valley-of-the-temples/"/>
-    <updated>2012-05-07T23:30:00-10:00</updated>
-    <id>http://zadell.com/2012/byodo-in-temple-valley-of-the-temples</id>
-    <content type="html"><![CDATA[<p>{% flickr 7156944902 %}</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kaena Point Sunset]]></title>
@@ -49,6 +40,15 @@ grab this sunset.</p>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Byodo-In Temple - valley of the temples]]></title>
+    <link href="http://zadell.com/2012/byodo-in-temple-valley-of-the-temples/"/>
+    <updated>2012-05-07T21:30:00-10:00</updated>
+    <id>http://zadell.com/2012/byodo-in-temple-valley-of-the-temples</id>
+    <content type="html"><![CDATA[<p>{% flickr 7156944902 %}</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Three Tables - North Shore]]></title>
     <link href="http://zadell.com/2012/the-three-shelves-north-shore/"/>
     <updated>2012-05-03T18:17:00-10:00</updated>
@@ -67,23 +67,11 @@ grab this sunset.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Haystack Rock - Cannon Beach]]></title>
-    <link href="http://zadell.com/2012/haystack-rock-cannon-beach/"/>
-    <updated>2012-04-09T20:06:00-10:00</updated>
-    <id>http://zadell.com/2012/haystack-rock-cannon-beach</id>
-    <content type="html"><![CDATA[<p>{% flickr 6914996244 %}</p>
-
-<p>Spring is starting to peak it's head out from the rain and the snow here in Oregon. I
-thought I would take advantage of the opportunity and spend the weekend at the coast
-shooting Haystack Rock at Cannon Beach.</p>
-
-<p>The weekend promised clear skies and warm weather (for the Oregon Coast at least). Unfortunately I was cheated out of a glorious sunset and instead had to settle for this.</p>
-
-<p>Despite my inactivity for posting pictures over the last 6 months - photography has still been on
-my mind. The new year has brought about a ton of postive changes and I
-am as excited as ever.</p>
-
-<p>Stay tuned for many more pictures to come in 2012.</p>
+    <title type="html"><![CDATA[Banana Stands - Chinatown Market]]></title>
+    <link href="http://zadell.com/2012/banana-stands-chinatown-market/"/>
+    <updated>2012-05-02T00:42:00-10:00</updated>
+    <id>http://zadell.com/2012/banana-stands-chinatown-market</id>
+    <content type="html"><![CDATA[<p>{% flickr 7139596731 %}</p>
 ]]></content>
   </entry>
   
