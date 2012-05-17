@@ -33,9 +33,6 @@ require 'json'
         flickr += "<img class='center' src='#{@url}'>"
         flickr += "</a>"
         flickr += "<h2><span>#{@photo['title']['_content']}</span></h2>"
-        if @description
-          flickr += "<p class='description'>#{@description}</p>"
-        end
         flickr += "</div>"
       else
         "Error processing input, expected syntax: {% flickr id %}"
