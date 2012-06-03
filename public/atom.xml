@@ -4,7 +4,7 @@
   <title><![CDATA[Zachary Zadell]]></title>
   <link href="http://zadell.com/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-05-17T14:00:23-07:00</updated>
+  <updated>2012-06-02T19:12:43-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Chinaman Hat Long Exposure - Oahu Hawaii]]></title>
+    <link href="http://zadell.com/2012/chinaman-hat-long-exposure-oahu-hawaii/"/>
+    <updated>2012-06-02T19:09:00-07:00</updated>
+    <id>http://zadell.com/2012/chinaman-hat-long-exposure-oahu-hawaii</id>
+    <content type="html"><![CDATA[<div class='image' id='7156949512'><a href=http://www.flickr.com/photos/zacharyz/7156949512/><img class='center' src='http://farm8.static.flickr.com/7240/7156949512_f6c1b09b8e_b.jpg'></a><h2><span>Chinaman Hat Long Exposure</span></h2></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Puaena Point Sunset - Oahu Hawaii]]></title>
@@ -729,24 +739,6 @@ on me.</p>
     <updated>2011-03-29T03:27:13-07:00</updated>
     <id>http://zadell.com/2011/london-in-the-evening</id>
     <content type="html"><![CDATA[<div class='image' id='5566233244'><a href=http://www.flickr.com/photos/zacharyz/5566233244/><img class='center' src='http://farm6.static.flickr.com/5135/5566233244_bcc1edf983_b.jpg'></a><h2><span>London in the Evening</span></h2></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[London - Playing in Traffic]]></title>
-    <link href="http://zadell.com/2011/playing-in-traffic/"/>
-    <updated>2011-03-27T19:07:50-07:00</updated>
-    <id>http://zadell.com/2011/playing-in-traffic</id>
-    <content type="html"><![CDATA[<div class='image' id='6857916803'><a href=http://www.flickr.com/photos/zacharyz/6857916803/><img class='center' src='http://farm8.static.flickr.com/7204/6857916803_e21c970249_b.jpg'></a><h2><span>Playing in Traffic 1</span></h2></div>
-
-
-<div class='image' id='6857918151'><a href=http://www.flickr.com/photos/zacharyz/6857918151/><img class='center' src='http://farm8.static.flickr.com/7209/6857918151_3abb777223_b.jpg'></a><h2><span>Playing in Traffic 2</span></h2></div>
-
-
-<div class='image' id='6857919573'><a href=http://www.flickr.com/photos/zacharyz/6857919573/><img class='center' src='http://farm8.static.flickr.com/7210/6857919573_c88a000613_b.jpg'></a><h2><span>Playing in Traffic 3</span></h2></div>
-
-
 
 ]]></content>
   </entry>
