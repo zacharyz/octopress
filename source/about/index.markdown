@@ -5,7 +5,7 @@ footer: true
 sharing: false
 ---
 
-{% img right http://farm3.static.flickr.com/2186/5695227274_f6695796ed_d.jpg %}
+{% img right http://farm8.staticflickr.com/7196/7104045723_37346f3124.jpg %}
 
 My name is Zachary Zadell.
 
@@ -15,10 +15,10 @@ I work for a local startup called [Appfog](http://appfog.com/) where we build to
 and products for like minded developers.
 
 I specialize in full-stack web development with Ruby, Javascript and CSS using primarily Ruby on Rails and
-more recently Node.js.
+more recently Express and Node.js.
 
 I moved to Portland in 2010 and have since fallen in love with local
-microbrews, foodcarts and minimalist running. 
+microbrews, food carts and minimalist running. 
 
 I see this site as a place where I can talk about the places I have been, the
 lessons I have learned, the projects I am developing, and post pictures. Lots
