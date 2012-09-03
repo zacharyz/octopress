@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/travel/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-08-11T05:57:25-07:00</updated>
+  <updated>2012-09-03T09:58:44-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zadell.com/2011/hood-panorama/"/>
     <updated>2011-06-17T16:15:48-07:00</updated>
     <id>http://zadell.com/2011/hood-panorama</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5800883949'><a href=http://www.flickr.com/photos/zacharyz/5800883949/><img class='center' src='http://farm4.static.flickr.com/3183/5800883949_5b14859e7d_b.jpg'></a><h2><span>Rock Formation Panorama</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 5800883949 %}</p>
 
 <p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
 way down from the summit. It wasn't until I was making the journey down that I
@@ -35,7 +35,7 @@ are other hikers making the same journey that I had made.</p>
     <link href="http://zadell.com/2011/london-panoramas/"/>
     <updated>2011-04-28T17:41:38-07:00</updated>
     <id>http://zadell.com/2011/london-panoramas</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5565645881'><a href=http://www.flickr.com/photos/zacharyz/5565645881/><img class='center' src='http://farm6.static.flickr.com/5269/5565645881_56829923dd_b.jpg'></a><h2><span>london bridge pano</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 5565645881 %}</p>
 
 <p>If you haven't noticed - <a href="http://zaczadell.com/tag/panoramas/">I love panoramas.</a> I think they do a fantastic
 job of capturing the feel of a location much better than any single picture
@@ -77,9 +77,9 @@ both above and below the shots that make up your panorama. This will allow you
 to take in some of the sky and ground. So instead of 3 shots you will end up
 taking around 9. Autostich is a champ at combining everything together.</p>
 
-<p><div class='image' id='5566228732'><a href=http://www.flickr.com/photos/zacharyz/5566228732/><img class='center' src='http://farm6.static.flickr.com/5253/5566228732_2d085237bb_b.jpg'></a><h2><span>Saint Peters Cathedral</span></h2></div></p>
+<p>{% flickr 5566228732 %}</p>
 
-<p><div class='image' id='5565642185'><a href=http://www.flickr.com/photos/zacharyz/5565642185/><img class='center' src='http://farm6.static.flickr.com/5225/5565642185_9bc61d33e7_b.jpg'></a><h2><span>london eye</span></h2></div></p>
+<p>{% flickr 5565642185 %}</p>
 
 <p>You can also use the same method to take
 vertical shots aka vertoramas. This picture of Saint Peters Cathedral is made
@@ -98,7 +98,7 @@ you started in taking awesome travel panoramas yourself.</p>
     <link href="http://zadell.com/2011/paris-the-eiffel-tower/"/>
     <updated>2011-04-25T21:05:46-07:00</updated>
     <id>http://zadell.com/2011/paris-the-eiffel-tower</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5564207887'><a href=http://www.flickr.com/photos/zacharyz/5564207887/><img class='center' src='http://farm6.static.flickr.com/5229/5564207887_549fde6b4d_b.jpg'></a><h2><span>Eiffel Tower Before the Storm</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 5564207887 %}</p>
 
 <p>The weather in Paris didn't quite work out for me. I had planned on spending
 the evening photographing the city at night only to find myself in a race to
@@ -108,14 +108,14 @@ point. I only had enough time to grab a few shots and ask some friendly
 tourists to grab some shots of myself before the sky opened up and drenched
 everyone.</p>
 
-<p><div class='image' id='5564797602'><a href=http://www.flickr.com/photos/zacharyz/5564797602/><img class='center' src='http://farm6.static.flickr.com/5011/5564797602_801c2c9aee_b.jpg'></a><h2><span>Keeping Dry in the Metro</span></h2></div>
+<p>{% flickr 5564797602 %}
 Oddly enough I met a ton of awesome Spanish people on this trip. I stayed in a
 cheap hostel that had mixed dorms and ended up rooming with college-aged
 Spanish girls. On the tour I ended up also meeting a bunch of guys from
 Barcelona and Madrid. Their friendliness definitely convinced me to add Spain
 to my future travels.</p>
 
-<p><div class='image' id='5564790182'><a href=http://www.flickr.com/photos/zacharyz/5564790182/><img class='center' src='http://farm6.static.flickr.com/5183/5564790182_4237505e55_b.jpg'></a><h2><span>Nyarr and the Eiffel Tower</span></h2></div></p>
+<p>{% flickr 5564790182 %}</p>
 
 <p>One of my goals for this trip was to travel as light as possible (while still
 carrying my camera + lenses). I ended up not bringing my laptop or tripod and
@@ -135,21 +135,21 @@ on me.</p>
     <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-2/"/>
     <updated>2011-04-24T16:25:57-07:00</updated>
     <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-2</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5564734154'><a href=http://www.flickr.com/photos/zacharyz/5564734154/><img class='center' src='http://farm6.static.flickr.com/5135/5564734154_7589bba1c9_b.jpg'></a><h2><span>Victory of Samothrace</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 5564734154 %}</p>
 
-<p><div class='image' id='5564163905'><a href=http://www.flickr.com/photos/zacharyz/5564163905/><img class='center' src='http://farm6.static.flickr.com/5255/5564163905_c53f45d4c0_b.jpg'></a><h2><span>Woo it is the Mona Lisa!</span></h2></div></p>
+<p>{% flickr 5564163905 %}</p>
 
-<p><div class='image' id='5564167825'><a href=http://www.flickr.com/photos/zacharyz/5564167825/><img class='center' src='http://farm6.static.flickr.com/5021/5564167825_55a61cd9fb_b.jpg'></a><h2><span>Mona Lisa up Close!</span></h2></div></p>
+<p>{% flickr 5564167825 %}</p>
 
-<p><div class='image' id='5564746560'><a href=http://www.flickr.com/photos/zacharyz/5564746560/><img class='center' src='http://farm6.static.flickr.com/5091/5564746560_7dea942950_b.jpg'></a><h2><span>This Crowd Does Not Amuse Me</span></h2></div></p>
+<p>{% flickr 5564746560 %}</p>
 
-<p><div class='image' id='5564730904'><a href=http://www.flickr.com/photos/zacharyz/5564730904/><img class='center' src='http://farm6.static.flickr.com/5221/5564730904_8042fed0c1_b.jpg'></a><h2><span>Statues at the Louvre</span></h2></div></p>
+<p>{% flickr 5564730904 %}</p>
 
-<p><div class='image' id='5564754984'><a href=http://www.flickr.com/photos/zacharyz/5564754984/><img class='center' src='http://farm6.static.flickr.com/5098/5564754984_0a91bfbb88_b.jpg'></a><h2><span>Inside the Louvre</span></h2></div></p>
+<p>{% flickr 5564754984 %}</p>
 
-<p><div class='image' id='5564758656'><a href=http://www.flickr.com/photos/zacharyz/5564758656/><img class='center' src='http://farm6.static.flickr.com/5306/5564758656_f9f5b7b963_b.jpg'></a><h2><span>Inside the Louvre</span></h2></div></p>
+<p>{% flickr 5564758656 %}</p>
 
-<p><div class='image' id='5564766830'><a href=http://www.flickr.com/photos/zacharyz/5564766830/><img class='center' src='http://farm6.static.flickr.com/5146/5564766830_19a2ff56ca_b.jpg'></a><h2><span>Venus de Milo</span></h2></div></p>
+<p>{% flickr 5564766830 %}</p>
 ]]></content>
   </entry>
   
@@ -158,13 +158,13 @@ on me.</p>
     <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-1/"/>
     <updated>2011-04-02T12:28:13-07:00</updated>
     <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-1</id>
-    <content type="html"><![CDATA[<p><div class='image' id='5564142213'><a href=http://www.flickr.com/photos/zacharyz/5564142213/><img class='center' src='http://farm6.static.flickr.com/5253/5564142213_caa828d762_b.jpg'></a><h2><span>The Louvre Panorama</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 5564142213 %}</p>
 
-<p><div class='image' id='5564720516'><a href=http://www.flickr.com/photos/zacharyz/5564720516/><img class='center' src='http://farm6.static.flickr.com/5138/5564720516_75dcc8fb18_b.jpg'></a><h2><span>How do you get a good picture of yourself while traveling?</span></h2></div></p>
+<p>{% flickr 5564720516 %}</p>
 
-<p><div class='image' id='5564771994'><a href=http://www.flickr.com/photos/zacharyz/5564771994/><img class='center' src='http://farm6.static.flickr.com/5172/5564771994_ed4e32c2d3_b.jpg'></a><h2><span>Everyone was else was doing it!</span></h2></div></p>
+<p>{% flickr 5564771994 %}</p>
 
-<p><div class='image' id='5564723118'><a href=http://www.flickr.com/photos/zacharyz/5564723118/><img class='center' src='http://farm6.static.flickr.com/5227/5564723118_bd794dcbdd_b.jpg'></a><h2><span>Inside the Louvre</span></h2></div></p>
+<p>{% flickr 5564723118 %}</p>
 ]]></content>
   </entry>
   

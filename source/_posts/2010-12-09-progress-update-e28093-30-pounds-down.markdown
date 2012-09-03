@@ -12,8 +12,6 @@ categories:
 - progress update
 ---
 
-{% img left http://30at30.zadell.com/wordpress/wp-content/uploads/2010/12/30pounds.jpg %}
-
 {% img left http://farm6.static.flickr.com/5163/5247320766_bb6be9ff9e.jpg %}
 
 I was actually confused this morning when I looked at my scale. I was
