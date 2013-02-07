@@ -4,7 +4,7 @@
   <title><![CDATA[Zachary Zadell]]></title>
   <link href="http://zadell.com/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2012-09-03T09:57:15-07:00</updated>
+  <updated>2013-02-07T10:00:58-08:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Crater Lake Sunset]]></title>
+    <link href="http://zadell.com/2013/crater-lake-sunrise/"/>
+    <updated>2013-02-07T09:50:00-08:00</updated>
+    <id>http://zadell.com/2013/crater-lake-sunrise</id>
+    <content type="html"><![CDATA[<div class='image' id='8450296332'><a href=http://www.flickr.com/photos/zacharyz/8450296332/><img class='center' src='http://farm9.static.flickr.com/8515/8450296332_0c0f605e39_b.jpg'></a><h2><span>Crater Lake Sunset</span></h2></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Astoria Bridge]]></title>
@@ -729,16 +739,6 @@ on me.</p>
 
 
 <div class='image' id='5564723118'><a href=http://www.flickr.com/photos/zacharyz/5564723118/><img class='center' src='http://farm6.static.flickr.com/5227/5564723118_bd794dcbdd_b.jpg'></a><h2><span>Inside the Louvre</span></h2></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[London - Wellington Arch Traffic]]></title>
-    <link href="http://zadell.com/2011/london-wellington-arch-traffic/"/>
-    <updated>2011-04-01T08:25:24-07:00</updated>
-    <id>http://zadell.com/2011/london-wellington-arch-traffic</id>
-    <content type="html"><![CDATA[<div class='image' id='5566240852'><a href=http://www.flickr.com/photos/zacharyz/5566240852/><img class='center' src='http://farm6.static.flickr.com/5051/5566240852_d196da151e_b.jpg'></a><h2><span>wellington taffic reverse</span></h2></div>
 
 ]]></content>
   </entry>
