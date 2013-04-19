@@ -5,6 +5,8 @@ date: 2013-03-06 18:55
 categories: 
 - outdoors
 - photography
+- travel
+- 'south korea'
 tags:
 - d800
 - 'nikon 16-35'

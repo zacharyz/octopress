@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Daegu"
+date: 2013-03-09 18:55
+categories: 
+- travel
+- photography
+- 'south korea'
+tags:
+- d800
+- 'nikon 50mm'
+---
+{% flickr 8555357923 %}
+
+Daegu is the birthplace of my fiance (who took the above picture). When I first met her 6 years ago
+we didn't think we would ever have the opportunity to visit her hometown. 
+
+Over the years I built up an expectation for Daegu. To listen to people describe it - Daegu is a back
+country town filled with uninteresting people and little to do. My
+experience was pretty far from this. Maybe it is because Seoul is a
+gigantic, crowded and bustling city and in comparison to that just about any other city in the
+world is small. Daegu though for me was a wonderful change of pace.
+Everyone we encountered was warm, welcoming and helpful. Growing up in
+Hawaii and living in Portland I am perhaps more accustomed to a slower
+pace to life than what Seoul offered. Daegu felt way more livable.  
+
+{% flickr 8555321637 %}
+
+{% flickr 8555159275 %}
+

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/travel/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-03-28T19:29:21-07:00</updated>
+  <updated>2013-04-18T20:50:35-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -14,157 +14,85 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hood Panorama]]></title>
-    <link href="http://zadell.com/2011/hood-panorama/"/>
-    <updated>2011-06-17T16:15:48-07:00</updated>
-    <id>http://zadell.com/2011/hood-panorama</id>
-    <content type="html"><![CDATA[<p>{% flickr 5800883949 %}</p>
-
-<p>This is a panorama made up of about 11 overlapping shots. I took it as I was making my
-way down from the summit. It wasn't until I was making the journey down that I
-really had an appreciation for just how beastly a journey it had been (8 hours
-to the top for me).</p>
-
-<p>One of the things I like about this shot is that you can see tiny specs that
-are other hikers making the same journey that I had made.</p>
+    <title type="html"><![CDATA[Ueno at Night]]></title>
+    <link href="http://zadell.com/2013/ueno-at-night/"/>
+    <updated>2013-03-20T22:57:00-07:00</updated>
+    <id>http://zadell.com/2013/ueno-at-night</id>
+    <content type="html"><![CDATA[<p><div class='image' id='8597187786'><a href=http://www.flickr.com/photos/zacharyz/8597187786/><img class='center' src='http://farm9.static.flickr.com/8227/8597187786_576d328310_b.jpg'></a><h2><span>Raining in Ueno Park</span></h2></div></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[London - Panoramas]]></title>
-    <link href="http://zadell.com/2011/london-panoramas/"/>
-    <updated>2011-04-28T17:41:38-07:00</updated>
-    <id>http://zadell.com/2011/london-panoramas</id>
-    <content type="html"><![CDATA[<p>{% flickr 5565645881 %}</p>
-
-<p>If you haven't noticed - <a href="http://zaczadell.com/tag/panoramas/">I love panoramas.</a> I think they do a fantastic
-job of capturing the feel of a location much better than any single picture
-could and they aren't all that difficult to produce. Here is a quick tutorial
-on the methods that I use to take awesome travel panoramas.</p>
-
-<p>I generally rely on two primary methods for taking them - either with my big
-dslr and photoshop or my iphone and a stitching app.</p>
-
-<h3>DSLR, Photoshop and Optionally a Tripod</h3>
-
-<p>This is the more established method that I use when I want something that I
-intend to either print out or blow up later. The method requires that I take
-several pictures that slightly overlap with a wide angle lens. If I can I will
-use my <a href="http://www.amazon.com/gp/product/B0015MFTE4?ie=UTF8&amp;tag=ftp0e-%0A20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015MFTE4">tripod</a> that has a
-<a href="http://www.amazon.com/gp/product/B002UOCWUK?ie=UTF8&amp;tag=ftp0e-2%0A0&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002UOCWUK">panning head</a> on it, which
-allows me to take sharp shots with precise overlap.</p>
-
-<p>When a tripod isn't available though I simply snap a bunch of pictures and
-manually pan from left to right (or vica verca) across the scene.</p>
-
-<p>Once you get the hang of it, the process takes only slightly longer than
-taking a single shot. I tend to take 3-5 shots for every panorama.</p>
-
-<p>The next step is to use photoshop's <a href="http://help.adobe.com/en_US/P%0Ahotoshop/11.0/WSfd1234e1c4b69f30ea53e41001031ab64-75e8a.html">photomerge</a> feature. You
-give it a list of pictures and it will try and blend them together in a
-meaningful way - usually a panorama.</p>
-
-<h3>Iphone + autostitch app</h3>
-
-<p>I can't always have my camera + tripod with me but I will most likely have my
-phone. For the cost of a cheap app (under $3 and totally worth every penny), I
-can grab panoramas wherever I go. I use
-<a href="http://www.cloudburstresearch.com/autostitch/autostitch.html">autostitch</a>.</p>
-
-<p>This method won't yield the sharpest results but it will definitely be better
-than nothing. The iphone's lens isn't very wide, so be sure to capture shots
-both above and below the shots that make up your panorama. This will allow you
-to take in some of the sky and ground. So instead of 3 shots you will end up
-taking around 9. Autostich is a champ at combining everything together.</p>
-
-<p>{% flickr 5566228732 %}</p>
-
-<p>{% flickr 5565642185 %}</p>
-
-<p>You can also use the same method to take
-vertical shots aka vertoramas. This picture of Saint Peters Cathedral is made
-up of 3 images taken while panning vertically. Despite having a very wide
-angle lens (10mm) there is no other way I could have captured the entire
-building from that position without using this method.</p>
-
-<p>Thanks for reading and let me know if you want me to go into any greater
-detail into what exactly is involved. Otherwise this should be enough to get
-you started in taking awesome travel panoramas yourself.</p>
+    <title type="html"><![CDATA[Tokyo Subway]]></title>
+    <link href="http://zadell.com/2013/tokyo-subway/"/>
+    <updated>2013-03-19T23:57:00-07:00</updated>
+    <id>http://zadell.com/2013/tokyo-subway</id>
+    <content type="html"><![CDATA[<p><div class='image' id='8594597264'><a href=http://www.flickr.com/photos/zacharyz/8594597264/><img class='center' src='http://farm9.static.flickr.com/8251/8594597264_641d9eef80_b.jpg'></a><h2><span>Waiting for the Train</span></h2></div></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Paris - The Eiffel Tower Before the Storm]]></title>
-    <link href="http://zadell.com/2011/paris-the-eiffel-tower/"/>
-    <updated>2011-04-25T21:05:46-07:00</updated>
-    <id>http://zadell.com/2011/paris-the-eiffel-tower</id>
-    <content type="html"><![CDATA[<p>{% flickr 5564207887 %}</p>
+    <title type="html"><![CDATA[Exploring Asakusa]]></title>
+    <link href="http://zadell.com/2013/exploring-asakusa/"/>
+    <updated>2013-03-19T22:57:00-07:00</updated>
+    <id>http://zadell.com/2013/exploring-asakusa</id>
+    <content type="html"><![CDATA[<p><div class='image' id='8593468077'><a href=http://www.flickr.com/photos/zacharyz/8593468077/><img class='center' src='http://farm9.static.flickr.com/8088/8593468077_7ac02e658e_b.jpg'></a><h2><span>Exploring Asakusa</span></h2></div></p>
 
-<p>The weather in Paris didn't quite work out for me. I had planned on spending
-the evening photographing the city at night only to find myself in a race to
-stay dry while still getting <em>some</em> shots of the iconic tower. I had gone on a
-3 hour tour the city after exploring the Louvre and was exhausted at this
-point. I only had enough time to grab a few shots and ask some friendly
-tourists to grab some shots of myself before the sky opened up and drenched
-everyone.</p>
+<p>Our hostel was within a mile of a beautiful and popular temple called Sensoji.</p>
 
-<p>{% flickr 5564797602 %}
-Oddly enough I met a ton of awesome Spanish people on this trip. I stayed in a
-cheap hostel that had mixed dorms and ended up rooming with college-aged
-Spanish girls. On the tour I ended up also meeting a bunch of guys from
-Barcelona and Madrid. Their friendliness definitely convinced me to add Spain
-to my future travels.</p>
+<p>The path leading up to the temple was lined with shops selling
+traditional treats and merchandise. During our first night we caught the
+very first glimpse of blooming Sakura.</p>
 
-<p>{% flickr 5564790182 %}</p>
-
-<p>One of my goals for this trip was to travel as light as possible (while still
-carrying my camera + lenses). I ended up not bringing my laptop or tripod and
-wearing exclusively my vibram five fingers. The other tourists really got a
-kick out of my vffs.</p>
-
-<p>During one point in the trip I was sprinting between metros trying to make it
-to my flight on time. A friendly French dude ended up leading me Parkour-style
-over the ticket stalls and showing me how to avoid getting caught in the
-process. Overall the French that I encountered left a really good impression
-on me.</p>
+<p><div class='image' id='8594568582'><a href=http://www.flickr.com/photos/zacharyz/8594568582/><img class='center' src='http://farm9.static.flickr.com/8100/8594568582_0862099a51_b.jpg'></a><h2><span>Asakusa Treat</span></h2></div>
+<div class='image' id='8594570794'><a href=http://www.flickr.com/photos/zacharyz/8594570794/><img class='center' src='http://farm9.static.flickr.com/8098/8594570794_5c8ecbc162_b.jpg'></a><h2><span>Asakusa Temple</span></h2></div>
+<div class='image' id='8594581570'><a href=http://www.flickr.com/photos/zacharyz/8594581570/><img class='center' src='http://farm9.static.flickr.com/8248/8594581570_2df7c2010a_b.jpg'></a><h2><span>First Sakura</span></h2></div>
+<div class='image' id='8594591520'><a href=http://www.flickr.com/photos/zacharyz/8594591520/><img class='center' src='http://farm9.static.flickr.com/8530/8594591520_4eb2329eea_b.jpg'></a><h2><span>Rickshaw outside Asakusa Temple</span></h2></div></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Paris – Exploring the Lourve pt 2]]></title>
-    <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-2/"/>
-    <updated>2011-04-24T16:25:57-07:00</updated>
-    <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-2</id>
-    <content type="html"><![CDATA[<p>{% flickr 5564734154 %}</p>
+    <title type="html"><![CDATA[My First Ramen in Japan]]></title>
+    <link href="http://zadell.com/2013/first-ramen/"/>
+    <updated>2013-03-19T18:57:00-07:00</updated>
+    <id>http://zadell.com/2013/first-ramen</id>
+    <content type="html"><![CDATA[<p><div class='image' id='8593459989'><a href=http://www.flickr.com/photos/zacharyz/8593459989/><img class='center' src='http://farm9.static.flickr.com/8371/8593459989_4c028d2f5b_b.jpg'></a><h2><span>My first Ramen in Japan</span></h2></div></p>
 
-<p>{% flickr 5564163905 %}</p>
+<p>After finally arriving in Tokyo we set out to accomplish one of my
+goals for the trip - to experience true Japanese Ramen.</p>
 
-<p>{% flickr 5564167825 %}</p>
+<p>Our hostel is based in the Asakusa district of Tokyo which is known for
+it's famous temple - Sensoji. We set out to explore the area and
+stumbled upon an empty shop. I didn't expect much from it given it was
+the first place that we encountered but thankfully I walked away after
+having one of best ramen experiences of my life.</p>
 
-<p>{% flickr 5564746560 %}</p>
+<p>The shop itself was made up of only a few chairs and the two chefs. One
+made the ramen while the other made the gyoza.</p>
 
-<p>{% flickr 5564730904 %}</p>
-
-<p>{% flickr 5564754984 %}</p>
-
-<p>{% flickr 5564758656 %}</p>
-
-<p>{% flickr 5564766830 %}</p>
+<p><div class='image' id='8593462941'><a href=http://www.flickr.com/photos/zacharyz/8593462941/><img class='center' src='http://farm9.static.flickr.com/8381/8593462941_3d96fec7ae_b.jpg'></a><h2><span>My first Gyoza as well</span></h2></div>
+<div class='image' id='8593458471'><a href=http://www.flickr.com/photos/zacharyz/8593458471/><img class='center' src='http://farm9.static.flickr.com/8527/8593458471_2960c6d08e_b.jpg'></a><h2><span>Ramen Shop</span></h2></div></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Paris - Exploring the Lourve pt 1]]></title>
-    <link href="http://zadell.com/2011/paris-exploring-the-lourve-pt-1/"/>
-    <updated>2011-04-02T12:28:13-07:00</updated>
-    <id>http://zadell.com/2011/paris-exploring-the-lourve-pt-1</id>
-    <content type="html"><![CDATA[<p>{% flickr 5564142213 %}</p>
+    <title type="html"><![CDATA[Ddeokbokki]]></title>
+    <link href="http://zadell.com/2013/ddeokbokki/"/>
+    <updated>2013-03-09T18:57:00-08:00</updated>
+    <id>http://zadell.com/2013/ddeokbokki</id>
+    <content type="html"><![CDATA[<p><div class='image' id='8556438946'><a href=http://www.flickr.com/photos/zacharyz/8556438946/><img class='center' src='http://farm9.static.flickr.com/8389/8556438946_664a09b89f_b.jpg'></a><h2><span>ddeokbokki</span></h2></div></p>
 
-<p>{% flickr 5564720516 %}</p>
+<p>Ddeokbokki is one of the first Korean dishes that Seyoung taught me.
+Whenever she is sick and needs something spicy and comforting I make it
+for her. It is simply made up of rice cakes, fish cakes, vegetables and
+a chilli paste based sauce.</p>
 
-<p>{% flickr 5564771994 %}</p>
+<p>Before coming to Korea I had no idea just how common a dish it
+is. Just about everywhere we went it could be found on street corners
+sold by vendors. It is also pretty cheap - a typical meal costs about
+$3 and was enough to feed two. At the end of a busy day of sight seeing we would find a random street vendor who would serve it with a warm cup of broth and eat it with tooth picks.</p>
 
-<p>{% flickr 5564723118 %}</p>
+<p><div class='image' id='8556440880'><a href=http://www.flickr.com/photos/zacharyz/8556440880/><img class='center' src='http://farm9.static.flickr.com/8102/8556440880_0c1a04b8af_b.jpg'></a><h2><span>S and Z</span></h2></div></p>
 ]]></content>
   </entry>
   

@@ -34,10 +34,4 @@ systems engineer and fruit picker in a rain-forest. Feel free to visit my
 
 email: hello @ zadell dot com 
 
-skype: zachary.zadell
-
-gtalk: zacharyz 
-
-google voice: 541 359 4288
-
 connect: [twitter](http://twitter.com/zzadell), [linkedin](http://www.linkedin.com/in/zacharyz)
