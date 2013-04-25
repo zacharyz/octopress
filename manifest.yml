@@ -1,0 +1,9 @@
+---
+applications:
+- name: z
+  framework: php
+  runtime: php
+  memory: 128M
+  instances: 1
+  url: www.zadell.com
+  path: .
