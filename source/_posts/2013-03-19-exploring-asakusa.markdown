@@ -9,7 +9,6 @@ categories:
 tags:
 - d800
 - 'nikon 50mm'
-- japan
 - tokyo
 ---
 {% flickr 8593468077 %}
