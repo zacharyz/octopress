@@ -4,7 +4,7 @@
   <title><![CDATA[Zachary Zadell]]></title>
   <link href="http://zadell.com/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-05-05T18:15:09-07:00</updated>
+  <updated>2013-07-02T22:49:22-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,8 +18,7 @@
     <link href="http://zadell.com/2013/i-made-a-wedding-site/"/>
     <updated>2013-05-05T12:57:00-07:00</updated>
     <id>http://zadell.com/2013/i-made-a-wedding-site</id>
-    <content type="html"><![CDATA[<p><img
-src="http://farm9.staticflickr.com/8129/8711551759_5483dcb871_b.jpg"></p>
+    <content type="html"><![CDATA[<p><img src="http://farm9.staticflickr.com/8129/8711551759_5483dcb871_b.jpg"></p>
 
 <p>I spend every day at work making web apps so when it came down to making
 a site for my upcoming wedding I wanted something simple. I decided to forego using any frameworks
@@ -35,13 +34,12 @@ give them an appreciation for the city that we love and call home.</p>
 <p>I also wanted something that would look good on either a PC, tablet or
 phone.</p>
 
-<p><img
-src="http://farm9.staticflickr.com/8127/8712678306_84f3810b3d_b.jpg"></p>
+<p><img src="http://farm9.staticflickr.com/8127/8712678306_84f3810b3d_b.jpg"></p>
 
 <p>Some highlights:</p>
 
 <ul>
-<li><p>The site itself is just html/js using bootstrap for its basic grid system
+<li><p>The site itself is just html/css/js using bootstrap for its basic grid system
 and mobile friendly responsiveness with some custom styling.</p></li>
 <li><p>It uses some additional js that wasn&#8217;t included in stock bootstrap like fitvid.js for video
 resizing and sticky.js for the navigation but over all I was able to accomplish what I wanted

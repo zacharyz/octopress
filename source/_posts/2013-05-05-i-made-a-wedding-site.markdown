@@ -8,8 +8,7 @@ tags:
 - wedding
 - design
 ---
-<img
-src="http://farm9.staticflickr.com/8129/8711551759_5483dcb871_b.jpg">
+<img src="http://farm9.staticflickr.com/8129/8711551759_5483dcb871_b.jpg">
 
 I spend every day at work making web apps so when it came down to making
 a site for my upcoming wedding I wanted something simple. I decided to forego using any frameworks
@@ -25,8 +24,7 @@ give them an appreciation for the city that we love and call home.
 I also wanted something that would look good on either a PC, tablet or
 phone.
 
-<img
-src="http://farm9.staticflickr.com/8127/8712678306_84f3810b3d_b.jpg">
+<img src="http://farm9.staticflickr.com/8127/8712678306_84f3810b3d_b.jpg">
 
 Some highlights:
 
