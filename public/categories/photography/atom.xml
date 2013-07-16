@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-05T23:35:20-07:00</updated>
+  <updated>2013-07-15T22:06:01-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -14,11 +14,53 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Tent and Stars at Jefferson Park]]></title>
+    <link href="http://zadell.com/2013/jefferson-park/"/>
+    <updated>2013-07-14T12:57:00-07:00</updated>
+    <id>http://zadell.com/2013/jefferson-park</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/9298765514/">
+<img src="http://farm6.staticflickr.com/5485/9298765514_9278866310_b.jpg">
+</a></p>
+
+<p>My good buddy Craig and I made an impromptu trip out to Jefferson Park. He
+lives down in Eugene and I live in Portland so we decided to meet in
+midway.</p>
+
+<p>A sixish mile hike opens up to a lake filled meadow below the Oregon's
+2nd largest mountain - <a href="http://web.oregon.com/hiking/jefferson_park.cfm">Jefferson</a>.</p>
+
+<p>We woke up at 1:30am to a perfectly clear sky with the milky-way arching
+over our heads.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Upper Bridal Veil Falls]]></title>
+    <link href="http://zadell.com/2013/upper-bridal-veil-falls/"/>
+    <updated>2013-06-02T12:57:00-07:00</updated>
+    <id>http://zadell.com/2013/upper-bridal-veil-falls</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/8928899329/">
+<img src="http://farm3.staticflickr.com/2868/8928899329_8d5755da5e_b.jpg">
+</a></p>
+
+<p>The glory of these falls is definitely the journey.</p>
+
+<p>They are found in the Columbia River Gorge but there is no clear
+path to it. You have to trek down a game path - through mud and ferns
+and over logs before making your way down a cliff to get here.</p>
+
+<p>Once you get there it feels like you have your own private water fall
+because you know no one is going to randomly stumble upon it without
+working for it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Ueno at Night]]></title>
     <link href="http://zadell.com/2013/ueno-at-night/"/>
     <updated>2013-03-20T22:57:00-07:00</updated>
     <id>http://zadell.com/2013/ueno-at-night</id>
-    <content type="html"><![CDATA[<p>{% flickr 8597187786 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8597187786'><a href=http://www.flickr.com/photos/zacharyz/8597187786/><img class='center' src='http://farm9.static.flickr.com/8227/8597187786_576d328310_b.jpg'></a><h2><span>Raining in Ueno Park</span></h2></div></p>
 ]]></content>
   </entry>
   
@@ -27,9 +69,9 @@
     <link href="http://zadell.com/2013/tokyo-at-night/"/>
     <updated>2013-03-19T23:57:00-07:00</updated>
     <id>http://zadell.com/2013/tokyo-at-night</id>
-    <content type="html"><![CDATA[<p>{% flickr 8593517437 %}
-{% flickr 8593518215 %}
-{% flickr 8594619548 %}
+    <content type="html"><![CDATA[<p><div class='image' id='8593517437'><a href=http://www.flickr.com/photos/zacharyz/8593517437/><img class='center' src='http://farm9.static.flickr.com/8511/8593517437_6a1702c300_b.jpg'></a><h2><span>Tokyo at Night</span></h2></div>
+<div class='image' id='8593518215'><a href=http://www.flickr.com/photos/zacharyz/8593518215/><img class='center' src='http://farm9.static.flickr.com/8097/8593518215_85c0c9cb50_b.jpg'></a><h2><span>Tokyo Reflections</span></h2></div>
+<div class='image' id='8594619548'><a href=http://www.flickr.com/photos/zacharyz/8594619548/><img class='center' src='http://farm9.static.flickr.com/8385/8594619548_a950e02c42_b.jpg'></a><h2><span>Tokyo at Night</span></h2></div>
 The view from Tokyo Tower observatory.</p>
 
 <p>Tripods were not allowed up here so I got these shots by creatively
@@ -46,7 +88,7 @@ traffic in the building windows.</p>
     <link href="http://zadell.com/2013/exploring-asakusa/"/>
     <updated>2013-03-19T22:57:00-07:00</updated>
     <id>http://zadell.com/2013/exploring-asakusa</id>
-    <content type="html"><![CDATA[<p>{% flickr 8593468077 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8593468077'><a href=http://www.flickr.com/photos/zacharyz/8593468077/><img class='center' src='http://farm9.static.flickr.com/8088/8593468077_7ac02e658e_b.jpg'></a><h2><span>Exploring Asakusa</span></h2></div></p>
 
 <p>Our hostel was within a mile of a beautiful and popular temple called Sensoji.</p>
 
@@ -54,43 +96,10 @@ traffic in the building windows.</p>
 traditional treats and merchandise. During our first night we caught the
 very first glimpse of blooming Sakura.</p>
 
-<p>{% flickr 8594568582 %}
-{% flickr 8594570794 %}
-{% flickr 8594581570 %}
-{% flickr 8594591520 %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tokyo Subway]]></title>
-    <link href="http://zadell.com/2013/tokyo-subway/"/>
-    <updated>2013-03-19T19:57:00-07:00</updated>
-    <id>http://zadell.com/2013/tokyo-subway</id>
-    <content type="html"><![CDATA[<p>{% flickr 8594597264 %}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My First Ramen in Japan]]></title>
-    <link href="http://zadell.com/2013/first-ramen/"/>
-    <updated>2013-03-19T18:57:00-07:00</updated>
-    <id>http://zadell.com/2013/first-ramen</id>
-    <content type="html"><![CDATA[<p>{% flickr 8593459989 %}</p>
-
-<p>After finally arriving in Tokyo we set out to accomplish one of my
-goals for the trip - to experience true Japanese Ramen.</p>
-
-<p>Our hostel is based in the Asakusa district of Tokyo which is known for
-it's famous temple - Sensoji. We set out to explore the area and
-stumbled upon an empty shop. I didn't expect much from it given it was
-the first place that we encountered but thankfully I walked away after
-having one of best ramen experiences of my life.</p>
-
-<p>The shop itself was made up of only a few chairs and the two chefs. One
-made the ramen while the other made the gyoza.</p>
-
-<p>{% flickr 8593462941 %}
-{% flickr 8593458471 %}</p>
+<p><div class='image' id='8594568582'><a href=http://www.flickr.com/photos/zacharyz/8594568582/><img class='center' src='http://farm9.static.flickr.com/8100/8594568582_0862099a51_b.jpg'></a><h2><span>Asakusa Treat</span></h2></div>
+<div class='image' id='8594570794'><a href=http://www.flickr.com/photos/zacharyz/8594570794/><img class='center' src='http://farm9.static.flickr.com/8098/8594570794_5c8ecbc162_b.jpg'></a><h2><span>Asakusa Temple</span></h2></div>
+<div class='image' id='8594581570'><a href=http://www.flickr.com/photos/zacharyz/8594581570/><img class='center' src='http://farm9.static.flickr.com/8248/8594581570_2df7c2010a_b.jpg'></a><h2><span>First Sakura</span></h2></div>
+<div class='image' id='8594591520'><a href=http://www.flickr.com/photos/zacharyz/8594591520/><img class='center' src='http://farm9.static.flickr.com/8530/8594591520_4eb2329eea_b.jpg'></a><h2><span>Rickshaw outside Asakusa Temple</span></h2></div></p>
 ]]></content>
   </entry>
   

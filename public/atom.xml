@@ -4,7 +4,7 @@
   <title><![CDATA[Zachary Zadell]]></title>
   <link href="http://zadell.com/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-05T23:34:24-07:00</updated>
+  <updated>2013-07-15T22:06:01-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tent and Stars at Jefferson Park]]></title>
+    <link href="http://zadell.com/2013/jefferson-park/"/>
+    <updated>2013-07-14T12:57:00-07:00</updated>
+    <id>http://zadell.com/2013/jefferson-park</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/9298765514/">
+<img src="http://farm6.staticflickr.com/5485/9298765514_9278866310_b.jpg">
+</a></p>
+
+<p>My good buddy Craig and I made an impromptu trip out to Jefferson Park. He
+lives down in Eugene and I live in Portland so we decided to meet in
+midway.</p>
+
+<p>A sixish mile hike opens up to a lake filled meadow below the Oregon&#8217;s
+2nd largest mountain - <a href="http://web.oregon.com/hiking/jefferson_park.cfm">Jefferson</a>.</p>
+
+<p>We woke up at 1:30am to a perfectly clear sky with the milky-way arching
+over our heads.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Upper Bridal Veil Falls]]></title>
+    <link href="http://zadell.com/2013/upper-bridal-veil-falls/"/>
+    <updated>2013-06-02T12:57:00-07:00</updated>
+    <id>http://zadell.com/2013/upper-bridal-veil-falls</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/zacharyz/8928899329/">
+<img src="http://farm3.staticflickr.com/2868/8928899329_8d5755da5e_b.jpg">
+</a></p>
+
+<p>The glory of these falls is definitely the journey.</p>
+
+<p>They are found in the Columbia River Gorge but there is no clear
+path to it. You have to trek down a game path - through mud and ferns
+and over logs before making your way down a cliff to get here.</p>
+
+<p>Once you get there it feels like you have your own private water fall
+because you know no one is going to randomly stumble upon it without
+working for it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I Made a Wedding Site]]></title>
@@ -418,26 +460,6 @@ grab this sunset.</p>
     <updated>2012-05-07T21:30:00-07:00</updated>
     <id>http://zadell.com/2012/byodo-in-temple-valley-of-the-temples</id>
     <content type="html"><![CDATA[<div class='image' id='7156944902'><a href=http://www.flickr.com/photos/zacharyz/7156944902/><img class='center' src='http://farm8.static.flickr.com/7104/7156944902_a48b69abd9_b.jpg'></a><h2><span>Byodo-In Temple</span></h2></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Three Tables - North Shore]]></title>
-    <link href="http://zadell.com/2012/the-three-shelves-north-shore/"/>
-    <updated>2012-05-03T18:17:00-07:00</updated>
-    <id>http://zadell.com/2012/the-three-shelves-north-shore</id>
-    <content type="html"><![CDATA[<div class='image' id='7140031025'><a href=http://www.flickr.com/photos/zacharyz/7140031025/><img class='center' src='http://farm8.static.flickr.com/7117/7140031025_38ba5023fb_b.jpg'></a><h2><span>The Three Tables Sunset - North Shore</span></h2></div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pupukea Beach - North Shore]]></title>
-    <link href="http://zadell.com/2012/north-shore-sunset/"/>
-    <updated>2012-05-02T00:58:00-07:00</updated>
-    <id>http://zadell.com/2012/north-shore-sunset</id>
-    <content type="html"><![CDATA[<div class='image' id='7134787611'><a href=http://www.flickr.com/photos/zacharyz/7134787611/><img class='center' src='http://farm9.static.flickr.com/8003/7134787611_fa79626ba1_b.jpg'></a><h2><span>Pupukea Sunset - North Shore Hawaii</span></h2></div>
 
 ]]></content>
   </entry>

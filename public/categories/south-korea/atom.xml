@@ -4,7 +4,7 @@
   <title><![CDATA[Category: south korea | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/south-korea/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-05T23:35:20-07:00</updated>
+  <updated>2013-07-15T22:06:01-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zadell.com/2013/starcraft/"/>
     <updated>2013-03-11T19:57:00-07:00</updated>
     <id>http://zadell.com/2013/starcraft</id>
-    <content type="html"><![CDATA[<p>{% flickr 8556578878 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8556578878'><a href=http://www.flickr.com/photos/zacharyz/8556578878/><img class='center' src='http://farm9.static.flickr.com/8385/8556578878_0dd39e98fb_b.jpg'></a><h2><span>Heart of the Swarm Launch Event</span></h2></div></p>
 
 <p>I am a big fan of the game Starcraft - both playing it and watching pros
 compete at it. The game has become a global phenominon since the
@@ -26,12 +26,12 @@ original was released in 1998.</p>
 
 <p>To get an idea of what it is like at the highest levels - picture the strategy of chess with the adrenaline producing rush of a wrestling match. No place appreciates the game more than South Korea - home of the best players in the world.</p>
 
-<p>{% flickr 8556598294 %}</p>
+<p><div class='image' id='8556598294'><a href=http://www.flickr.com/photos/zacharyz/8556598294/><img class='center' src='http://farm9.static.flickr.com/8100/8556598294_d6bf881bdc_b.jpg'></a><h2><span>The Crowd</span></h2></div></p>
 
 <p>On March 12th Blizzard would be releasing the newest expansion to Starcraft 2.
 To celebrate the Blizzard held a global launch event that began in Seoul and traversed the timezones for the next 24 hours. They gathered the top pros from Starcraft and Starcraft 2 and put them on stage to demonstrate the potential of the new expansion.</p>
 
-<p>{% flickr 8555469249 %}</p>
+<p><div class='image' id='8555469249'><a href=http://www.flickr.com/photos/zacharyz/8555469249/><img class='center' src='http://farm9.static.flickr.com/8104/8555469249_a38fea4aba_b.jpg'></a><h2><span>The Pros</span></h2></div></p>
 
 <p>These players have been given nicknames by their fans such as God and
 the Tyrant. They have legions of fan girls and are paid hundreds of
@@ -41,7 +41,7 @@ all to compete at the highest level.</p>
 <p>It was an amazing opportunity to be at the Mecca of Starcraft and be
 able to witness the birth of a new era for the game. After waiting in line with hundreds of other fans I was able to pick up one of the very first copies of the collector's edition sold in the world.</p>
 
-<p>{% flickr 8569982600 %}</p>
+<p><div class='image' id='8569982600'><a href=http://www.flickr.com/photos/zacharyz/8569982600/><img class='center' src='http://farm9.static.flickr.com/8243/8569982600_783bfdac46_b.jpg'></a><h2><span>Heart of the Swarm Collector's Edition</span></h2></div></p>
 ]]></content>
   </entry>
   
@@ -50,7 +50,7 @@ able to witness the birth of a new era for the game. After waiting in line with 
     <link href="http://zadell.com/2013/ddeokbokki/"/>
     <updated>2013-03-09T18:57:00-08:00</updated>
     <id>http://zadell.com/2013/ddeokbokki</id>
-    <content type="html"><![CDATA[<p>{% flickr 8556438946 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8556438946'><a href=http://www.flickr.com/photos/zacharyz/8556438946/><img class='center' src='http://farm9.static.flickr.com/8389/8556438946_664a09b89f_b.jpg'></a><h2><span>ddeokbokki</span></h2></div></p>
 
 <p>Ddeokbokki is one of the first Korean dishes that Seyoung taught me.
 Whenever she is sick and needs something spicy and comforting I make it
@@ -62,7 +62,7 @@ is. Just about everywhere we went it could be found on street corners
 sold by vendors. It is also pretty cheap - a typical meal costs about
 $3 and was enough to feed two. At the end of a busy day of sight seeing we would find a random street vendor who would serve it with a warm cup of broth and eat it with tooth picks.</p>
 
-<p>{% flickr 8556440880 %}</p>
+<p><div class='image' id='8556440880'><a href=http://www.flickr.com/photos/zacharyz/8556440880/><img class='center' src='http://farm9.static.flickr.com/8102/8556440880_0c1a04b8af_b.jpg'></a><h2><span>S and Z</span></h2></div></p>
 ]]></content>
   </entry>
   
@@ -71,7 +71,7 @@ $3 and was enough to feed two. At the end of a busy day of sight seeing we would
     <link href="http://zadell.com/2013/daegu/"/>
     <updated>2013-03-09T18:55:00-08:00</updated>
     <id>http://zadell.com/2013/daegu</id>
-    <content type="html"><![CDATA[<p>{% flickr 8555357923 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8555357923'><a href=http://www.flickr.com/photos/zacharyz/8555357923/><img class='center' src='http://farm9.static.flickr.com/8375/8555357923_6bb1f7cf9e_b.jpg'></a><h2><span>Waiting in Daegu</span></h2></div></p>
 
 <p>Daegu is the birthplace of my fiance (who took the above picture). When I first met her 6 years ago
 we didn't think we would ever have the opportunity to visit her hometown.</p>
@@ -85,9 +85,9 @@ Everyone we encountered was warm, welcoming and helpful. Growing up in
 Hawaii and living in Portland I am perhaps more accustomed to a slower
 pace to life than what Seoul offered. Daegu felt way more livable.</p>
 
-<p>{% flickr 8555321637 %}</p>
+<p><div class='image' id='8555321637'><a href=http://www.flickr.com/photos/zacharyz/8555321637/><img class='center' src='http://farm9.static.flickr.com/8086/8555321637_5cc8cfb33b_b.jpg'></a><h2><span>Seyoung in Daegu</span></h2></div></p>
 
-<p>{% flickr 8555159275 %}</p>
+<p><div class='image' id='8555159275'><a href=http://www.flickr.com/photos/zacharyz/8555159275/><img class='center' src='http://farm9.static.flickr.com/8109/8555159275_ec6d6d30da_b.jpg'></a><h2><span>The Zodiacs</span></h2></div></p>
 ]]></content>
   </entry>
   
@@ -96,7 +96,7 @@ pace to life than what Seoul offered. Daegu felt way more livable.</p>
     <link href="http://zadell.com/2013/palgongsan/"/>
     <updated>2013-03-08T18:55:00-08:00</updated>
     <id>http://zadell.com/2013/palgongsan</id>
-    <content type="html"><![CDATA[<p>{% flickr 8556308202 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8556308202'><a href=http://www.flickr.com/photos/zacharyz/8556308202/><img class='center' src='http://farm9.static.flickr.com/8234/8556308202_9a32cbb600_b.jpg'></a><h2><span>Palgongsan</span></h2></div></p>
 
 <p>I visited Palgongsan while visiting family in Daegu South Korea in March during my 3 week trip to South Korea and Japan.</p>
 
@@ -111,7 +111,7 @@ cable car that seems designed to appeal to young lovers.</p>
     <link href="http://zadell.com/2013/seoraksan/"/>
     <updated>2013-03-06T18:55:00-08:00</updated>
     <id>http://zadell.com/2013/seoraksan</id>
-    <content type="html"><![CDATA[<p>{% flickr 8552484961 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='8552484961'><a href=http://www.flickr.com/photos/zacharyz/8552484961/><img class='center' src='http://farm9.static.flickr.com/8524/8552484961_5b3720e983_b.jpg'></a><h2><span>Seoraksan</span></h2></div></p>
 
 <p>I visited Seoraksan (a mountain in South Korea) in March during my
 3 week trip to South Korea and Japan.</p>
@@ -126,13 +126,13 @@ again at some point in my life. Picture monk filled temples over-looking
 crystal clear mountain streams in the mountains and you get an idea of
 how awesome and peaceful a place it is.</p>
 
-<p>{% flickr 8552695395 %}</p>
+<p><div class='image' id='8552695395'><a href=http://www.flickr.com/photos/zacharyz/8552695395/><img class='center' src='http://farm9.static.flickr.com/8240/8552695395_7ddb6a10c9_b.jpg'></a><h2><span>Buddha at Seoraksan</span></h2></div></p>
 
-<p>{% flickr 8553799276 %}</p>
+<p><div class='image' id='8553799276'><a href=http://www.flickr.com/photos/zacharyz/8553799276/><img class='center' src='http://farm9.static.flickr.com/8517/8553799276_b55020a002_b.jpg'></a><h2><span>Shrine at Seoraksan</span></h2></div></p>
 
-<p>{% flickr 8553953733 %}</p>
+<p><div class='image' id='8553953733'><a href=http://www.flickr.com/photos/zacharyz/8553953733/><img class='center' src='http://farm9.static.flickr.com/8386/8553953733_65297f0002_b.jpg'></a><h2><span>Monks at Seoraksan</span></h2></div></p>
 
-<p>{% flickr 8553965873 %}</p>
+<p><div class='image' id='8553965873'><a href=http://www.flickr.com/photos/zacharyz/8553965873/><img class='center' src='http://farm9.static.flickr.com/8519/8553965873_249ea433c3_b.jpg'></a><h2><span>Clear water at Seoraksan</span></h2></div></p>
 ]]></content>
   </entry>
   
