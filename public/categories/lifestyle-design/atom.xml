@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lifestyle design | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/lifestyle-design/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-15T22:49:58-07:00</updated>
+  <updated>2013-07-18T19:10:58-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zadell.com/2010/learning-to-run-again-with-vibram-five-fingers/"/>
     <updated>2010-09-27T02:56:41-07:00</updated>
     <id>http://zadell.com/2010/learning-to-run-again-with-vibram-five-fingers</id>
-    <content type="html"><![CDATA[<p><img src="http://farm5.staticflickr.com/4079/4997164722_061f7d95a8_b.jpg" title="Vibram Fivefingers KSO Trek" ></p>
+    <content type="html"><![CDATA[<p>{% img http://farm5.staticflickr.com/4079/4997164722_061f7d95a8_b.jpg Vibram Fivefingers KSO Trek %}</p>
 
 <p>When I was in high-school I used to run on the cross-country team. It was a
 way for me to train in the off seasons between baseball and wrestling.
@@ -32,7 +32,7 @@ finish it. I simply put one foot in front of the other and kept pace with a
 buddy until I could see the finish line - then I would sprint across it like a
 mad man and puke my guts out.</p>
 
-<p><img class="left" src="http://farm4.static.flickr.com/3291/3015371980_6874e1ab49.jpg" title="Cross Country with Michael" ></p>
+<p>{% img left http://farm4.static.flickr.com/3291/3015371980_6874e1ab49.jpg Cross Country with Michael %}</p>
 
 <p>I kept it up a little bit in college but over the years simply gave up on it. I think
 around 5 years ago I was still able to run at an 8 minute mile pace.
@@ -91,7 +91,7 @@ average VFF has wild colors that I think most VFF enthusiasts appreciate
 because they love the attention that they bring. I just wanted to be able to
 run pain free.</p>
 
-<p><img class="right" src="http://farm5.static.flickr.com/4153/5029224752_a4d697649d.jpg"></p>
+<p>{% img right http://farm5.static.flickr.com/4153/5029224752_a4d697649d.jpg %}</p>
 
 <p>It has been about 10 days since I got my pair of VFF. During that time I have
 logged 21 miles and ran more consistently than I have ever before - or been

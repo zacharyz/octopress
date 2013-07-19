@@ -4,7 +4,7 @@
   <title><![CDATA[Category: progress update | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/progress-update/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-15T22:49:58-07:00</updated>
+  <updated>2013-07-18T19:10:58-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zadell.com/2010/progress-update-e28093-30-pounds-down/"/>
     <updated>2010-12-09T19:59:08-08:00</updated>
     <id>http://zadell.com/2010/progress-update-e28093-30-pounds-down</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://farm6.static.flickr.com/5163/5247320766_bb6be9ff9e.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img left http://farm6.static.flickr.com/5163/5247320766_bb6be9ff9e.jpg %}</p>
 
 <p>I was actually confused this morning when I looked at my scale. I was
 expecting to see 161 or 162 and hadn't expected to lose that last pound for
@@ -56,7 +56,7 @@ able to actually accomplish a weight loss goal.</p>
     <link href="http://zadell.com/2010/progress-update-e28093-20-pounds-down-e28093-10-to-go/"/>
     <updated>2010-11-19T17:26:33-08:00</updated>
     <id>http://zadell.com/2010/progress-update-e28093-20-pounds-down-e28093-10-to-go</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_d.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img left http://farm5.static.flickr.com/4091/5189532091_8eb17d3690_d.jpg %}</p>
 
 <p>Those last 10 pounds took quite a bit longer than the first. Because of this I
 almost feel like I have lost some perspective on how big a change it was for

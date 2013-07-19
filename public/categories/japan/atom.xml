@@ -4,7 +4,7 @@
   <title><![CDATA[Category: japan | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/japan/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-15T22:49:58-07:00</updated>
+  <updated>2013-07-18T19:10:58-07:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -62,7 +62,7 @@
     <link href="http://zadell.com/2013/ueno-at-night/"/>
     <updated>2013-03-20T22:57:00-07:00</updated>
     <id>http://zadell.com/2013/ueno-at-night</id>
-    <content type="html"><![CDATA[<p><div class='image' id='8597187786'><a href=http://www.flickr.com/photos/zacharyz/8597187786/><img class='center' src='http://farm9.static.flickr.com/8227/8597187786_576d328310_b.jpg'></a><h2><span>Raining in Ueno Park</span></h2></div></p>
+    <content type="html"><![CDATA[<p>{% flickr 8597187786 %}</p>
 ]]></content>
   </entry>
   
