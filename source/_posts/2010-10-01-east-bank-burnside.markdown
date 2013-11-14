@@ -10,4 +10,4 @@ categories:
 - photography
 ---
 
-{% flickr 5042635323 %}
+<a href="http://www.flickr.com/photos/zacharyz/5042635323/"><img class="center" src="http://farm5.static.flickr.com/4126/5042635323_9a7d788a07_b.jpg"></a>

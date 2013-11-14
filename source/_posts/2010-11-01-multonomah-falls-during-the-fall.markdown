@@ -14,14 +14,14 @@ tags:
 - vibram-five-fingers
 - waterfall
 ---
-{% flickr 5137530192 %}
+<a href="http://www.flickr.com/photos/zacharyz/5137530192/"><img class="center" src="http://farm2.static.flickr.com/1162/5137530192_a96f749d13_b.jpg"></a>
 
 The Gorge is absolutely stunning right now. The water levels are high and the
 trees are filled with oranges and yellows. If you can find a dry enough day as
 I was lucky enough to this weekend then you need to do yourself a favor and
 make your way out there before all the color disappears.
 
-{% flickr 5137536926 %}
+<a href="http://www.flickr.com/photos/zacharyz/5137536926/"><img class="center" src="http://farm5.static.flickr.com/4153/5137536926_0691dc3087_b.jpg"></a>
 
 This was my first hike in my Vibram Five Finger Trek shoes and it was a
 breeze. They handled the rocky uphill climb with ease and were still

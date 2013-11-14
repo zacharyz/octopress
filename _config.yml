@@ -3,9 +3,13 @@
 # ----------------------- #
 navigation:
 - text: Home
-  url: /index.html
+  url: /
 - text: About
   url: /about
+- text: Archives
+  url: /blog/archives/
+- text: Flickr
+  url: http://www.flickr.com/photos/zacharyz/
 url: http://zadell.com
 title: Zachary Zadell 
 subtitle: 

@@ -14,7 +14,7 @@ tags:
 - zurich
 ---
 
-{% flickr 4866930574 %}
+<a href="http://www.flickr.com/photos/zacharyz/4866930574/"><img class="center" src="http://farm5.static.flickr.com/4097/4866930574_8cda6fe383_b.jpg"></a>
 
 Towards the end of our stay in Zurich Switzerland we decided that we wanted to
 find a good view of the city. The local city information guide recommended
@@ -29,7 +29,7 @@ where we might find the view that the guide had referred to. He didn't speak a
 bit of English but after a few silly gestures from myself - a huge smile
 formed on a his face and he knew exactly what we were looking for.
 
-{% flickr 4866237215 %}
+<a href="http://www.flickr.com/photos/zacharyz/4866237215/"><img class="center" src="http://farm5.static.flickr.com/4079/4866237215_777ed3e365_b.jpg"></a>
 
 A short walk past a simply amazing field of sunflowers revealed a spectacular
 view of the city. From there we could see the Alps in the distance as well as
