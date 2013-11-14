@@ -12,7 +12,7 @@ tags:
 - hawaii 
 - nd1000
 ---
-{% flickr 7163313104 %}
+<a href="http://www.flickr.com/photos/zacharyz/7163313104/"><img class="center" src="http://farm6.static.flickr.com/5321/7163313104_ac418b2b4b_b.jpg"></a>
 
 Out of the few sunsets that I have taken here on Oahu my one regret so far was that I
 had not grabbed a truely pink one yet. The weather conditions have been

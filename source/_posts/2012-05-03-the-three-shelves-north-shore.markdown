@@ -12,4 +12,4 @@ tags:
 - 'long exposure'
 - hawaii
 ---
-{% flickr 7140031025 %}
+<a href="http://www.flickr.com/photos/zacharyz/7140031025/"><img class="center" src="http://farm8.static.flickr.com/7117/7140031025_38ba5023fb_b.jpg"></a>

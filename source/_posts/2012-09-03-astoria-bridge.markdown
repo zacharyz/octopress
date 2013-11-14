@@ -12,4 +12,4 @@ tags:
 - nd1000
 - 'long exposure'
 ---
-{% flickr 7919489252 %}
+<a href="http://www.flickr.com/photos/zacharyz/7919489252/"><img class="center" src="http://farm9.static.flickr.com/8295/7919489252_afbe29381e_b.jpg"></a>

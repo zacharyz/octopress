@@ -11,4 +11,4 @@ tags:
 - 'nikon 50mm'
 - tokyo
 ---
-{% flickr 8597187786 %}
+<a href="http://www.flickr.com/photos/zacharyz/8597187786/"><img class="center" src="http://farm9.static.flickr.com/8227/8597187786_576d328310_b.jpg"></a>

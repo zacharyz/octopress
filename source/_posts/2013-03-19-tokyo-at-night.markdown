@@ -11,9 +11,12 @@ tags:
 - 'nikon 16-35mm'
 - tokyo
 ---
-{% flickr 8593517437 %}
-{% flickr 8593518215 %}
-{% flickr 8594619548 %}
+<a href="http://www.flickr.com/photos/zacharyz/8593517437/"><img class="center" src="http://farm9.static.flickr.com/8511/8593517437_6a1702c300_b.jpg"></a>
+
+<a href="http://www.flickr.com/photos/zacharyz/8593518215/"><img class="center" src="http://farm9.static.flickr.com/8097/8593518215_85c0c9cb50_b.jpg"></a>
+
+<a href="http://www.flickr.com/photos/zacharyz/8594619548/"><img class="center" src="http://farm9.static.flickr.com/8385/8594619548_a950e02c42_b.jpg"></a>
+
 The view from Tokyo Tower observatory.
 
 Tripods were not allowed up here so I got these shots by creatively

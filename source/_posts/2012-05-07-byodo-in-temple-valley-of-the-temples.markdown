@@ -11,4 +11,4 @@ tags:
 - 'nikon 16-35'
 - hawaii 
 ---
-{% flickr 7156944902 %}
+<a href="http://www.flickr.com/photos/zacharyz/7156944902/"><img class="center" src="http://farm8.static.flickr.com/7104/7156944902_a48b69abd9_b.jpg"></a>

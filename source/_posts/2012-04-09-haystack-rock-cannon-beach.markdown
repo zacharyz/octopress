@@ -12,7 +12,7 @@ tags:
 - hdr
 ---
 
-{% flickr 6914996244 %}
+<a href="http://www.flickr.com/photos/zacharyz/6914996244/"><img class="center" src="http://farm8.static.flickr.com/7191/6914996244_c568e07e8b_b.jpg"></a>
 
 Spring is starting to peak it's head out from the rain and the snow here in Oregon. I
 thought I would take advantage of the opportunity and spend the weekend at the coast

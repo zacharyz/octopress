@@ -12,7 +12,7 @@ tags:
 - 'long exposure'
 - hawaii
 ---
-{% flickr 7156959126 %} 
+<a href="http://www.flickr.com/photos/zacharyz/7156959126/"><img class="center" src="http://farm8.static.flickr.com/7097/7156959126_f376b34eb7_b.jpg"></a>
 
 Today marks one week on the island and on vacation.
 

@@ -12,7 +12,7 @@ tags:
 - 'nikon 16-35'
 - panorama
 ---
-{% flickr 8552484961 %}
+<a href="http://www.flickr.com/photos/zacharyz/8552484961/"><img class="center" src="http://farm9.static.flickr.com/8524/8552484961_5b3720e983_b.jpg"></a>
 
 I visited Seoraksan (a mountain in South Korea) in March during my
 3 week trip to South Korea and Japan.
@@ -28,10 +28,10 @@ crystal clear mountain streams in the mountains and you get an idea of
 how awesome and peaceful a place it is. 
 
 
-{% flickr 8552695395 %}
+<a href="http://www.flickr.com/photos/zacharyz/8552695395/"><img class="center" src="http://farm9.static.flickr.com/8240/8552695395_7ddb6a10c9_b.jpg"></a>
 
-{% flickr 8553799276 %}
+<a href="http://www.flickr.com/photos/zacharyz/8553799276/"><img class="center" src="http://farm9.static.flickr.com/8517/8553799276_b55020a002_b.jpg"></a>
 
-{% flickr 8553953733 %}
+<a href="http://www.flickr.com/photos/zacharyz/8553953733/"><img class="center" src="http://farm9.static.flickr.com/8386/8553953733_65297f0002_b.jpg"></a>
 
-{% flickr 8553965873 %}
+<a href="http://www.flickr.com/photos/zacharyz/8553965873/"><img class="center" src="http://farm9.static.flickr.com/8519/8553965873_249ea433c3_b.jpg"></a>

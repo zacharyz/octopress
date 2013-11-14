@@ -8,5 +8,4 @@ title: Fairy Falls
 categories:
 - photography
 ---
-{% flickr 4553153855 %}
-
+<a href="http://www.flickr.com/photos/zacharyz/4553153855/"><img class="center" src="http://farm4.static.flickr.com/3327/4553153855_b25592018b_b.jpg"></a>

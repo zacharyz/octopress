@@ -12,7 +12,7 @@ tags:
 - 'nikon 16-35'
 - panorama
 ---
-{% flickr 8556308202 %}
+<a href="http://www.flickr.com/photos/zacharyz/8556308202/"><img class="center" src="http://farm9.static.flickr.com/8234/8556308202_9a32cbb600_b.jpg"></a>
 
 I visited Palgongsan while visiting family in Daegu South Korea in March during my 3 week trip to South Korea and Japan.
 
