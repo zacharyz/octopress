@@ -14,4 +14,4 @@ tags:
 - panoramas
 ---
 
-{% flickr 5347927449 %}
+<a href="http://www.flickr.com/photos/zacharyz/5347927449/"><img class="center" src="http://farm6.static.flickr.com/5201/5347927449_ec4230e018_b.jpg"></a>

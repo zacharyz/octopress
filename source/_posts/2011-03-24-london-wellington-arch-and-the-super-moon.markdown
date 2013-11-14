@@ -11,7 +11,7 @@ categories:
 - travel
 ---
 
-{% flickr 5544942228 %}
+<a href="http://www.flickr.com/photos/zacharyz/5544942228/"><img class="center" src="http://farm6.static.flickr.com/5131/5544942228_2acc32f8c5_b.jpg"></a>
 
 This picture represents a special memory for me. Not only was it an absolute
 perfect night for photography but I also had a chance to take a picture of the

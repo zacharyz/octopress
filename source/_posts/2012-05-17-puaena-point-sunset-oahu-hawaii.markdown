@@ -11,7 +11,7 @@ tags:
 - 'nikon 16-35'
 - hawaii
 ---
-{% flickr 7187012982 %}
+<a href="http://www.flickr.com/photos/zacharyz/7187012982/"><img class="center" src="http://farm9.static.flickr.com/8017/7187012982_6e18bf4246_b.jpg"></a>
 
 This is was taken just north of the area where I learned to surf while on
 the island.

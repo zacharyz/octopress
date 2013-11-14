@@ -17,7 +17,7 @@ tags:
 - panoramas
 ---
 
-{% flickr 6070827576 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070827576/"><img class="center" src="http://farm7.static.flickr.com/6062/6070827576_18a973e840_b.jpg"></a>
 
 ## You In?
 
@@ -40,7 +40,7 @@ gigantic mountain.
 What better gift to myself than to be able to claim that I conquered another
 mountain?
 
-{% flickr 6070864990 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070864990/"><img class="center" src="http://farm7.static.flickr.com/6201/6070864990_fe656c11ce_b.jpg"></a>
 
 ## What's Involved
 
@@ -59,7 +59,7 @@ and back in 5 hours. We would be traveling with a 90 liter pack filled with
 gear, food and clothing, which would mean we would be traveling much slower
 than he did.
 
-{% flickr 6070277665 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070277665/"><img class="center" src="http://farm7.static.flickr.com/6189/6070277665_f10288fa08_b.jpg"></a>
 
 Weight was always on my mind. None of my gear is particularly light. My pack
 is about 15 years old and no where near being ideal for climbing mountains
@@ -83,7 +83,7 @@ and cooking. We were really concerned about having to carry a tent so we
 sprinted to Muir to make sure that we had a spot in the first come first serve
 hut that is available to climbers for free.
 
-{% flickr 6070260203 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070260203/"><img class="center" src="http://farm7.static.flickr.com/6067/6070260203_c0f96e8dee_b.jpg"></a>
 
 We were able to get good spots and shortly after the place filled up with people who would be
 waking up the same time as we did to tackle the mountain. It seems everyone
@@ -126,13 +126,13 @@ water to drink that didn't involve melting snow.
 Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my [flickr set](http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/).
 
-{% flickr 6070862664 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070862664/"><img class="center" src="http://farm7.static.flickr.com/6073/6070862664_17766d24b9_b.jpg"></a>
 
-{% flickr 6070803122 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070803122/"><img class="center" src="http://farm7.static.flickr.com/6193/6070803122_7ea463fd57_b.jpg"></a>
 
-{% flickr 6070868716 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070868716/"><img class="center" src="http://farm7.static.flickr.com/6192/6070868716_f383f0f060_b.jpg"></a>
 
-{% flickr 6070849602 %}
+<a href="http://www.flickr.com/photos/zacharyz/6070849602/"><img class="center" src="http://farm7.static.flickr.com/6189/6070849602_a5c37f15a0_b.jpg"></a>
 
 _All pictures taken with a Canon G9_
 

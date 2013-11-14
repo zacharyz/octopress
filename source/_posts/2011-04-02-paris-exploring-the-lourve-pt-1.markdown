@@ -14,10 +14,10 @@ tags:
 - paris
 ---
 
-{% flickr 5564142213 %}
+<a href="http://www.flickr.com/photos/zacharyz/5564142213/"><img class="center" src="http://farm6.static.flickr.com/5253/5564142213_caa828d762_b.jpg"></a>
 
-{% flickr 5564720516 %}
+<a href="http://www.flickr.com/photos/zacharyz/5564720516/"><img class="center" src="http://farm6.static.flickr.com/5138/5564720516_75dcc8fb18_b.jpg"></a>
 
-{% flickr 5564771994 %}
+<a href="http://www.flickr.com/photos/zacharyz/5564771994/"><img class="center" src="http://farm6.static.flickr.com/5172/5564771994_ed4e32c2d3_b.jpg"></a>
 
-{% flickr 5564723118 %}
+<a href="http://www.flickr.com/photos/zacharyz/5564723118/"><img class="center" src="http://farm6.static.flickr.com/5227/5564723118_bd794dcbdd_b.jpg"></a>

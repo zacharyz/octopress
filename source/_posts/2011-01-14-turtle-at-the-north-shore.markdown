@@ -11,4 +11,4 @@ categories:
 - travel
 ---
 
-{% flickr 5334301353 %}
+<a href="http://www.flickr.com/photos/zacharyz/5334301353/"><img class="center" src="http://farm6.static.flickr.com/5127/5334301353_19e76966b9_b.jpg"></a>
