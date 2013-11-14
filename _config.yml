@@ -1,7 +1,11 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+navigation:
+- text: Home
+  url: /index.html
+- text: About
+  url: /about
 url: http://zadell.com
 title: Zachary Zadell 
 subtitle: 

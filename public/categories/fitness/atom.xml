@@ -4,7 +4,7 @@
   <title><![CDATA[Category: fitness | Zachary Zadell]]></title>
   <link href="http://zadell.com/categories/fitness/atom.xml" rel="self"/>
   <link href="http://zadell.com/"/>
-  <updated>2013-07-18T19:10:58-07:00</updated>
+  <updated>2013-11-14T10:00:53-08:00</updated>
   <id>http://zadell.com/</id>
   <author>
     <name><![CDATA[Zachary Zadell]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zadell.com/2011/mount-rainier/"/>
     <updated>2011-08-24T16:32:23-07:00</updated>
     <id>http://zadell.com/2011/mount-rainier</id>
-    <content type="html"><![CDATA[<p>{% flickr 6070827576 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='6070827576'><a href=http://www.flickr.com/photos/zacharyz/6070827576/><img class='center' src='http://farm7.static.flickr.com/6062/6070827576_18a973e840_b.jpg'></a><h2><span>Little Tahoma at Sunrise</span></h2></div></p>
 
 <h2>You In?</h2>
 
@@ -40,7 +40,7 @@ gigantic mountain.</p>
 <p>What better gift to myself than to be able to claim that I conquered another
 mountain?</p>
 
-<p>{% flickr 6070864990 %}</p>
+<p><div class='image' id='6070864990'><a href=http://www.flickr.com/photos/zacharyz/6070864990/><img class='center' src='http://farm7.static.flickr.com/6201/6070864990_fe656c11ce_b.jpg'></a><h2><span>Little Tahoma and the Glacier</span></h2></div></p>
 
 <h2>What's Involved</h2>
 
@@ -59,7 +59,7 @@ and back in 5 hours. We would be traveling with a 90 liter pack filled with
 gear, food and clothing, which would mean we would be traveling much slower
 than he did.</p>
 
-<p>{% flickr 6070277665 %}</p>
+<p><div class='image' id='6070277665'><a href=http://www.flickr.com/photos/zacharyz/6070277665/><img class='center' src='http://farm7.static.flickr.com/6189/6070277665_f10288fa08_b.jpg'></a><h2><span>Rainier Sunrise</span></h2></div></p>
 
 <p>Weight was always on my mind. None of my gear is particularly light. My pack
 is about 15 years old and no where near being ideal for climbing mountains
@@ -83,7 +83,7 @@ and cooking. We were really concerned about having to carry a tent so we
 sprinted to Muir to make sure that we had a spot in the first come first serve
 hut that is available to climbers for free.</p>
 
-<p>{% flickr 6070260203 %}</p>
+<p><div class='image' id='6070260203'><a href=http://www.flickr.com/photos/zacharyz/6070260203/><img class='center' src='http://farm7.static.flickr.com/6067/6070260203_c0f96e8dee_b.jpg'></a><h2><span>Camp Muir Sunset</span></h2></div></p>
 
 <p>We were able to get good spots and shortly after the place filled up with people who would be
 waking up the same time as we did to tackle the mountain. It seems everyone
@@ -129,13 +129,13 @@ water to drink that didn't involve melting snow.</p>
 <p>Thanks for reading and enjoy the rest of the pictures. The rest of my shots
 and video from the trip can be found at on my <a href="http://www.flickr.com/photos/zacharyz/sets/72157627370662365/with/6070324037/">flickr set</a>.</p>
 
-<p>{% flickr 6070862664 %}</p>
+<p><div class='image' id='6070862664'><a href=http://www.flickr.com/photos/zacharyz/6070862664/><img class='center' src='http://farm7.static.flickr.com/6073/6070862664_17766d24b9_b.jpg'></a><h2><span>Little Tahoma Panorama</span></h2></div></p>
 
-<p>{% flickr 6070803122 %}</p>
+<p><div class='image' id='6070803122'><a href=http://www.flickr.com/photos/zacharyz/6070803122/><img class='center' src='http://farm7.static.flickr.com/6193/6070803122_7ea463fd57_b.jpg'></a><h2><span>Relaxing at Camp Miur</span></h2></div></p>
 
-<p>{% flickr 6070868716 %}</p>
+<p><div class='image' id='6070868716'><a href=http://www.flickr.com/photos/zacharyz/6070868716/><img class='center' src='http://farm7.static.flickr.com/6192/6070868716_f383f0f060_b.jpg'></a><h2><span>Relaxing by a mountain stream</span></h2></div></p>
 
-<p>{% flickr 6070849602 %}</p>
+<p><div class='image' id='6070849602'><a href=http://www.flickr.com/photos/zacharyz/6070849602/><img class='center' src='http://farm7.static.flickr.com/6189/6070849602_a5c37f15a0_b.jpg'></a><h2><span>Victory at the top of Mount Rainer</span></h2></div></p>
 
 <p><em>All pictures taken with a Canon G9</em></p>
 ]]></content>
@@ -154,7 +154,7 @@ mode and returned to enjoying good food. The problem is I have apparently been
 enjoying myself a little too much and have crossed what I consider to be my
 weight <em>limit</em>.</p>
 
-<p>{% img right http://farm6.static.flickr.com/5276/5906418694_b04e8aa994_m.jpg %}</p>
+<p><img class="right" src="http://farm6.static.flickr.com/5276/5906418694_b04e8aa994_m.jpg"></p>
 
 <p>Well it is time to get back on the wagon again. If my experience with weight
 loss has taught me anything it is that weight loss is at least 80% diet, and I
@@ -181,7 +181,7 @@ eating good food completely (I don't hate myself that much). What I do need to
 do is to eat smaller portions. So instead of 20 delicious wings of King's
 Wings I will instead order ~6.</p>
 
-<p>{% img left http://farm6.static.flickr.com/5116/5905875503_cefd7d5243_m.jpg %}</p>
+<p><img class="left" src="http://farm6.static.flickr.com/5116/5905875503_cefd7d5243_m.jpg"></p>
 
 <p>The last time I dieted my most recorded food was ice cream. The key for me then was
 instead of eating the entire pint I would only eat a single serving at a time
@@ -203,7 +203,7 @@ friends who can then share in your success when you do reach your goals.</p>
     <link href="http://zadell.com/2011/summiting-mount-hood/"/>
     <updated>2011-06-07T17:44:46-07:00</updated>
     <id>http://zadell.com/2011/summiting-mount-hood</id>
-    <content type="html"><![CDATA[<p>{% flickr 5801412964 %}</p>
+    <content type="html"><![CDATA[<p><div class='image' id='5801412964'><a href=http://www.flickr.com/photos/zacharyz/5801412964/><img class='center' src='http://farm6.static.flickr.com/5316/5801412964_e30f23d3ce_b.jpg'></a><h2><span>Road to the Pearly Gates Panorama</span></h2></div></p>
 
 <p>Whenever I cross the Morrison bridge on a clear day in Portland one particular
 object seems to stand out on the horizon - <a href="http://en.wikipedia.org/wiki/Mount_Hood">Mount Hood</a>.
@@ -238,7 +238,7 @@ the cold wasn't affecting me at all. I actually stripped down to my underwear
 and changed in the middle of the parking lot while everyone else huddled in
 the car.</p>
 
-<p>{% flickr 5800822641 %}</p>
+<p><div class='image' id='5800822641'><a href=http://www.flickr.com/photos/zacharyz/5800822641/><img class='center' src='http://farm3.static.flickr.com/2087/5800822641_29c6542bff_b.jpg'></a><h2><span>The Start of the Hike at Timberline</span></h2></div></p>
 
 <p>We started the climb at 1:40am. Climbers try to Summit before the sun fully
 rises as the final part of the hike can get dangerous when the snow begins to
@@ -251,25 +251,25 @@ in physically there would come a time where I would be looking at my feet
 focusing on each individual step and would have to will myself to continue on.
 This happened quite often during the hike.</p>
 
-<p>{% flickr 5800830697 %}</p>
+<p><div class='image' id='5800830697'><a href=http://www.flickr.com/photos/zacharyz/5800830697/><img class='center' src='http://farm4.static.flickr.com/3267/5800830697_87ba4236a4_b.jpg'></a><h2><span>Enjoying the First Light</span></h2></div></p>
 
-<p>{% flickr 5801391942 %}</p>
+<p><div class='image' id='5801391942'><a href=http://www.flickr.com/photos/zacharyz/5801391942/><img class='center' src='http://farm4.static.flickr.com/3461/5801391942_4fddd0eee0_b.jpg'></a><h2><span>Chasing the Mountain Shadow</span></h2></div></p>
 
 <p>Despite the strong winds we managed to completely avoid losing any gear. At
 least 3 times we had a piece of equipment fly off down the mountain only to be
 chased down and retrieved by Craig.</p>
 
-<p>{% flickr 5801399002 %}</p>
+<p><div class='image' id='5801399002'><a href=http://www.flickr.com/photos/zacharyz/5801399002/><img class='center' src='http://farm6.static.flickr.com/5067/5801399002_92de94a5fd_b.jpg'></a><h2><span>Enjoying the Mountain Light</span></h2></div></p>
 
-<p>{% flickr 5801404006 %}</p>
+<p><div class='image' id='5801404006'><a href=http://www.flickr.com/photos/zacharyz/5801404006/><img class='center' src='http://farm3.static.flickr.com/2342/5801404006_9d116ab4d3_b.jpg'></a><h2><span>Mountain Light</span></h2></div></p>
 
 <p>One of my favorite parts of the hike was when the sun was still rising on the
 other side of the mountain. This would cause the snow to melt and blow over
 the peak. The sun would catch on the snow and light it up.</p>
 
-<p>{% flickr 5801407450 %}</p>
+<p><div class='image' id='5801407450'><a href=http://www.flickr.com/photos/zacharyz/5801407450/><img class='center' src='http://farm4.static.flickr.com/3556/5801407450_d0e713bf9b_b.jpg'></a><h2><span>Mount Hood Panorama</span></h2></div></p>
 
-<p>{% flickr 5800856449 %}</p>
+<p><div class='image' id='5800856449'><a href=http://www.flickr.com/photos/zacharyz/5800856449/><img class='center' src='http://farm3.static.flickr.com/2653/5800856449_58e15b51d4_b.jpg'></a><h2><span>Taking a Break</span></h2></div></p>
 
 <p>We kept a pretty slow pace. The softness of the snow ment that if your footing
 wasn't sure then you would be sliding back down. Repeating that over thousands
@@ -296,17 +296,17 @@ yourself while you kick your feet into solid footing. The entire time there is
 the risk that you will slip and slide down uncontrollably into a crevice at
 the bottom.</p>
 
-<p>{% flickr 5801414860 %}</p>
+<p><div class='image' id='5801414860'><a href=http://www.flickr.com/photos/zacharyz/5801414860/><img class='center' src='http://farm6.static.flickr.com/5319/5801414860_9274fe7933_b.jpg'></a><h2><span>At the Pearly Gates</span></h2></div></p>
 
 <p>8 Hours later though and we were at the top.</p>
 
-<p>{% flickr 5801421406 %}</p>
+<p><div class='image' id='5801421406'><a href=http://www.flickr.com/photos/zacharyz/5801421406/><img class='center' src='http://farm3.static.flickr.com/2242/5801421406_1a6464af25_b.jpg'></a><h2><span>At the Summit</span></h2></div></p>
 
-<p>{% flickr 5800869465 %}</p>
+<p><div class='image' id='5800869465'><a href=http://www.flickr.com/photos/zacharyz/5800869465/><img class='center' src='http://farm6.static.flickr.com/5186/5800869465_32a2f800c0_b.jpg'></a><h2><span>Craig at the Summit</span></h2></div></p>
 
-<p>{% flickr 5800875441 %}</p>
+<p><div class='image' id='5800875441'><a href=http://www.flickr.com/photos/zacharyz/5800875441/><img class='center' src='http://farm4.static.flickr.com/3198/5800875441_4a5b758fbf_b.jpg'></a><h2><span>Jon at the Summit</span></h2></div></p>
 
-<p>{% flickr 5800862369 %}</p>
+<p><div class='image' id='5800862369'><a href=http://www.flickr.com/photos/zacharyz/5800862369/><img class='center' src='http://farm4.static.flickr.com/3578/5800862369_07d54cf9d7_b.jpg'></a><h2><span>It is a long ways down from the Pearly Gates</span></h2></div></p>
 
 <p>The trip back down was actually the hardest part of the hike. Coming up we
 couldn't actually see how far we had to go or how high we had to climb because
@@ -353,7 +353,7 @@ quality but it is a perk that I definitely appreciate and don't get to take
 advantage of because I work remotely. There is just enough variety that I
 don't have to deviate from my diet.</p>
 
-<p><a href="http://www.flickr.com/photos/zacharyz/5514732854/">{% img right http://farm6.static.flickr.com/5140/5514732854_4ce4d6fee6_d.jpg %}</a></p>
+<p><a href="http://www.flickr.com/photos/zacharyz/5514732854/"><img class="right" src="http://farm6.static.flickr.com/5140/5514732854_4ce4d6fee6_d.jpg"></a></p>
 
 <p>I plan to spend my first weekend here decompressing from a busy but productive
 week of work by mostly reading on my kindle. The weather is going to be decent
@@ -393,7 +393,7 @@ sporadicly, so every time it feels like we have to learn the basics over
 again. By the time we are finish we feel like we know what we are doing but
 then the process repeats itself.</p>
 
-<p><a href="http://www.flickr.com/photos/zacharyz/5314866632/">{% img center http://farm6.static.flickr.com/5201/5314866632_b7853a7835_b.jpg Snow Boarding Pro %}</a></p>
+<p><a href="http://www.flickr.com/photos/zacharyz/5314866632/"><img class="center" src="http://farm6.static.flickr.com/5201/5314866632_b7853a7835_b.jpg" title="Snow Boarding Pro" ></a></p>
 
 <p>We don't own a 4wd vehicle so we used a bus service to get to Mount Hood. This
 involves parking our car some place, then sleeping on the bus for 2 hours
@@ -413,7 +413,7 @@ Apparently I wasn't the only person to recently be in the same situation.
 Eventually I pushed and hiked my way through the snow until I got to a clear
 hill and was on my way again.</p>
 
-<p><a href="http://www.flickr.com/photos/zacharyz/5318278146/">{% img center http://farm6.static.flickr.com/5049/5318278146_155bae42da_b.jpg Cascade Express %}</a></p>
+<p><a href="http://www.flickr.com/photos/zacharyz/5318278146/"><img class="center" src="http://farm6.static.flickr.com/5049/5318278146_155bae42da_b.jpg" title="Cascade Express" ></a></p>
 
 <p>After spending some time around the newbie coarse I eventually became more
 comfortable riding the snow board and decided to make my way up the mountain.

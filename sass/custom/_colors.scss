@@ -1,99 +1,15 @@
-// Here you can easily change your sites's color scheme.
-// To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
-// If you need a handy color picker try http://hslpicker.com
-
-//$header-bg: #fff;
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
-//$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+// Customize the colors of Octoflat Here
 
 
-/* To use the light Solarized highlighting theme uncomment the following line */
-//$solarized: light;
-
-/* If you want to tweak the Solarized colors you can do that here */
-//$base03:          #002b36; //darkest blue
-//$base02:          #073642; //dark blue
-//$base01:          #586e75; //darkest gray
-//$base00:          #657b83; //dark gray
-//$base0:           #839496; //medium gray
-//$base1:           #93a1a1; //medium light gray
-//$base2:           #eee8d5; //cream
-//$base3:           #fdf6e3; //white
-//$solar-yellow:    #b58900;
-//$solar-orange:    #cb4b16;
-//$solar-red:       #dc322f;
-//$solar-magenta:   #d33682;
-//$solar-violet:    #6c71c4;
-//$solar-blue:      #268bd2;
-//$solar-cyan:      #2aa198;
-//$solar-green:     #859900;
-
-
-/* Non highlighted code colors */
-//$pre-bg: $base03;
-//$pre-border: darken($base02, 5);
-//$pre-color: $base1;
-$noise-bg: image-url('noise.png') top left !default;
-$img-border: inline-image('dotted-border.png');
-
-$title-color: #fff !default;
-$subtitle-color: #aaa !default;
-$primary-color: #333A42;
-//$primary-color: #333;
-$header-bg: #333A42;
-
-// Main Section Colors
-$main-bg: $primary-color !default;
-$page-bg: $primary-color !default;
-$article-border: #eeeeee !default;
-$title-color: #000 !default;
-$article-border: $primary-color !default;
-$img-border: none;
-
-
-/* Navigation */
-$nav-bg: $primary-color  !default;
-//$nav-bg-front: image-url('noise.png') !default;
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11)) !default;
-
-$nav-color: lighten($nav-bg, 62) !default;
-//$nav-color: #fff;
-$nav-color-hover: lighten($nav-color, 75) !default;
-$nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
-$nav-border: darken($nav-bg, 10) !default;
-$nav-border-top: lighten($nav-bg, 15) !default;
-$nav-border-bottom: darken($nav-bg, 25) !default;
-$nav-border-left: darken($nav-bg, 11) !default;
-$nav-border-right: lighten($nav-bg, 7) !default;
-
-$footer-bg: $header-bg !default;
-
-$text-color: #fff !default;
-$text-color-light: #aaa !default;
-
-// Main Link Colors
-$link-color: lighten(#165b94, 10) !default;
-$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
-$link-color-visited: adjust-color($link-color, $hue: 90, $lightness: 10) !default;
-$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
-
-
-$sidebar-bg: $primary-color !default;
-$sidebar-link-color: $link-color !default;
-$sidebar-link-color-hover: $link-color-hover !default;
-$sidebar-link-color-active: $link-color-active !default;
-$sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2) !default;
-$sidebar-border: desaturate(darken($sidebar-bg, 7), 10) !default;
-$sidebar-border-hover: darken($sidebar-bg, 7) !default;
-$sidebar-link-color-subdued: lighten($sidebar-color, 20) !default;
-$sidebar-link-color-subdued-hover: $sidebar-link-color-hover !default;
-$twitter-status-link: lighten($sidebar-link-color-subdued, 15) !default;
-
+$primary-color:      #99CCFF; // Jumbotron, Horizontal Rules, Headings
+$secondary-color:    #99CCFF; // Tags, Links, Main Heading, Quote Border
+$tertiary-color:     #A7A7A7; // Hover-over color, Active Page color
+$accent-color1:      #ffffff; // Hover-over background color for tags
+$accent-color2:      #B8BEC0; // Sub-headings, Date Stamp
+$accent-color3:      #333a42; // Navbar Text, Tag text
+$bg-color:           #333a42; // Background
+$navbar-color:       #99CCFF; // Navbar
+$code-bg-color:      #2C3E50; // Code background
+$quote-color:        #E74C3C; // Quote Color
+$text-color:         #B8BEC0; // Body Text
+$footer-color:       #7F8C8D; // Footer
