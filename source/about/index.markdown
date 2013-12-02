@@ -16,7 +16,7 @@ and products for like minded developers. There I am one of the primary developer
 <p>My weapons of choice are Ruby and Javascript using primarily Ruby on Rails and
 more recently Express and Node.js.</p>
 
-<p>Prior to life as a web developer I spent about 5 years working in the
+<p>Prior to life as a web developer I spent 5 years working in the
 game industry at <a href="http://en.wikipedia.org/wiki/GarageGames">GarageGames</a> who was successfully acquired by IAC. There I worked on a variety of games, engines and projects with a focus on advanced graphics, physics, artificial intelligence and particle systems.</p>
 
 <p>I moved to Portland in 2010 and have since fallen in love with local
@@ -41,5 +41,6 @@ systems engineer and fruit picker in a rain-forest. Feel free to visit my
 	<p>email: <a href="mailto:hello@zadell.com">hello@zadell.com</a></p>
 
     <p>connect: <a href="http://twitter.com/zzadell">twitter</a>, <a href="http://www.linkedin.com/in/zacharyz">linkedin</a></p>
+    <p><a href="https://www.dropbox.com/s/6odrsbisphr499q/Zachary%20Zadell%20Resume%202013.pdf">resume</p>
 </div>
 </div>
