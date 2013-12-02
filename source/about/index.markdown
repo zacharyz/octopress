@@ -11,13 +11,14 @@ sharing: false
 <p>I am a software developer and photographer based out of Portland, Oregon. </p>
 
 <p>I work for a local startup called <a href="http://www.appfog.com">AppFog</a> where we build tools
-and products for like minded developers. There I am one of the primary developers on our application console, marketing sites and add-ons program. In June of 2013 we were <a href="http://www.infoworld.com/d/virtualization/centurylink-acquires-appfog-offer-multicloud-paas-221307">acquired</a> by a big company.</p>
+and products for like minded developers (over 100k+ of them). There I am the senior software engineer in charge of our application console, related services and sites. In June of 2013 we were <a href="http://www.infoworld.com/d/virtualization/centurylink-acquires-appfog-offer-multicloud-paas-221307">acquired</a> by a big company.</p>
 
-<p>My weapons of choice are Ruby and Javascript using primarily Ruby on Rails and
-more recently Express and Node.js.</p>
+<p>My weapons of choice are Ruby and Javascript using primarily Ruby on Rails, Express and Node.js.</p>
 
-<p>Prior to life as a web developer I spent 5 years working in the
-game industry at <a href="http://en.wikipedia.org/wiki/GarageGames">GarageGames</a> who was successfully acquired by IAC. There I worked on a variety of games, engines and projects with a focus on advanced graphics, physics, artificial intelligence and particle systems.</p>
+<p>More recently I been focusing on iOS development, Machine Learning and Data Visualization.</p>
+
+<p>I spent 5 years working at a startup in the
+game industry at <a href="http://en.wikipedia.org/wiki/GarageGames">GarageGames</a> who was successfully acquired by IAC in 2007. There I worked on a variety of games, engines and projects with a focus on advanced graphics, physics, artificial intelligence and particle systems. I helped grow the company from a handful of developer to over 200 employees and pioneer what would become the indie game development community.</p>
 
 <p>I moved to Portland in 2010 and have since fallen in love with local
 microbrews, food carts and minimalist running. </p>
